@@ -1,0 +1,827 @@
+{
+  "ID": "fbb4562b-a136-4231-9862-8e98f088846e",
+  "Version": "2.3.3.0",
+  "Name": "WuHanHead",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Children": [
+          {
+            "BackColorAlpha": 0,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": -27.2836
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": -0.1819
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "TopMargin": 27.2836,
+            "BottomMargin": -27.2836,
+            "CallBackType": "Click",
+            "Tag": 239,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "img_dikuang.png",
+                  "Plist": "MajhongBase/Resoures/tableclock.plist"
+                },
+                "Scale9Width": 69,
+                "Scale9Height": 106,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 53.872,
+                  "Y": 83.62
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.518,
+                  "Y": 0.5575
+                },
+                "PreSize": {
+                  "X": 0.6635,
+                  "Y": 0.7067
+                },
+                "LeftMargin": 19.372,
+                "RightMargin": 15.628,
+                "TopMargin": 13.38,
+                "BottomMargin": 30.62,
+                "Tag": 250,
+                "ActionTag": -1650082460,
+                "Size": {
+                  "X": 69.0,
+                  "Y": 106.0
+                },
+                "Name": "image_frame",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "female.png",
+                  "Plist": "GameHall/Resoures/common.plist"
+                },
+                "BlendFunc": {
+                  "Src": 770,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 54.0,
+                  "Y": 102.08
+                },
+                "Scale": {
+                  "ScaleX": 0.64,
+                  "ScaleY": 0.64
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5192,
+                  "Y": 0.6805
+                },
+                "PreSize": {
+                  "X": 0.9808,
+                  "Y": 0.68
+                },
+                "LeftMargin": 3.0,
+                "RightMargin": -1.0,
+                "TopMargin": -3.08,
+                "BottomMargin": 51.08,
+                "Tag": 246,
+                "ActionTag": -1622123219,
+                "Size": {
+                  "X": 102.0,
+                  "Y": 102.0
+                },
+                "Name": "sprite_head",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 20,
+                "LabelText": "保健侠盗..aaaaaa\na啊",
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 54.08,
+                  "Y": 41.0
+                },
+                "Scale": {
+                  "ScaleX": 0.65,
+                  "ScaleY": 0.8527
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.52,
+                  "Y": 0.2733
+                },
+                "PreSize": {
+                  "X": 1.4423,
+                  "Y": 0.1333
+                },
+                "LeftMargin": -20.92,
+                "RightMargin": -25.08,
+                "TopMargin": 99.0,
+                "BottomMargin": 31.0,
+                "Tag": 241,
+                "ActionTag": -854416496,
+                "Size": {
+                  "X": 150.0,
+                  "Y": 20.0
+                },
+                "Name": "text_name",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 20,
+                "LabelText": "1000",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "font/DFYuanW7-GB2312.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "R": 128,
+                  "G": 0,
+                  "B": 128
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 52.0,
+                  "Y": 56.57
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 239,
+                  "G": 175,
+                  "B": 55
+                },
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.3771
+                },
+                "PreSize": {
+                  "X": 0.7692,
+                  "Y": 0.16
+                },
+                "LeftMargin": 12.0,
+                "RightMargin": 12.0,
+                "TopMargin": 81.43,
+                "BottomMargin": 44.57,
+                "Tag": 242,
+                "ActionTag": -498633193,
+                "Size": {
+                  "X": 80.0,
+                  "Y": 24.0
+                },
+                "Name": "text_score",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "off_line_sign.png",
+                  "Plist": "MajhongBase/Resoures/table_other.plist"
+                },
+                "Scale9Width": 63,
+                "Scale9Height": 41,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 73.034,
+                  "Y": 128.4144
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7022,
+                  "Y": 0.8561
+                },
+                "PreSize": {
+                  "X": 0.6058,
+                  "Y": 0.2733
+                },
+                "LeftMargin": 41.534,
+                "RightMargin": -0.534,
+                "TopMargin": 1.0856,
+                "BottomMargin": 107.9144,
+                "Tag": 243,
+                "ActionTag": -774511210,
+                "Size": {
+                  "X": 63.0,
+                  "Y": 41.0
+                },
+                "Name": "img_offline",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "banker_sign.png",
+                  "Plist": "MajhongBase/Resoures/table_other.plist"
+                },
+                "BlendFunc": {
+                  "Src": 770,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 27.9112,
+                  "Y": 125.434
+                },
+                "Scale": {
+                  "ScaleX": 0.7,
+                  "ScaleY": 0.7
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2684,
+                  "Y": 0.8362
+                },
+                "PreSize": {
+                  "X": 0.4038,
+                  "Y": 0.2933
+                },
+                "LeftMargin": 6.9112,
+                "RightMargin": 55.0888,
+                "TopMargin": 2.566,
+                "BottomMargin": 103.434,
+                "Tag": 245,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Default",
+                      "Path": "Default/ImageFile.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 46,
+                    "Scale9Height": 46,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 35.3475,
+                      "Y": 37.1282
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8416,
+                      "Y": 0.8438
+                    },
+                    "PreSize": {
+                      "X": 0.5238,
+                      "Y": 0.5
+                    },
+                    "LeftMargin": 24.3475,
+                    "RightMargin": -4.3475,
+                    "TopMargin": -4.1282,
+                    "BottomMargin": 26.1282,
+                    "Tag": 263,
+                    "Children": [
+                      {
+                        "FontSize": 16,
+                        "LabelText": "12",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "font/DFYuanW7-GB2312.ttf",
+                          "Plist": ""
+                        },
+                        "HorizontalAlignmentType": "HT_Center",
+                        "VerticalAlignmentType": "VT_Center",
+                        "OutlineColor": {},
+                        "ShadowColor": {},
+                        "ShadowOffsetX": 0.0,
+                        "ShadowOffsetY": 0.0,
+                        "ShadowEnabled": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 8.8,
+                          "Y": 11.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.4,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.8182,
+                          "Y": 0.7273
+                        },
+                        "LeftMargin": -0.2,
+                        "RightMargin": 4.2,
+                        "TopMargin": 3.0,
+                        "BottomMargin": 3.0,
+                        "Tag": 264,
+                        "ActionTag": 45464697,
+                        "Size": {
+                          "X": 18.0,
+                          "Y": 16.0
+                        },
+                        "Name": "text_bankerCount",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": -851671853,
+                    "Size": {
+                      "X": 22.0,
+                      "Y": 22.0
+                    },
+                    "Name": "sprite_bankerCount",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": 1731961021,
+                "Size": {
+                  "X": 42.0,
+                  "Y": 44.0
+                },
+                "Name": "sprite_banker",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "xinhao1.png",
+                  "Plist": "MajhongBase/Resoures/table_other.plist"
+                },
+                "BlendFunc": {
+                  "Src": 770,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5938,
+                  "ScaleY": 0.5833
+                },
+                "Position": {
+                  "X": -18.9721,
+                  "Y": 129.8911
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "RotationSkewX": -90.0,
+                "RotationSkewY": -90.0,
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": -0.1824,
+                  "Y": 0.8659
+                },
+                "PreSize": {
+                  "X": 0.4615,
+                  "Y": 0.28
+                },
+                "LeftMargin": -47.4745,
+                "RightMargin": 103.4745,
+                "TopMargin": 2.6075,
+                "BottomMargin": 105.3925,
+                "Tag": 249,
+                "ActionTag": -615253666,
+                "Size": {
+                  "X": 48.0,
+                  "Y": 42.0
+                },
+                "Name": "sprite_speaker",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "msg_bubble_left.png",
+                  "Plist": "MajhongBase/Resoures/table_other.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 44,
+                "Scale9OriginY": 17,
+                "Scale9Width": 1,
+                "Scale9Height": 18,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 84.3455,
+                  "Y": 117.781
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.811,
+                  "Y": 0.7852
+                },
+                "PreSize": {
+                  "X": 2.4519,
+                  "Y": 0.4267
+                },
+                "LeftMargin": 84.3455,
+                "RightMargin": -235.3455,
+                "TopMargin": 0.219,
+                "BottomMargin": 85.781,
+                "CallBackType": "Click",
+                "Tag": 80,
+                "ActionTag": 110684361,
+                "Size": {
+                  "X": 255.0,
+                  "Y": 64.0
+                },
+                "Name": "sprite_msg_right",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 21,
+                "LabelText": "一二三四五六七八九十",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "font/DFYuanW7-GB2312.ttf",
+                  "Plist": ""
+                },
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 1.0
+                },
+                "Position": {
+                  "X": 121.3359,
+                  "Y": 142.7664
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 1.1667,
+                  "Y": 0.9518
+                },
+                "PreSize": {
+                  "X": 1.9231,
+                  "Y": 0.32
+                },
+                "LeftMargin": 121.3359,
+                "RightMargin": -217.3359,
+                "TopMargin": 7.2336,
+                "BottomMargin": 94.7664,
+                "Tag": 63,
+                "ActionTag": -507272363,
+                "Size": {
+                  "X": 200.0,
+                  "Y": 48.0
+                },
+                "Name": "text_msg_right",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "msg_bubble_right.png",
+                  "Plist": "MajhongBase/Resoures/table_other.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 20,
+                "Scale9OriginY": 17,
+                "Scale9Width": 1,
+                "Scale9Height": 18,
+                "AnchorPoint": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 17.7935,
+                  "Y": 120.3372
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1711,
+                  "Y": 0.8022
+                },
+                "PreSize": {
+                  "X": 2.4519,
+                  "Y": 0.4267
+                },
+                "LeftMargin": -237.2065,
+                "RightMargin": 86.2065,
+                "TopMargin": -2.3372,
+                "BottomMargin": 88.3372,
+                "Tag": 82,
+                "ActionTag": -1900859573,
+                "Size": {
+                  "X": 255.0,
+                  "Y": 64.0
+                },
+                "Name": "sprite_msg_left",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 21,
+                "LabelText": "一二三四五六七八九十",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "font/DFYuanW7-GB2312.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Right",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "Position": {
+                  "X": -17.2514,
+                  "Y": 145.6951
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": -0.1659,
+                  "Y": 0.9713
+                },
+                "PreSize": {
+                  "X": 1.9231,
+                  "Y": 0.32
+                },
+                "LeftMargin": -217.2514,
+                "RightMargin": 121.2514,
+                "TopMargin": 4.3049,
+                "BottomMargin": 97.6951,
+                "CallBackType": "Touch",
+                "Tag": 244,
+                "ActionTag": 960922706,
+                "Size": {
+                  "X": 200.0,
+                  "Y": 48.0
+                },
+                "Name": "text_msg_left",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "im13.png",
+                  "Plist": "GameHall/Resoures/pdkChat.plist"
+                },
+                "Scale9Width": 48,
+                "Scale9Height": 48,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -32.0,
+                  "Y": 130.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": -0.3077,
+                  "Y": 0.8667
+                },
+                "PreSize": {
+                  "X": 0.4615,
+                  "Y": 0.32
+                },
+                "LeftMargin": -56.0,
+                "RightMargin": 112.0,
+                "TopMargin": -4.0,
+                "BottomMargin": 106.0,
+                "CallBackType": "Touch",
+                "Tag": 248,
+                "ActionTag": -1883487442,
+                "Size": {
+                  "X": 48.0,
+                  "Y": 48.0
+                },
+                "Name": "sprite_face",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/ImageFile.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 46,
+                "Scale9Height": 46,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 4.0,
+                  "Y": 98.0
+                },
+                "Scale": {
+                  "ScaleX": 0.4,
+                  "ScaleY": 0.4
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0385,
+                  "Y": 0.6533
+                },
+                "PreSize": {
+                  "X": 0.7596,
+                  "Y": 0.28
+                },
+                "LeftMargin": -35.5,
+                "RightMargin": 60.5,
+                "TopMargin": 31.0,
+                "BottomMargin": 77.0,
+                "Tag": 139,
+                "ActionTag": 153916648,
+                "Size": {
+                  "X": 79.0,
+                  "Y": 42.0
+                },
+                "Name": "img_maizhuang",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": -334063629,
+            "Size": {
+              "X": 104.0,
+              "Y": 150.0
+            },
+            "Name": "panel_root",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 104.0,
+          "Y": 150.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../Default/ImageFile.png",
+        "../font/DFYuanW7-GB2312.ttf",
+        "../GameHall/Resoures/common.plist",
+        "../GameHall/Resoures/common.png",
+        "../GameHall/Resoures/pdkChat.plist",
+        "../GameHall/Resoures/pdkChat.png",
+        "../MajhongBase/Resoures/table_other.plist",
+        "../MajhongBase/Resoures/table_other.png",
+        "../MajhongBase/Resoures/tableclock.plist",
+        "../MajhongBase/Resoures/tableclock.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

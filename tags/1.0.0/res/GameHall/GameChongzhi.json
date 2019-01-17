@@ -1,0 +1,270 @@
+{
+  "ID": "b57838e3-56ab-4b06-b6c3-4149bd783d09",
+  "Version": "2.3.3.0",
+  "Name": "GameChongzhi",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 56,
+        "Children": [
+          {
+            "BackColorAlpha": 63,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.2899,
+              "Y": 11.1303
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0002,
+              "Y": 0.0155
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "LeftMargin": 0.2899,
+            "RightMargin": -0.2899,
+            "TopMargin": -11.1302,
+            "BottomMargin": 11.1303,
+            "Tag": 57,
+            "Children": [
+              {
+                "BackColorAlpha": 0,
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "GameHall/Resoures/large/chongzhi.png",
+                  "Plist": ""
+                },
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 752,
+                "Scale9Height": 511,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 638.9763,
+                  "Y": 360.2822
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.4992,
+                  "Y": 0.5004
+                },
+                "PreSize": {
+                  "X": 0.4477,
+                  "Y": 0.4167
+                },
+                "LeftMargin": 352.4763,
+                "RightMargin": 354.5237,
+                "TopMargin": 209.7178,
+                "BottomMargin": 210.2822,
+                "Tag": 58,
+                "Children": [
+                  {
+                    "FontSize": 25,
+                    "LabelText": "1、联系客服充值\n\n   微信号：Hongzhonglaizigang1\n\n      1钻 = 1元",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/DFYuanW7-GB2312.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 41.9255,
+                      "Y": 184.2363
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 72,
+                      "G": 93,
+                      "B": 101
+                    },
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.0732,
+                      "Y": 0.6141
+                    },
+                    "PreSize": {
+                      "X": 0.6719,
+                      "Y": 0.4167
+                    },
+                    "LeftMargin": 41.9255,
+                    "RightMargin": 146.0745,
+                    "TopMargin": 53.2637,
+                    "BottomMargin": 121.7363,
+                    "Tag": 63,
+                    "ActionTag": -1403940414,
+                    "Size": {
+                      "X": 385.0,
+                      "Y": 125.0
+                    },
+                    "Name": "text_tip0",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 26,
+                    "LabelText": "2、代理充值",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/DFYuanW7-GB2312.ttf",
+                      "Plist": ""
+                    },
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 46.634,
+                      "Y": 34.1795
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 72,
+                      "G": 93,
+                      "B": 101
+                    },
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.0814,
+                      "Y": 0.1139
+                    },
+                    "PreSize": {
+                      "X": 0.2548,
+                      "Y": 0.0867
+                    },
+                    "LeftMargin": 46.634,
+                    "RightMargin": 380.366,
+                    "TopMargin": 252.8205,
+                    "BottomMargin": 21.1795,
+                    "Tag": 66,
+                    "ActionTag": 736195139,
+                    "Size": {
+                      "X": 146.0,
+                      "Y": 26.0
+                    },
+                    "Name": "text_tip2",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -1635049709,
+                "Size": {
+                  "X": 573.0,
+                  "Y": 300.0
+                },
+                "Name": "panel_root",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": -1232152940,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "panel",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../font/DFYuanW7-GB2312.ttf",
+        "Resoures/large/chongzhi.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

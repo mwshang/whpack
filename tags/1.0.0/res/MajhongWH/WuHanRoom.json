@@ -1,0 +1,4194 @@
+{
+  "ID": "2d666f08-8a53-40a2-b992-275f13941ff3",
+  "Version": "2.3.3.0",
+  "Name": "WuHanRoom",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 37,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "MajhongBase/Resoures/large/majhong_table.png",
+              "Plist": ""
+            },
+            "Scale9Width": 1280,
+            "Scale9Height": 720,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 66,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "GameHall/Resoures/large/img_yaojiqidongmajiang.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 304,
+                "Scale9Height": 52,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 294.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.4083
+                },
+                "PreSize": {
+                  "X": 0.2375,
+                  "Y": 0.0722
+                },
+                "LeftMargin": 488.0,
+                "RightMargin": 488.0,
+                "TopMargin": 400.0,
+                "BottomMargin": 268.0,
+                "Tag": 254,
+                "ActionTag": -496742535,
+                "Size": {
+                  "X": 304.0,
+                  "Y": 52.0
+                },
+                "VisibleForFrame": false,
+                "Alpha": 153,
+                "Name": "img_logo",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": -1214783179,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "image_bg",
+            "ctype": "ImageViewObjectData"
+          },
+          {
+            "BackColorAlpha": 0,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {},
+            "Position": {
+              "X": -2.2185,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": -0.0017,
+              "Y": 0.0
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "LeftMargin": -2.2185,
+            "RightMargin": 2.2185,
+            "Tag": 118,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "mahjong_play_table_clock_bg.png",
+                  "Plist": "MajhongBase/Resoures/tableclock.plist"
+                },
+                "Scale9Width": 211,
+                "Scale9Height": 117,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 651.52,
+                  "Y": 396.0
+                },
+                "Scale": {
+                  "ScaleX": 0.84,
+                  "ScaleY": 0.84
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.509,
+                  "Y": 0.55
+                },
+                "PreSize": {
+                  "X": 0.1648,
+                  "Y": 0.1625
+                },
+                "LeftMargin": 546.02,
+                "RightMargin": 522.98,
+                "TopMargin": 265.5,
+                "BottomMargin": 337.5,
+                "Tag": 33,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "mahjong_play_table_clock_aperture.png",
+                      "Plist": "MajhongBase/Resoures/tableclock.plist"
+                    },
+                    "Scale9Width": 69,
+                    "Scale9Height": 55,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 105.1202,
+                      "Y": 65.2275
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.4982,
+                      "Y": 0.5575
+                    },
+                    "PreSize": {
+                      "X": 0.327,
+                      "Y": 0.4701
+                    },
+                    "LeftMargin": 70.6202,
+                    "RightMargin": 71.3798,
+                    "TopMargin": 24.2725,
+                    "BottomMargin": 37.7275,
+                    "Tag": 1045,
+                    "ActionTag": 177519935,
+                    "Size": {
+                      "X": 69.0,
+                      "Y": 55.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "Image_9",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "mahjong_play_table_clock_current_1_1.png",
+                      "Plist": "MajhongBase/Resoures/tableclock.plist"
+                    },
+                    "Scale9Width": 191,
+                    "Scale9Height": 103,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 1.0
+                    },
+                    "Tag": 256,
+                    "ActionTag": 1357151868,
+                    "Size": {
+                      "X": 211.0,
+                      "Y": 117.0
+                    },
+                    "Name": "image_east",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FlipY": true,
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "mahjong_play_table_clock_current_3_1.png",
+                      "Plist": "MajhongBase/Resoures/tableclock.plist"
+                    },
+                    "Scale9Width": 191,
+                    "Scale9Height": 101,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "RotationSkewX": 180.0,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 1.0
+                    },
+                    "Tag": 257,
+                    "ActionTag": 1199466317,
+                    "Size": {
+                      "X": 211.0,
+                      "Y": 117.0
+                    },
+                    "Name": "image_south",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "mahjong_play_table_clock_current_0_1.png",
+                      "Plist": "MajhongBase/Resoures/tableclock.plist"
+                    },
+                    "Scale9Width": 189,
+                    "Scale9Height": 103,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 1.0
+                    },
+                    "CallBackType": "Touch",
+                    "Tag": 258,
+                    "ActionTag": 1136710491,
+                    "Size": {
+                      "X": 211.0,
+                      "Y": 117.0
+                    },
+                    "Name": "image_west",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "mahjong_play_table_clock_current_2_1.png",
+                      "Plist": "MajhongBase/Resoures/tableclock.plist"
+                    },
+                    "Scale9Width": 191,
+                    "Scale9Height": 101,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 1.0
+                    },
+                    "Tag": 259,
+                    "ActionTag": -1943507442,
+                    "Size": {
+                      "X": 211.0,
+                      "Y": 117.0
+                    },
+                    "Name": "image_north",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "CharWidth": 23,
+                    "CharHeight": 38,
+                    "LabelText": "88",
+                    "StartChar": "0",
+                    "LabelAtlasFileImage_CNB": {
+                      "Type": "Normal",
+                      "Path": "font/Timer_num.png",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 105.5,
+                      "Y": 65.7774
+                    },
+                    "Scale": {
+                      "ScaleX": 0.6,
+                      "ScaleY": 0.6
+                    },
+                    "RotationSkewX": 2.0003,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5622
+                    },
+                    "PreSize": {
+                      "X": 0.218,
+                      "Y": 0.3248
+                    },
+                    "LeftMargin": 82.5,
+                    "RightMargin": 82.5,
+                    "TopMargin": 32.2226,
+                    "BottomMargin": 46.7774,
+                    "Tag": 85,
+                    "ActionTag": -544650332,
+                    "Size": {
+                      "X": 46.0,
+                      "Y": 38.0
+                    },
+                    "Name": "text_clock",
+                    "ctype": "TextAtlasObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "mahjong_play_table_info_0_2.png",
+                      "Plist": "MajhongBase/Resoures/tableclock.plist"
+                    },
+                    "Scale9Width": 28,
+                    "Scale9Height": 23,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 105.5,
+                      "Y": 30.68
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.2622
+                    },
+                    "PreSize": {
+                      "X": 0.1327,
+                      "Y": 0.1966
+                    },
+                    "LeftMargin": 91.5,
+                    "RightMargin": 91.5,
+                    "TopMargin": 74.82,
+                    "BottomMargin": 19.18,
+                    "Tag": 270,
+                    "ActionTag": -405506085,
+                    "Size": {
+                      "X": 28.0,
+                      "Y": 23.0
+                    },
+                    "Name": "image_0",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "mahjong_play_table_info_1_2.png",
+                      "Plist": "MajhongBase/Resoures/tableclock.plist"
+                    },
+                    "Scale9Width": 28,
+                    "Scale9Height": 23,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 160.36,
+                      "Y": 67.3452
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.76,
+                      "Y": 0.5756
+                    },
+                    "PreSize": {
+                      "X": 0.1327,
+                      "Y": 0.1966
+                    },
+                    "LeftMargin": 146.36,
+                    "RightMargin": 36.64,
+                    "TopMargin": 38.1548,
+                    "BottomMargin": 55.8452,
+                    "Tag": 271,
+                    "ActionTag": 1292836104,
+                    "Size": {
+                      "X": 28.0,
+                      "Y": 23.0
+                    },
+                    "Name": "image_1",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "mahjong_play_table_info_2_2.png",
+                      "Plist": "MajhongBase/Resoures/tableclock.plist"
+                    },
+                    "Scale9Width": 28,
+                    "Scale9Height": 23,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 105.5,
+                      "Y": 96.21
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.8223
+                    },
+                    "PreSize": {
+                      "X": 0.1327,
+                      "Y": 0.1966
+                    },
+                    "LeftMargin": 91.5,
+                    "RightMargin": 91.5,
+                    "TopMargin": 9.29,
+                    "BottomMargin": 84.71,
+                    "Tag": 273,
+                    "ActionTag": -384695986,
+                    "Size": {
+                      "X": 28.0,
+                      "Y": 23.0
+                    },
+                    "Name": "image_2",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "mahjong_play_table_info_3_2.png",
+                      "Plist": "MajhongBase/Resoures/tableclock.plist"
+                    },
+                    "Scale9Width": 28,
+                    "Scale9Height": 23,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 50.64,
+                      "Y": 67.3452
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.24,
+                      "Y": 0.5756
+                    },
+                    "PreSize": {
+                      "X": 0.1327,
+                      "Y": 0.1966
+                    },
+                    "LeftMargin": 36.64,
+                    "RightMargin": 146.36,
+                    "TopMargin": 38.1548,
+                    "BottomMargin": 55.8452,
+                    "Tag": 272,
+                    "ActionTag": 1174779935,
+                    "Size": {
+                      "X": 28.0,
+                      "Y": 23.0
+                    },
+                    "Name": "image_3",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -171387183,
+                "Size": {
+                  "X": 211.0,
+                  "Y": 117.0
+                },
+                "Name": "image_dirc",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 22,
+                "LabelText": "剩余",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "font/DFYuanW7-GB2312.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "R": 80,
+                  "G": 192,
+                  "B": 80
+                },
+                "ShadowColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowOffsetX": 1.0,
+                "ShadowOffsetY": -1.0,
+                "ShadowEnabled": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 683.0917,
+                  "Y": 703.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 136,
+                  "G": 136,
+                  "B": 136
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5337,
+                  "Y": 0.9764
+                },
+                "PreSize": {
+                  "X": 0.0367,
+                  "Y": 0.0306
+                },
+                "LeftMargin": 659.5917,
+                "RightMargin": 573.4083,
+                "TopMargin": 6.0,
+                "BottomMargin": 692.0,
+                "CallBackType": "Click",
+                "Tag": 121,
+                "ActionTag": 1247638958,
+                "Size": {
+                  "X": 47.0,
+                  "Y": 22.0
+                },
+                "Name": "text_remain",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 22,
+                "LabelText": "99",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "font/DFYuanW7-GB2312.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {},
+                "ShadowColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowOffsetX": 1.0,
+                "ShadowOffsetY": -1.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 727.44,
+                  "Y": 703.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "G": 203,
+                  "B": 113
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5683,
+                  "Y": 0.9764
+                },
+                "PreSize": {
+                  "X": 0.0188,
+                  "Y": 0.0306
+                },
+                "LeftMargin": 715.44,
+                "RightMargin": 540.56,
+                "TopMargin": 6.0,
+                "BottomMargin": 692.0,
+                "Tag": 122,
+                "ActionTag": -1093191709,
+                "Size": {
+                  "X": 24.0,
+                  "Y": 22.0
+                },
+                "Name": "text_count",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 22,
+                "LabelText": "第     局",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "font/DFYuanW7-GB2312.ttf",
+                  "Plist": ""
+                },
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "R": 80,
+                  "G": 192,
+                  "B": 80
+                },
+                "ShadowColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowOffsetX": 1.0,
+                "ShadowOffsetY": -1.0,
+                "ShadowEnabled": true,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 504.9464,
+                  "Y": 703.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 136,
+                  "G": 136,
+                  "B": 136
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3945,
+                  "Y": 0.9764
+                },
+                "PreSize": {
+                  "X": 0.0789,
+                  "Y": 0.0306
+                },
+                "LeftMargin": 504.9464,
+                "RightMargin": 674.0536,
+                "TopMargin": 6.0,
+                "BottomMargin": 692.0,
+                "CallBackType": "Click",
+                "Tag": 123,
+                "ActionTag": -2102433017,
+                "Size": {
+                  "X": 101.0,
+                  "Y": 22.0
+                },
+                "Name": "text_remain_0",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 22,
+                "LabelText": "16/16",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "font/DFYuanW7-GB2312.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "R": 80,
+                  "G": 192,
+                  "B": 80
+                },
+                "ShadowColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowOffsetX": 1.0,
+                "ShadowOffsetY": -1.0,
+                "ShadowEnabled": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 553.5894,
+                  "Y": 703.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "G": 203,
+                  "B": 113
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4325,
+                  "Y": 0.9764
+                },
+                "PreSize": {
+                  "X": 0.0625,
+                  "Y": 0.0389
+                },
+                "LeftMargin": 513.5894,
+                "RightMargin": 686.4106,
+                "TopMargin": 3.0,
+                "BottomMargin": 689.0,
+                "Tag": 124,
+                "ActionTag": -990703474,
+                "Size": {
+                  "X": 80.0,
+                  "Y": 28.0
+                },
+                "Name": "text_round",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -1037807784,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "panel_status",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "BackColorAlpha": 0,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 39,
+            "ActionTag": 972292219,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "panel_player",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "BackColorAlpha": 0,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 30,
+            "Children": [
+              {
+                "BackColorAlpha": 0,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 1180.75,
+                  "Y": 400.0
+                },
+                "Scale": {
+                  "ScaleX": 1.1,
+                  "ScaleY": 1.1
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9225,
+                  "Y": 0.5556
+                },
+                "PreSize": {
+                  "X": 0.0797,
+                  "Y": 0.1736
+                },
+                "LeftMargin": 1180.75,
+                "RightMargin": -2.75,
+                "TopMargin": 195.0,
+                "BottomMargin": 400.0,
+                "Tag": 45,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "roving2.png",
+                      "Plist": "MajhongBase/Resoures/table_other.plist"
+                    },
+                    "Scale9Width": 101,
+                    "Scale9Height": 59,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 49.8556,
+                      "Y": -16.2976
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4888,
+                      "Y": -0.1304
+                    },
+                    "PreSize": {
+                      "X": 0.9902,
+                      "Y": 0.472
+                    },
+                    "LeftMargin": -0.6444,
+                    "RightMargin": 1.6444,
+                    "TopMargin": 111.7976,
+                    "BottomMargin": -45.7976,
+                    "Tag": 713,
+                    "ActionTag": -1359475807,
+                    "Size": {
+                      "X": 101.0,
+                      "Y": 59.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "image_tip",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "img_dikuang.png",
+                      "Plist": "MajhongBase/Resoures/tableclock.plist"
+                    },
+                    "Scale9Width": 69,
+                    "Scale9Height": 106,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 51.0,
+                      "Y": 62.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.7157,
+                      "Y": 0.864
+                    },
+                    "LeftMargin": 14.5,
+                    "RightMargin": 14.5,
+                    "TopMargin": 8.5,
+                    "BottomMargin": 8.5,
+                    "Tag": 329,
+                    "ActionTag": -1437882176,
+                    "Size": {
+                      "X": 73.0,
+                      "Y": 108.0
+                    },
+                    "Name": "image_frame",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "mahjong_ting_right_icon.png",
+                      "Plist": "MajhongBase/Resoures/tileImage.plist"
+                    },
+                    "Scale9Width": 34,
+                    "Scale9Height": 32,
+                    "AnchorPoint": {
+                      "ScaleX": 0.6007,
+                      "ScaleY": 0.4456
+                    },
+                    "Position": {
+                      "X": -72.6097,
+                      "Y": -56.9424
+                    },
+                    "Scale": {
+                      "ScaleX": 1.4,
+                      "ScaleY": 1.4
+                    },
+                    "RotationSkewX": 16.9999,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": -0.7119,
+                      "Y": -0.4555
+                    },
+                    "PreSize": {
+                      "X": 0.3333,
+                      "Y": 0.256
+                    },
+                    "LeftMargin": -93.0335,
+                    "RightMargin": 161.0335,
+                    "TopMargin": 164.2016,
+                    "BottomMargin": -71.2016,
+                    "Tag": 224,
+                    "ActionTag": 405603110,
+                    "Size": {
+                      "X": 34.0,
+                      "Y": 32.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "image_ting",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -927529617,
+                "Size": {
+                  "X": 102.0,
+                  "Y": 125.0
+                },
+                "Name": "seat_right",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "BackColorAlpha": 0,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": -10.0,
+                  "Y": 400.0
+                },
+                "Scale": {
+                  "ScaleX": 1.1,
+                  "ScaleY": 1.1
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": -0.0078,
+                  "Y": 0.5556
+                },
+                "PreSize": {
+                  "X": 0.0797,
+                  "Y": 0.1736
+                },
+                "LeftMargin": -10.0,
+                "RightMargin": 1188.0,
+                "TopMargin": 195.0,
+                "BottomMargin": 400.0,
+                "Tag": 46,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "roving3.png",
+                      "Plist": "MajhongBase/Resoures/table_other.plist"
+                    },
+                    "Scale9Width": 101,
+                    "Scale9Height": 59,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 49.6665,
+                      "Y": -14.5745
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4869,
+                      "Y": -0.1166
+                    },
+                    "PreSize": {
+                      "X": 0.9902,
+                      "Y": 0.472
+                    },
+                    "LeftMargin": -0.8335,
+                    "RightMargin": 1.8335,
+                    "TopMargin": 110.0745,
+                    "BottomMargin": -44.0745,
+                    "Tag": 716,
+                    "ActionTag": -628576029,
+                    "Size": {
+                      "X": 101.0,
+                      "Y": 59.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "image_tip",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "img_dikuang.png",
+                      "Plist": "MajhongBase/Resoures/tableclock.plist"
+                    },
+                    "Scale9Width": 69,
+                    "Scale9Height": 106,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 51.0,
+                      "Y": 62.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.7157,
+                      "Y": 0.864
+                    },
+                    "LeftMargin": 14.5,
+                    "RightMargin": 14.5,
+                    "TopMargin": 8.5,
+                    "BottomMargin": 8.5,
+                    "Tag": 330,
+                    "ActionTag": -1563097936,
+                    "Size": {
+                      "X": 73.0,
+                      "Y": 108.0
+                    },
+                    "Name": "image_frame",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FlipX": true,
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "mahjong_ting_right_icon.png",
+                      "Plist": "MajhongBase/Resoures/tileImage.plist"
+                    },
+                    "Scale9Width": 34,
+                    "Scale9Height": 32,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 284.1066,
+                      "Y": 65.7048
+                    },
+                    "Scale": {
+                      "ScaleX": 1.4,
+                      "ScaleY": 1.4
+                    },
+                    "RotationSkewX": -17.0005,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 2.7854,
+                      "Y": 0.5256
+                    },
+                    "PreSize": {
+                      "X": 0.3333,
+                      "Y": 0.256
+                    },
+                    "LeftMargin": 267.1066,
+                    "RightMargin": -199.1066,
+                    "TopMargin": 43.2952,
+                    "BottomMargin": 49.7048,
+                    "Tag": 225,
+                    "ActionTag": 224843195,
+                    "Size": {
+                      "X": 34.0,
+                      "Y": 32.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "image_ting",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -1770347863,
+                "Size": {
+                  "X": 102.0,
+                  "Y": 125.0
+                },
+                "Name": "seat_left",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "BackColorAlpha": 0,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 1041.4697,
+                  "Y": 588.0339
+                },
+                "Scale": {
+                  "ScaleX": 1.1,
+                  "ScaleY": 1.1
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8136,
+                  "Y": 0.8167
+                },
+                "PreSize": {
+                  "X": 0.0797,
+                  "Y": 0.1736
+                },
+                "LeftMargin": 1041.4697,
+                "RightMargin": 136.5303,
+                "TopMargin": 6.9661,
+                "BottomMargin": 588.0339,
+                "Tag": 47,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "roving2.png",
+                      "Plist": "MajhongBase/Resoures/table_other.plist"
+                    },
+                    "Scale9Width": 101,
+                    "Scale9Height": 59,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 50.46,
+                      "Y": -12.6265
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4947,
+                      "Y": -0.101
+                    },
+                    "PreSize": {
+                      "X": 0.9902,
+                      "Y": 0.472
+                    },
+                    "LeftMargin": -0.04,
+                    "RightMargin": 1.04,
+                    "TopMargin": 108.1265,
+                    "BottomMargin": -42.1265,
+                    "Tag": 715,
+                    "ActionTag": 1150688619,
+                    "Size": {
+                      "X": 101.0,
+                      "Y": 59.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "image_tip",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "img_dikuang.png",
+                      "Plist": "MajhongBase/Resoures/tableclock.plist"
+                    },
+                    "Scale9Width": 69,
+                    "Scale9Height": 106,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 51.0,
+                      "Y": 62.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.7157,
+                      "Y": 0.864
+                    },
+                    "LeftMargin": 14.5,
+                    "RightMargin": 14.5,
+                    "TopMargin": 8.5,
+                    "BottomMargin": 8.5,
+                    "Tag": 331,
+                    "ActionTag": 251991573,
+                    "Size": {
+                      "X": 73.0,
+                      "Y": 108.0
+                    },
+                    "Name": "image_frame",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "mahjong_ting_icon.png",
+                      "Plist": "MajhongBase/Resoures/tileImage.plist"
+                    },
+                    "Scale9Width": 68,
+                    "Scale9Height": 22,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": -207.6454,
+                      "Y": -32.7151
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": -2.0357,
+                      "Y": -0.2617
+                    },
+                    "PreSize": {
+                      "X": 0.6667,
+                      "Y": 0.176
+                    },
+                    "LeftMargin": -241.6454,
+                    "RightMargin": 275.6454,
+                    "TopMargin": 146.7151,
+                    "BottomMargin": -43.7151,
+                    "Tag": 226,
+                    "ActionTag": -1699268552,
+                    "Size": {
+                      "X": 68.0,
+                      "Y": 22.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "image_ting",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -251997803,
+                "Size": {
+                  "X": 102.0,
+                  "Y": 125.0
+                },
+                "Name": "seat_up",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "BackColorAlpha": 0,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": -10.0,
+                  "Y": 139.6865
+                },
+                "Scale": {
+                  "ScaleX": 1.1,
+                  "ScaleY": 1.1
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": -0.0078,
+                  "Y": 0.194
+                },
+                "PreSize": {
+                  "X": 0.0797,
+                  "Y": 0.1736
+                },
+                "LeftMargin": -10.0,
+                "RightMargin": 1188.0,
+                "TopMargin": 455.3135,
+                "BottomMargin": 139.6865,
+                "Tag": 48,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "roving2.png",
+                      "Plist": "MajhongBase/Resoures/table_other.plist"
+                    },
+                    "Scale9Width": 101,
+                    "Scale9Height": 59,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 47.944,
+                      "Y": -8.71
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.47,
+                      "Y": -0.0697
+                    },
+                    "PreSize": {
+                      "X": 0.9902,
+                      "Y": 0.472
+                    },
+                    "LeftMargin": -2.556,
+                    "RightMargin": 3.556,
+                    "TopMargin": 104.21,
+                    "BottomMargin": -38.21,
+                    "Tag": 714,
+                    "ActionTag": -452781880,
+                    "Size": {
+                      "X": 101.0,
+                      "Y": 59.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "image_tip",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "img_dikuang.png",
+                      "Plist": "MajhongBase/Resoures/tableclock.plist"
+                    },
+                    "Scale9Width": 69,
+                    "Scale9Height": 106,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 51.0,
+                      "Y": 62.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.7157,
+                      "Y": 0.864
+                    },
+                    "LeftMargin": 14.5,
+                    "RightMargin": 14.5,
+                    "TopMargin": 8.5,
+                    "BottomMargin": 8.5,
+                    "Tag": 328,
+                    "ActionTag": 567855719,
+                    "Size": {
+                      "X": 73.0,
+                      "Y": 108.0
+                    },
+                    "Name": "image_frame",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "mahjong_ting_icon.png",
+                      "Plist": "MajhongBase/Resoures/tileImage.plist"
+                    },
+                    "Scale9Width": 68,
+                    "Scale9Height": 22,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 590.9333,
+                      "Y": 27.796
+                    },
+                    "Scale": {
+                      "ScaleX": 1.2,
+                      "ScaleY": 1.2
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 5.7935,
+                      "Y": 0.2224
+                    },
+                    "PreSize": {
+                      "X": 0.6667,
+                      "Y": 0.176
+                    },
+                    "LeftMargin": 556.9333,
+                    "RightMargin": -522.9333,
+                    "TopMargin": 86.204,
+                    "BottomMargin": 16.796,
+                    "Tag": 227,
+                    "ActionTag": -97187226,
+                    "Size": {
+                      "X": 68.0,
+                      "Y": 22.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "image_ting",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": 613832324,
+                "Size": {
+                  "X": 102.0,
+                  "Y": 125.0
+                },
+                "Name": "seat_self",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "img_hua.png",
+                  "Plist": "MajhongBase/Resoures/tableclock.plist"
+                },
+                "Scale9Width": 32,
+                "Scale9Height": 21,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 126.6075,
+                  "Y": 165.6233
+                },
+                "Scale": {
+                  "ScaleX": 1.1,
+                  "ScaleY": 1.1
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0989,
+                  "Y": 0.23
+                },
+                "PreSize": {
+                  "X": 0.025,
+                  "Y": 0.0292
+                },
+                "LeftMargin": 110.6075,
+                "RightMargin": 1137.3925,
+                "TopMargin": 543.8767,
+                "BottomMargin": 155.1233,
+                "Tag": 121,
+                "Children": [
+                  {
+                    "FontSize": 36,
+                    "LabelText": "4",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/DFYuanW7-GB2312.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 23.04,
+                      "Y": 10.5
+                    },
+                    "Scale": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.72,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.625,
+                      "Y": 1.7143
+                    },
+                    "LeftMargin": 13.04,
+                    "RightMargin": -1.04,
+                    "TopMargin": -7.5,
+                    "BottomMargin": -7.5,
+                    "Tag": 59,
+                    "ActionTag": 1506271589,
+                    "Size": {
+                      "X": 20.0,
+                      "Y": 36.0
+                    },
+                    "Name": "text_huapai_self",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": -307309041,
+                "Size": {
+                  "X": 32.0,
+                  "Y": 21.0
+                },
+                "VisibleForFrame": false,
+                "Name": "img_huapai_self",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "img_hua.png",
+                  "Plist": "MajhongBase/Resoures/tableclock.plist"
+                },
+                "Scale9Width": 32,
+                "Scale9Height": 21,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1008.9434,
+                  "Y": 496.472
+                },
+                "Scale": {
+                  "ScaleX": 1.1,
+                  "ScaleY": 1.1
+                },
+                "RotationSkewX": -23.9986,
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7882,
+                  "Y": 0.6895
+                },
+                "PreSize": {
+                  "X": 0.025,
+                  "Y": 0.0292
+                },
+                "LeftMargin": 992.9434,
+                "RightMargin": 255.0566,
+                "TopMargin": 213.028,
+                "BottomMargin": 485.972,
+                "Tag": 122,
+                "Children": [
+                  {
+                    "FontSize": 36,
+                    "LabelText": "4",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/DFYuanW7-GB2312.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 23.04,
+                      "Y": 10.5
+                    },
+                    "Scale": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.72,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.625,
+                      "Y": 1.7143
+                    },
+                    "LeftMargin": 13.04,
+                    "RightMargin": -1.04,
+                    "TopMargin": -7.5,
+                    "BottomMargin": -7.5,
+                    "Tag": 61,
+                    "ActionTag": 2107591371,
+                    "Size": {
+                      "X": 20.0,
+                      "Y": 36.0
+                    },
+                    "Name": "text_huapai_right",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 578629807,
+                "Size": {
+                  "X": 32.0,
+                  "Y": 21.0
+                },
+                "VisibleForFrame": false,
+                "Name": "img_huapai_right",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "img_hua.png",
+                  "Plist": "MajhongBase/Resoures/tableclock.plist"
+                },
+                "Scale9Width": 32,
+                "Scale9Height": 21,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 500.4531,
+                  "Y": 580.0
+                },
+                "Scale": {
+                  "ScaleX": 1.1,
+                  "ScaleY": 1.1
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.391,
+                  "Y": 0.8056
+                },
+                "PreSize": {
+                  "X": 0.025,
+                  "Y": 0.0292
+                },
+                "LeftMargin": 484.4531,
+                "RightMargin": 763.5469,
+                "TopMargin": 129.5,
+                "BottomMargin": 569.5,
+                "Tag": 123,
+                "Children": [
+                  {
+                    "FontSize": 36,
+                    "LabelText": "4",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/DFYuanW7-GB2312.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 23.04,
+                      "Y": 10.5
+                    },
+                    "Scale": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.72,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.625,
+                      "Y": 1.7143
+                    },
+                    "LeftMargin": 13.04,
+                    "RightMargin": -1.04,
+                    "TopMargin": -7.5,
+                    "BottomMargin": -7.5,
+                    "Tag": 63,
+                    "ActionTag": -155582224,
+                    "Size": {
+                      "X": 20.0,
+                      "Y": 36.0
+                    },
+                    "Name": "text_huapai_up",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 2028703646,
+                "Size": {
+                  "X": 32.0,
+                  "Y": 21.0
+                },
+                "VisibleForFrame": false,
+                "Name": "img_huapai_up",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "img_hua.png",
+                  "Plist": "MajhongBase/Resoures/tableclock.plist"
+                },
+                "Scale9Width": 32,
+                "Scale9Height": 21,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 287.847,
+                  "Y": 496.4722
+                },
+                "Scale": {
+                  "ScaleX": 1.1,
+                  "ScaleY": 1.1
+                },
+                "RotationSkewX": 24.0,
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2249,
+                  "Y": 0.6895
+                },
+                "PreSize": {
+                  "X": 0.025,
+                  "Y": 0.0292
+                },
+                "LeftMargin": 271.847,
+                "RightMargin": 976.153,
+                "TopMargin": 213.0278,
+                "BottomMargin": 485.9722,
+                "Tag": 124,
+                "Children": [
+                  {
+                    "FontSize": 36,
+                    "LabelText": "4",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/DFYuanW7-GB2312.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 23.04,
+                      "Y": 10.5
+                    },
+                    "Scale": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.72,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.625,
+                      "Y": 1.7143
+                    },
+                    "LeftMargin": 13.04,
+                    "RightMargin": -1.04,
+                    "TopMargin": -7.5,
+                    "BottomMargin": -7.5,
+                    "Tag": 125,
+                    "ActionTag": -2075744802,
+                    "Size": {
+                      "X": 20.0,
+                      "Y": 36.0
+                    },
+                    "Name": "text_huapai_left",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 772688351,
+                "Size": {
+                  "X": 32.0,
+                  "Y": 21.0
+                },
+                "VisibleForFrame": false,
+                "Name": "img_huapai_left",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "QZMJ_BuhuaStatus_0.png",
+                  "Plist": "MajhongBase/Resoures/table_other.plist"
+                },
+                "Scale9Width": 20,
+                "Scale9Height": 20,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": -41.5564,
+                  "Y": 73.8935
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": -0.0325,
+                  "Y": 0.1026
+                },
+                "PreSize": {
+                  "X": 0.0211,
+                  "Y": 0.0375
+                },
+                "LeftMargin": -41.5564,
+                "RightMargin": 1294.5564,
+                "TopMargin": 619.1065,
+                "BottomMargin": 73.8935,
+                "Tag": 175,
+                "ActionTag": 1300393194,
+                "Size": {
+                  "X": 27.0,
+                  "Y": 27.0
+                },
+                "Name": "image_huapaiclone",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "ScrollDirectionType": 0,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 150
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 150
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 144.5521,
+                  "Y": 152.9927
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1129,
+                  "Y": 0.2125
+                },
+                "PreSize": {
+                  "X": 0.1562,
+                  "Y": 0.0347
+                },
+                "LeftMargin": 144.5521,
+                "RightMargin": 935.4479,
+                "TopMargin": 542.0073,
+                "BottomMargin": 152.9927,
+                "Tag": 174,
+                "ActionTag": 1919820093,
+                "Size": {
+                  "X": 200.0,
+                  "Y": 25.0
+                },
+                "Alpha": 0,
+                "Name": "listview_huapai_self",
+                "ctype": "ListViewObjectData"
+              },
+              {
+                "DirectionType": "Vertical",
+                "ScrollDirectionType": 0,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 150
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 150
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 1085.0,
+                  "Y": 302.2414
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "RotationSkewX": -24.0001,
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8477,
+                  "Y": 0.4198
+                },
+                "PreSize": {
+                  "X": 0.0195,
+                  "Y": 0.2778
+                },
+                "LeftMargin": 1085.0,
+                "RightMargin": 170.0,
+                "TopMargin": 217.7586,
+                "BottomMargin": 302.2414,
+                "Tag": 176,
+                "ActionTag": -2121457278,
+                "Size": {
+                  "X": 25.0,
+                  "Y": 200.0
+                },
+                "Alpha": 0,
+                "Name": "listview_huapai_right",
+                "ctype": "ListViewObjectData"
+              },
+              {
+                "ScrollDirectionType": 0,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 150
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 150
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 519.4181,
+                  "Y": 568.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4058,
+                  "Y": 0.7889
+                },
+                "PreSize": {
+                  "X": 0.1562,
+                  "Y": 0.0347
+                },
+                "LeftMargin": 519.4181,
+                "RightMargin": 560.5819,
+                "TopMargin": 127.0,
+                "BottomMargin": 568.0,
+                "Tag": 177,
+                "ActionTag": -109663190,
+                "Size": {
+                  "X": 200.0,
+                  "Y": 25.0
+                },
+                "Alpha": 0,
+                "Name": "listview_huapai_up",
+                "ctype": "ListViewObjectData"
+              },
+              {
+                "DirectionType": "Vertical",
+                "ScrollDirectionType": 0,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 150
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 150
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 189.69,
+                  "Y": 303.2115
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "RotationSkewX": 24.0001,
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1482,
+                  "Y": 0.4211
+                },
+                "PreSize": {
+                  "X": 0.0195,
+                  "Y": 0.2778
+                },
+                "LeftMargin": 189.69,
+                "RightMargin": 1065.3101,
+                "TopMargin": 216.7885,
+                "BottomMargin": 303.2115,
+                "Tag": 178,
+                "ActionTag": 1855745727,
+                "Size": {
+                  "X": 25.0,
+                  "Y": 200.0
+                },
+                "Alpha": 0,
+                "Name": "listview_huapai_left",
+                "ctype": "ListViewObjectData"
+              }
+            ],
+            "ActionTag": 448443215,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "panel_head",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "BackColorAlpha": 0,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 65,
+            "Children": [
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "hall_wxfx_d.png",
+                  "Plist": "GameHall/Resoures/hall.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "hall_wxfx_n.png",
+                  "Plist": "GameHall/Resoures/hall.plist"
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 226,
+                "Scale9Height": 63,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 360.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.2,
+                  "Y": 0.1181
+                },
+                "LeftMargin": 512.0,
+                "RightMargin": 512.0,
+                "TopMargin": 317.5,
+                "BottomMargin": 317.5,
+                "CallBackType": "Click",
+                "Tag": 72,
+                "ActionTag": -1418041027,
+                "Size": {
+                  "X": 256.0,
+                  "Y": 85.0
+                },
+                "Name": "btn_invite_wechat",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "mj_fanhuidating.png",
+                  "Plist": "MajhongBase/Resoures/table_other.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "mj_fanhuidating.png",
+                  "Plist": "MajhongBase/Resoures/table_other.plist"
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 214,
+                "Scale9Height": 72,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1136.896,
+                  "Y": 80.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.8882,
+                  "Y": 0.1111
+                },
+                "PreSize": {
+                  "X": 0.1906,
+                  "Y": 0.1306
+                },
+                "LeftMargin": 1014.896,
+                "RightMargin": 21.104,
+                "TopMargin": 593.0,
+                "BottomMargin": 33.0,
+                "CallBackType": "Click",
+                "Tag": 74,
+                "ActionTag": -283074638,
+                "Size": {
+                  "X": 244.0,
+                  "Y": 94.0
+                },
+                "Name": "btn_back_hall",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "mj_jiesanfangjian.png",
+                  "Plist": "MajhongBase/Resoures/table_other.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "mj_jiesanfangjian.png",
+                  "Plist": "MajhongBase/Resoures/table_other.plist"
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 214,
+                "Scale9Height": 72,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1136.896,
+                  "Y": 80.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.8882,
+                  "Y": 0.1111
+                },
+                "PreSize": {
+                  "X": 0.1906,
+                  "Y": 0.1306
+                },
+                "LeftMargin": 1014.896,
+                "RightMargin": 21.104,
+                "TopMargin": 593.0,
+                "BottomMargin": 33.0,
+                "CallBackType": "Click",
+                "Tag": 133,
+                "ActionTag": -1531967811,
+                "Size": {
+                  "X": 244.0,
+                  "Y": 94.0
+                },
+                "Name": "btn_dissolve",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": -1321236617,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "panel_option_waiting",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "BackColorAlpha": 0,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "CallBackType": "Click",
+            "Tag": 76,
+            "Children": [
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn_setting.png",
+                  "Plist": "MajhongBase/Resoures/table_other.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 58,
+                "Scale9Height": 64,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1239.0,
+                  "Y": 680.0
+                },
+                "Scale": {
+                  "ScaleX": 0.9,
+                  "ScaleY": 0.9
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.968,
+                  "Y": 0.9444
+                },
+                "PreSize": {
+                  "X": 0.0703,
+                  "Y": 0.1222
+                },
+                "LeftMargin": 1194.0,
+                "RightMargin": -4.0,
+                "TopMargin": -4.0,
+                "BottomMargin": 636.0,
+                "Tag": 98,
+                "ActionTag": 1800689937,
+                "Size": {
+                  "X": 90.0,
+                  "Y": 88.0
+                },
+                "Name": "btn_setting",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "button_chatt.png",
+                  "Plist": "MajhongBase/Resoures/table_other.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 58,
+                "Scale9Height": 64,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1239.0,
+                  "Y": 586.0
+                },
+                "Scale": {
+                  "ScaleX": 0.9,
+                  "ScaleY": 0.9
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.968,
+                  "Y": 0.8139
+                },
+                "PreSize": {
+                  "X": 0.0703,
+                  "Y": 0.1222
+                },
+                "LeftMargin": 1194.0,
+                "RightMargin": -4.0,
+                "TopMargin": 90.0,
+                "BottomMargin": 542.0,
+                "Tag": 99,
+                "ActionTag": 595518025,
+                "Size": {
+                  "X": 90.0,
+                  "Y": 88.0
+                },
+                "Name": "btn_msg",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": -1481855409,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "panel_option_playing",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "BackColorAlpha": 0,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 77,
+            "Children": [
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "button_speakk.png",
+                  "Plist": "MajhongBase/Resoures/table_other.plist"
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 58,
+                "Scale9Height": 64,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1239.0,
+                  "Y": 207.0
+                },
+                "Scale": {
+                  "ScaleX": 0.9,
+                  "ScaleY": 0.9
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.968,
+                  "Y": 0.2875
+                },
+                "PreSize": {
+                  "X": 0.0703,
+                  "Y": 0.1222
+                },
+                "LeftMargin": 1194.0,
+                "RightMargin": -4.0,
+                "TopMargin": 469.0,
+                "BottomMargin": 163.0,
+                "Tag": 100,
+                "ActionTag": 2019571433,
+                "Size": {
+                  "X": 90.0,
+                  "Y": 88.0
+                },
+                "Name": "btn_speak",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 22,
+                "LabelText": "房间号：",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "font/DFYuanW7-GB2312.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {},
+                "ShadowColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowOffsetX": 1.0,
+                "ShadowOffsetY": -1.0,
+                "ShadowEnabled": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 45.3533,
+                  "Y": 703.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 136,
+                  "G": 136,
+                  "B": 136
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0354,
+                  "Y": 0.9764
+                },
+                "PreSize": {
+                  "X": 0.0602,
+                  "Y": 0.0306
+                },
+                "LeftMargin": 6.8533,
+                "RightMargin": 1196.1467,
+                "TopMargin": 6.0,
+                "BottomMargin": 692.0,
+                "Tag": 66,
+                "ActionTag": -1125193328,
+                "Size": {
+                  "X": 77.0,
+                  "Y": 22.0
+                },
+                "Name": "text_room_name",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 22,
+                "LabelText": "000001",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "font/DFYuanW7-GB2312.ttf",
+                  "Plist": ""
+                },
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowOffsetX": 1.0,
+                "ShadowOffsetY": -1.0,
+                "ShadowEnabled": true,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 101.4085,
+                  "Y": 703.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 136,
+                  "G": 136,
+                  "B": 136
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0792,
+                  "Y": 0.9764
+                },
+                "PreSize": {
+                  "X": 0.0516,
+                  "Y": 0.0306
+                },
+                "LeftMargin": 101.4085,
+                "RightMargin": 1112.5916,
+                "TopMargin": 6.0,
+                "BottomMargin": 692.0,
+                "Tag": 68,
+                "ActionTag": -2050776386,
+                "Size": {
+                  "X": 66.0,
+                  "Y": 22.0
+                },
+                "Name": "text_room_id",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 22,
+                "LabelText": "00:00:00",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "font/DFYuanW7-GB2312.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowOffsetX": 1.0,
+                "ShadowOffsetY": -1.0,
+                "ShadowEnabled": true,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 198.0,
+                  "Y": 703.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 136,
+                  "G": 136,
+                  "B": 136
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1547,
+                  "Y": 0.9764
+                },
+                "PreSize": {
+                  "X": 0.0859,
+                  "Y": 0.0347
+                },
+                "LeftMargin": 198.0,
+                "RightMargin": 972.0,
+                "TopMargin": 4.5,
+                "BottomMargin": 690.5,
+                "Tag": 72,
+                "ActionTag": 635770475,
+                "Size": {
+                  "X": 110.0,
+                  "Y": 25.0
+                },
+                "Name": "text_time",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 26,
+                "LabelText": "门清",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "font/DFYuanW7-GB2312.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineSize": 3,
+                "OutlineColor": {
+                  "R": 22,
+                  "G": 149,
+                  "B": 62
+                },
+                "ShadowColor": {
+                  "R": 77,
+                  "G": 77,
+                  "B": 77
+                },
+                "ShadowOffsetX": 1.0,
+                "ShadowOffsetY": -1.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 204.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 6,
+                  "G": 74,
+                  "B": 109
+                },
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.2833
+                },
+                "PreSize": {
+                  "X": 1.0938,
+                  "Y": 0.0833
+                },
+                "LeftMargin": -60.0,
+                "RightMargin": -60.0,
+                "TopMargin": 486.0,
+                "BottomMargin": 174.0,
+                "Tag": 71,
+                "ActionTag": -926184000,
+                "Size": {
+                  "X": 1400.0,
+                  "Y": 60.0
+                },
+                "Name": "text_msg",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 22,
+                "LabelText": "底金:",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "font/DFYuanW7-GB2312.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowOffsetX": 1.0,
+                "ShadowOffsetY": -1.0,
+                "ShadowEnabled": true,
+                "AnchorPoint": {
+                  "ScaleY": 0.6289
+                },
+                "Position": {
+                  "X": 304.6877,
+                  "Y": 707.8624
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 136,
+                  "G": 136,
+                  "B": 136
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.238,
+                  "Y": 0.9831
+                },
+                "PreSize": {
+                  "X": 0.1094,
+                  "Y": 0.0306
+                },
+                "LeftMargin": 304.6877,
+                "RightMargin": 835.3123,
+                "TopMargin": 3.9734,
+                "BottomMargin": 694.0266,
+                "Tag": 85,
+                "ActionTag": 1150108552,
+                "Size": {
+                  "X": 140.0,
+                  "Y": 22.0
+                },
+                "Name": "Text_difen",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 552780545,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "panel_infomation",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "BackColorAlpha": 0,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 172,
+            "Children": [
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "mj_zhuanbei.png",
+                  "Plist": "MajhongBase/Resoures/table_other.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "mj_zhuanbei.png",
+                  "Plist": "MajhongBase/Resoures/table_other.plist"
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 247,
+                "Scale9Height": 72,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 651.9004,
+                  "Y": 219.1706
+                },
+                "Scale": {
+                  "ScaleX": 0.9,
+                  "ScaleY": 0.9
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5093,
+                  "Y": 0.3044
+                },
+                "PreSize": {
+                  "X": 0.2164,
+                  "Y": 0.1306
+                },
+                "LeftMargin": 513.4004,
+                "RightMargin": 489.5996,
+                "TopMargin": 453.8294,
+                "BottomMargin": 172.1706,
+                "CallBackType": "Click",
+                "Tag": 287,
+                "ActionTag": 1688632342,
+                "Size": {
+                  "X": 277.0,
+                  "Y": 94.0
+                },
+                "Name": "btn_ready",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "majhong_ready.png",
+                  "Plist": "MajhongBase/Resoures/table_other.plist"
+                },
+                "Scale9Width": 60,
+                "Scale9Height": 73,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 655.4635,
+                  "Y": 225.9349
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5121,
+                  "Y": 0.3138
+                },
+                "PreSize": {
+                  "X": 0.0469,
+                  "Y": 0.1014
+                },
+                "LeftMargin": 625.4635,
+                "RightMargin": 594.5365,
+                "TopMargin": 457.5651,
+                "BottomMargin": 189.4349,
+                "Tag": 288,
+                "ActionTag": -1252959962,
+                "Size": {
+                  "X": 60.0,
+                  "Y": 73.0
+                },
+                "Name": "img_ready_self",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "majhong_ready.png",
+                  "Plist": "MajhongBase/Resoures/table_other.plist"
+                },
+                "Scale9Width": 60,
+                "Scale9Height": 73,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 423.0244,
+                  "Y": 393.7254
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3305,
+                  "Y": 0.5468
+                },
+                "PreSize": {
+                  "X": 0.0469,
+                  "Y": 0.1014
+                },
+                "LeftMargin": 393.0244,
+                "RightMargin": 826.9756,
+                "TopMargin": 289.7746,
+                "BottomMargin": 357.2254,
+                "Tag": 289,
+                "ActionTag": -1152068207,
+                "Size": {
+                  "X": 60.0,
+                  "Y": 73.0
+                },
+                "Name": "img_ready_left",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "majhong_ready.png",
+                  "Plist": "MajhongBase/Resoures/table_other.plist"
+                },
+                "Scale9Width": 60,
+                "Scale9Height": 73,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 856.847,
+                  "Y": 394.5004
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6694,
+                  "Y": 0.5479
+                },
+                "PreSize": {
+                  "X": 0.0469,
+                  "Y": 0.1014
+                },
+                "LeftMargin": 826.847,
+                "RightMargin": 393.153,
+                "TopMargin": 288.9996,
+                "BottomMargin": 358.0004,
+                "Tag": 290,
+                "ActionTag": -460214387,
+                "Size": {
+                  "X": 60.0,
+                  "Y": 73.0
+                },
+                "Name": "img_ready_right",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "majhong_ready.png",
+                  "Plist": "MajhongBase/Resoures/table_other.plist"
+                },
+                "Scale9Width": 60,
+                "Scale9Height": 73,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.5719,
+                  "Y": 547.9255
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5004,
+                  "Y": 0.761
+                },
+                "PreSize": {
+                  "X": 0.0469,
+                  "Y": 0.1014
+                },
+                "LeftMargin": 610.5719,
+                "RightMargin": 609.4281,
+                "TopMargin": 135.5745,
+                "BottomMargin": 511.4255,
+                "Tag": 291,
+                "ActionTag": -690077414,
+                "Size": {
+                  "X": 60.0,
+                  "Y": 73.0
+                },
+                "Name": "img_ready_up",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": 300897718,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "panel_ready",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "BackColorAlpha": 0,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 40,
+            "ActionTag": 621646272,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "panel_desk",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "nx_queding.png",
+              "Plist": "GameHall/Resoures/nxGameUI.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "nx_queding.png",
+              "Plist": "GameHall/Resoures/nxGameUI.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "nx_queding.png",
+              "Plist": "GameHall/Resoures/nxGameUI.plist"
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 197,
+            "Scale9Height": 78,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 888.7637,
+              "Y": 200.9902
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6943,
+              "Y": 0.2792
+            },
+            "PreSize": {
+              "X": 0.1773,
+              "Y": 0.1389
+            },
+            "LeftMargin": 775.2637,
+            "RightMargin": 277.7363,
+            "TopMargin": 469.0098,
+            "BottomMargin": 150.9902,
+            "Tag": 161,
+            "ActionTag": 464047210,
+            "Size": {
+              "X": 227.0,
+              "Y": 100.0
+            },
+            "Name": "btn_add",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "BackColorAlpha": 153,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": -25.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": -0.0347
+            },
+            "PercentWidthEnable": true,
+            "PercentWidthEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 0.2169
+            },
+            "TopMargin": 588.8612,
+            "BottomMargin": -25.0,
+            "Tag": 65,
+            "ActionTag": 153245914,
+            "Size": {
+              "X": 1280.0,
+              "Y": 156.1388
+            },
+            "VisibleForFrame": false,
+            "Alpha": 151,
+            "Name": "panel_cover",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {},
+            "Position": {
+              "X": -0.0971,
+              "Y": -0.4333
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": -0.0001,
+              "Y": -0.0006
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "LeftMargin": -0.0971,
+            "RightMargin": 0.097,
+            "TopMargin": 0.4333,
+            "BottomMargin": -0.4333,
+            "Tag": 57,
+            "Children": [
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 640.0,
+                  "Y": 192.7813
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.2678
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 640.0,
+                "RightMargin": 640.0,
+                "TopMargin": 527.2187,
+                "BottomMargin": 192.7813,
+                "Tag": 356,
+                "ActionTag": 2048096180,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "img_buhua_self",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 948.096,
+                  "Y": 360.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.7407,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 948.096,
+                "RightMargin": 331.904,
+                "TopMargin": 360.0,
+                "BottomMargin": 360.0,
+                "Tag": 357,
+                "ActionTag": -1122466898,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "img_buhua_right",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 640.0,
+                  "Y": 571.6527
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.794
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 640.0,
+                "RightMargin": 640.0,
+                "TopMargin": 148.3473,
+                "BottomMargin": 571.6527,
+                "Tag": 358,
+                "ActionTag": -1031764176,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "img_buhua_up",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 385.024,
+                  "Y": 360.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.3008,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 385.024,
+                "RightMargin": 894.976,
+                "TopMargin": 360.0,
+                "BottomMargin": 360.0,
+                "Tag": 359,
+                "ActionTag": 1801593804,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "img_buhua_left",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "MajhongWH/Resoures/large/wuhan_piziqueding.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 282,
+                "Scale9Height": 79,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 649.984,
+                  "Y": 403.8516
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5078,
+                  "Y": 0.5609
+                },
+                "PreSize": {
+                  "X": 0.2203,
+                  "Y": 0.1097
+                },
+                "LeftMargin": 508.984,
+                "RightMargin": 489.016,
+                "TopMargin": 276.6484,
+                "BottomMargin": 364.3516,
+                "Tag": 73,
+                "ActionTag": -1230361545,
+                "Size": {
+                  "X": 282.0,
+                  "Y": 79.0
+                },
+                "VisibleForFrame": false,
+                "Name": "img_kaijin",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": -2.993,
+                  "Y": 572.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": -0.0023,
+                  "Y": 0.7944
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": -2.993,
+                "RightMargin": 1282.993,
+                "TopMargin": 148.0,
+                "BottomMargin": 572.0,
+                "Tag": 74,
+                "ActionTag": 1734666272,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "jinpaiPos",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "MajhongWH/Resoures/large/wuhanimg_kai.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 50,
+                "Scale9Height": 50,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 97.43,
+                  "Y": 614.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0761,
+                  "Y": 0.8528
+                },
+                "PreSize": {
+                  "X": 0.0391,
+                  "Y": 0.0694
+                },
+                "LeftMargin": 72.43,
+                "RightMargin": 1157.5699,
+                "TopMargin": 81.0,
+                "BottomMargin": 589.0,
+                "Tag": 83,
+                "ActionTag": -1432004966,
+                "Size": {
+                  "X": 50.0,
+                  "Y": 50.0
+                },
+                "VisibleForFrame": false,
+                "Name": "img_jinIcon",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": -1530766100,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "panel_huapai",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 153,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "tipsbg.png",
+                  "Plist": "MajhongBase/Resoures/table_other.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 36,
+                "Scale9OriginY": 36,
+                "Scale9Width": 38,
+                "Scale9Height": 38,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 650.0001,
+                  "Y": 370.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5078,
+                  "Y": 0.5139
+                },
+                "PreSize": {
+                  "X": 1.5625,
+                  "Y": 0.1667
+                },
+                "LeftMargin": -349.9999,
+                "RightMargin": -370.0001,
+                "TopMargin": 290.0,
+                "BottomMargin": 310.0,
+                "Tag": 161,
+                "ActionTag": 50629565,
+                "Size": {
+                  "X": 2000.0,
+                  "Y": 120.0
+                },
+                "Name": "Image_youjin_bg",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 740.0,
+                  "Y": 367.2297
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.5781,
+                  "Y": 0.51
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 740.0,
+                "RightMargin": 540.0,
+                "TopMargin": 352.7703,
+                "BottomMargin": 367.2297,
+                "Tag": 207,
+                "ActionTag": 1839507370,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "node_youzi",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 540.0,
+                  "Y": 370.8024
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.4219,
+                  "Y": 0.515
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 540.0,
+                "RightMargin": 740.0,
+                "TopMargin": 349.1976,
+                "BottomMargin": 370.8024,
+                "Tag": 206,
+                "ActionTag": -1942946501,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "node_youjin",
+                "ctype": "SingleNodeObjectData"
+              }
+            ],
+            "ActionTag": -721440130,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "VisibleForFrame": false,
+            "Name": "panel_youjinAct",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../font/DFYuanW7-GB2312.ttf",
+        "../font/Timer_num.png",
+        "../GameHall/Resoures/hall.plist",
+        "../GameHall/Resoures/hall.png",
+        "../GameHall/Resoures/large/img_yaojiqidongmajiang.png",
+        "../GameHall/Resoures/nxGameUI.plist",
+        "../GameHall/Resoures/nxGameUI.png",
+        "../MajhongBase/Resoures/large/majhong_table.png",
+        "../MajhongBase/Resoures/table_other.plist",
+        "../MajhongBase/Resoures/table_other.png",
+        "../MajhongBase/Resoures/tableclock.plist",
+        "../MajhongBase/Resoures/tableclock.png",
+        "../MajhongBase/Resoures/tileImage.plist",
+        "../MajhongBase/Resoures/tileImage.png",
+        "Resoures/large/wuhan_piziqueding.png",
+        "Resoures/large/wuhanimg_kai.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

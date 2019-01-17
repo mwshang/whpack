@@ -1,0 +1,301 @@
+{
+  "ID": "cd983ea0-5401-43ff-acd2-e735994d7715",
+  "Version": "2.3.3.0",
+  "Name": "GameXieyi",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 51,
+        "Children": [
+          {
+            "BackColorAlpha": 0,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 53,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "GameHall/Resoures/large/img_yonghuxieyi.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 1160,
+                "Scale9Height": 705,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 360.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.9695,
+                  "Y": 0.9792
+                },
+                "LeftMargin": 19.5,
+                "RightMargin": 19.5,
+                "TopMargin": 7.5,
+                "BottomMargin": 7.5,
+                "Tag": 54,
+                "ActionTag": -1322588463,
+                "Size": {
+                  "X": 1241.0,
+                  "Y": 705.0
+                },
+                "Name": "image_bg",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "IsBounceEnabled": true,
+                "InnerNodeSize": {
+                  "Width": 118080,
+                  "Height": 526
+                },
+                "ScrollDirectionType": "Vertical",
+                "ClipAble": true,
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "G": 150,
+                  "B": 100
+                },
+                "FirstColor": {
+                  "G": 150,
+                  "B": 100
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 38.2544,
+                  "Y": 107.1332
+                },
+                "Scale": {
+                  "ScaleX": 1.0029,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0299,
+                  "Y": 0.1488
+                },
+                "PreSize": {
+                  "X": 0.9375,
+                  "Y": 0.7306
+                },
+                "LeftMargin": 38.2544,
+                "RightMargin": 41.7456,
+                "TopMargin": 86.8668,
+                "BottomMargin": 107.1332,
+                "Tag": 56,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/large/xieyi.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 1280,
+                    "Scale9Height": 2173,
+                    "AnchorPoint": {
+                      "ScaleY": 1.0
+                    },
+                    "Position": {
+                      "X": 3.5022,
+                      "Y": 552.387
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 1.0502
+                    },
+                    "PreSize": {
+                      "X": 0.0102,
+                      "Y": 3.9924
+                    },
+                    "LeftMargin": 3.5022,
+                    "RightMargin": 116876.5,
+                    "TopMargin": -26.387,
+                    "BottomMargin": -1547.613,
+                    "Tag": 75,
+                    "ActionTag": -547013920,
+                    "Size": {
+                      "X": 1200.0,
+                      "Y": 2100.0
+                    },
+                    "Name": "Image_content",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": 1358970848,
+                "Size": {
+                  "X": 1200.0,
+                  "Y": 526.0
+                },
+                "Name": "msg_view",
+                "ctype": "ScrollViewObjectData"
+              }
+            ],
+            "ActionTag": 1752249258,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "panel_root",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "queding-on.png",
+              "Plist": "GameHall/Resoures/common.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "queding-on.png",
+              "Plist": "GameHall/Resoures/common.plist"
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 197,
+            "Scale9Height": 78,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 611.9711,
+              "Y": 62.9973
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4781,
+              "Y": 0.0875
+            },
+            "PreSize": {
+              "X": 0.1773,
+              "Y": 0.1389
+            },
+            "LeftMargin": 498.4711,
+            "RightMargin": 554.5289,
+            "TopMargin": 607.0027,
+            "BottomMargin": 12.9973,
+            "CallBackType": "Click",
+            "Tag": 127,
+            "ActionTag": -504655231,
+            "Size": {
+              "X": 227.0,
+              "Y": 100.0
+            },
+            "Name": "btn_back",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Resoures/common.plist",
+        "Resoures/common.png",
+        "Resoures/large/img_yonghuxieyi.png",
+        "Resoures/large/xieyi.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

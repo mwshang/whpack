@@ -1,0 +1,10 @@
+{
+  "packageUrl": "http://wuhanqipai.oss-cn-hangzhou.aliyuncs.com/qipai",
+  "remoteManifestUrl": "http://wuhanqipai.oss-cn-hangzhou.aliyuncs.com/qipai/project.manifest",
+  "remoteVersionUrl": "http://wuhanqipai.oss-cn-hangzhou.aliyuncs.com/qipai/version.manifest",
+  "version" : "1.0.0",
+  "groupVersions" : {
+    "0" : "1.0.0"
+  },
+  "engineVersion" : "3.8"
+}

@@ -1,0 +1,430 @@
+{
+  "ID": "b7fd05cc-ac82-47ef-b29a-9b1bdc2b38e5",
+  "Version": "2.3.3.0",
+  "Name": "WuHanCardInput",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 1113,
+        "Children": [
+          {
+            "BackColorAlpha": 63,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 1133,
+            "Children": [
+              {
+                "BackColorAlpha": 0,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 360.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.5875,
+                  "Y": 0.7097
+                },
+                "LeftMargin": 264.0,
+                "RightMargin": 264.0,
+                "TopMargin": 104.5,
+                "BottomMargin": 104.5,
+                "Tag": 1134,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "PokerSSS/Resoures/large/digkuang.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 76,
+                    "Scale9OriginY": 78,
+                    "Scale9Width": 677,
+                    "Scale9Height": 320,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 380.4368,
+                      "Y": 207.0061
+                    },
+                    "Scale": {
+                      "ScaleX": 0.5847,
+                      "ScaleY": 0.4994
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5059,
+                      "Y": 0.4051
+                    },
+                    "PreSize": {
+                      "X": 1.125,
+                      "Y": 1.0137
+                    },
+                    "LeftMargin": -42.5632,
+                    "RightMargin": -51.4368,
+                    "TopMargin": 44.9939,
+                    "BottomMargin": -51.9939,
+                    "Tag": 1135,
+                    "ActionTag": 52712963,
+                    "Size": {
+                      "X": 846.0,
+                      "Y": 518.0
+                    },
+                    "Name": "Image_1",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Club/Resoures/large/img_jiaru.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 368,
+                    "Scale9Height": 79,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 380.0241,
+                      "Y": 253.2068
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5054,
+                      "Y": 0.4955
+                    },
+                    "PreSize": {
+                      "X": 0.4894,
+                      "Y": 0.1546
+                    },
+                    "LeftMargin": 196.0241,
+                    "RightMargin": 187.9759,
+                    "TopMargin": 218.2932,
+                    "BottomMargin": 213.7068,
+                    "Tag": 1185,
+                    "Children": [
+                      {
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "font/DFYuanW7-GB2312.ttf",
+                          "Plist": ""
+                        },
+                        "FontSize": 30,
+                        "IsCustomSize": true,
+                        "LabelText": "",
+                        "PlaceHolderText": "点击输入底金",
+                        "MaxLengthEnable": true,
+                        "MaxLengthText": 10,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 177.4,
+                          "Y": 40.33
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {
+                          "R": 72,
+                          "G": 93,
+                          "B": 101
+                        },
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.4821,
+                          "Y": 0.5105
+                        },
+                        "PreSize": {
+                          "X": 0.8859,
+                          "Y": 0.5063
+                        },
+                        "LeftMargin": 14.4,
+                        "RightMargin": 27.6,
+                        "TopMargin": 18.67,
+                        "BottomMargin": 20.33,
+                        "Tag": 1186,
+                        "ActionTag": -1168596620,
+                        "Size": {
+                          "X": 326.0,
+                          "Y": 40.0
+                        },
+                        "Name": "input_pack_name",
+                        "ctype": "TextFieldObjectData"
+                      }
+                    ],
+                    "ActionTag": -1793311989,
+                    "Size": {
+                      "X": 368.0,
+                      "Y": 79.0
+                    },
+                    "Name": "input_bg",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "Club/Resoures/large/qd_queding.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "Club/Resoures/large/qd_queding.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 10,
+                    "Scale9Width": 197,
+                    "Scale9Height": 80,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 268.464,
+                      "Y": 141.0
+                    },
+                    "Scale": {
+                      "ScaleX": 0.9,
+                      "ScaleY": 0.89
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.357,
+                      "Y": 0.2759
+                    },
+                    "PreSize": {
+                      "X": 0.3019,
+                      "Y": 0.1957
+                    },
+                    "LeftMargin": 154.964,
+                    "RightMargin": 370.036,
+                    "TopMargin": 320.0,
+                    "BottomMargin": 91.0,
+                    "Tag": 1138,
+                    "ActionTag": 487579473,
+                    "Size": {
+                      "X": 227.0,
+                      "Y": 100.0
+                    },
+                    "Name": "btn_ok",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "Club/Resoures/large/qd_quxiao.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "Club/Resoures/large/qd_quxiao.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 197,
+                    "Scale9Height": 78,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 494.8912,
+                      "Y": 141.0
+                    },
+                    "Scale": {
+                      "ScaleX": 0.9,
+                      "ScaleY": 0.9
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.6581,
+                      "Y": 0.2759
+                    },
+                    "PreSize": {
+                      "X": 0.3019,
+                      "Y": 0.1957
+                    },
+                    "LeftMargin": 381.3912,
+                    "RightMargin": 143.6088,
+                    "TopMargin": 320.0,
+                    "BottomMargin": 91.0,
+                    "Tag": 1139,
+                    "ActionTag": -1994763487,
+                    "Size": {
+                      "X": 227.0,
+                      "Y": 100.0
+                    },
+                    "Name": "btn_cancel",
+                    "ctype": "ButtonObjectData"
+                  }
+                ],
+                "ActionTag": 1322784139,
+                "Size": {
+                  "X": 752.0,
+                  "Y": 511.0
+                },
+                "Name": "panel_root",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": 2141777432,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "panel",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../Club/Resoures/large/img_jiaru.png",
+        "../Club/Resoures/large/qd_queding.png",
+        "../Club/Resoures/large/qd_quxiao.png",
+        "../font/DFYuanW7-GB2312.ttf",
+        "../PokerSSS/Resoures/large/digkuang.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

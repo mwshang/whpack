@@ -1,0 +1,757 @@
+{
+  "ID": "05e49066-c885-45e7-86a2-9624740dedf1",
+  "Version": "2.3.3.0",
+  "Name": "SSSLefterPanel",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 37,
+        "Children": [
+          {
+            "BackColorAlpha": 0,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "CallBackType": "Click",
+            "Tag": 40,
+            "Children": [
+              {
+                "BackColorAlpha": 0,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 0.68
+                },
+                "TopMargin": 64.0,
+                "Tag": 61,
+                "ActionTag": 537017368,
+                "Size": {
+                  "X": 1280.0,
+                  "Y": 136.0
+                },
+                "Name": "panel_cardIn",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 387.8337,
+                  "Y": 82.27
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.303,
+                  "Y": 0.4113
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 387.8337,
+                "RightMargin": 892.1663,
+                "TopMargin": 117.73,
+                "BottomMargin": 82.27,
+                "Tag": 102,
+                "ActionTag": 440940094,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "node_tip",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "sssShowComplete.png",
+                  "Plist": "PokerSSS/Resoures/gameUI.plist"
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 12,
+                "Scale9Width": 39,
+                "Scale9Height": 13,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 170.0,
+                  "Y": 50.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1328,
+                  "Y": 0.25
+                },
+                "PreSize": {
+                  "X": 0.0539,
+                  "Y": 0.185
+                },
+                "LeftMargin": 135.5,
+                "RightMargin": 1075.5,
+                "TopMargin": 131.5,
+                "BottomMargin": 31.5,
+                "Tag": 236,
+                "ActionTag": 1326160445,
+                "Size": {
+                  "X": 69.0,
+                  "Y": 37.0
+                },
+                "Name": "image_tip",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "ssspoker_type3.png",
+                  "Plist": "PokerSSS/Resoures/gameUI.plist"
+                },
+                "Scale9Width": 74,
+                "Scale9Height": 37,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -40.0,
+                  "Y": 120.0
+                },
+                "Scale": {
+                  "ScaleX": 0.8,
+                  "ScaleY": 0.8
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": -0.0313,
+                  "Y": 0.6
+                },
+                "PreSize": {
+                  "X": 0.0578,
+                  "Y": 0.185
+                },
+                "LeftMargin": -77.0,
+                "RightMargin": 1283.0,
+                "TopMargin": 61.5,
+                "BottomMargin": 101.5,
+                "Tag": 143,
+                "ActionTag": -1469517294,
+                "Size": {
+                  "X": 74.0,
+                  "Y": 37.0
+                },
+                "Name": "image_toutype",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "CharWidth": 30,
+                "CharHeight": 36,
+                "LabelText": "/8",
+                "StartChar": "/",
+                "LabelAtlasFileImage_CNB": {
+                  "Type": "Normal",
+                  "Path": "font/score_shuzi02.png",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -40.0,
+                  "Y": 90.0
+                },
+                "Scale": {
+                  "ScaleX": 0.6,
+                  "ScaleY": 0.6
+                },
+                "CColor": {
+                  "R": 225
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": -0.0313,
+                  "Y": 0.45
+                },
+                "PreSize": {
+                  "X": 0.0469,
+                  "Y": 0.18
+                },
+                "LeftMargin": -70.0,
+                "RightMargin": 1290.0,
+                "TopMargin": 92.0,
+                "BottomMargin": 72.0,
+                "Tag": 384,
+                "ActionTag": 1350301162,
+                "Size": {
+                  "X": 60.0,
+                  "Y": 36.0
+                },
+                "Name": "text_winscoretou",
+                "ctype": "TextAtlasObjectData"
+              },
+              {
+                "CharWidth": 30,
+                "CharHeight": 36,
+                "LabelText": "/8",
+                "StartChar": "/",
+                "LabelAtlasFileImage_CNB": {
+                  "Type": "Normal",
+                  "Path": "font/score_shuzi01.png",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -40.0,
+                  "Y": 90.0
+                },
+                "Scale": {
+                  "ScaleX": 0.6,
+                  "ScaleY": 0.6
+                },
+                "CColor": {
+                  "R": 225
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": -0.0313,
+                  "Y": 0.45
+                },
+                "PreSize": {
+                  "X": 0.0469,
+                  "Y": 0.18
+                },
+                "LeftMargin": -70.0,
+                "RightMargin": 1290.0,
+                "TopMargin": 92.0,
+                "BottomMargin": 72.0,
+                "Tag": 383,
+                "ActionTag": -882846429,
+                "Size": {
+                  "X": 60.0,
+                  "Y": 36.0
+                },
+                "Name": "text_losescoretou",
+                "ctype": "TextAtlasObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "ssspoker_type3.png",
+                  "Plist": "PokerSSS/Resoures/gameUI.plist"
+                },
+                "Scale9Width": 74,
+                "Scale9Height": 37,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -40.0,
+                  "Y": 60.0
+                },
+                "Scale": {
+                  "ScaleX": 0.8,
+                  "ScaleY": 0.8
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": -0.0313,
+                  "Y": 0.3
+                },
+                "PreSize": {
+                  "X": 0.0578,
+                  "Y": 0.185
+                },
+                "LeftMargin": -77.0,
+                "RightMargin": 1283.0,
+                "TopMargin": 121.5,
+                "BottomMargin": 41.5,
+                "Tag": 141,
+                "ActionTag": -216406388,
+                "Size": {
+                  "X": 74.0,
+                  "Y": 37.0
+                },
+                "Name": "image_zhongtype",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "CharWidth": 30,
+                "CharHeight": 36,
+                "LabelText": "/8",
+                "StartChar": "/",
+                "LabelAtlasFileImage_CNB": {
+                  "Type": "Normal",
+                  "Path": "font/score_shuzi02.png",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -40.0,
+                  "Y": 30.0
+                },
+                "Scale": {
+                  "ScaleX": 0.6,
+                  "ScaleY": 0.6
+                },
+                "CColor": {
+                  "R": 225
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": -0.0313,
+                  "Y": 0.15
+                },
+                "PreSize": {
+                  "X": 0.0469,
+                  "Y": 0.18
+                },
+                "LeftMargin": -70.0,
+                "RightMargin": 1290.0,
+                "TopMargin": 152.0,
+                "BottomMargin": 12.0,
+                "Tag": 382,
+                "ActionTag": -1768257987,
+                "Size": {
+                  "X": 60.0,
+                  "Y": 36.0
+                },
+                "Name": "text_winscorezhong",
+                "ctype": "TextAtlasObjectData"
+              },
+              {
+                "CharWidth": 30,
+                "CharHeight": 36,
+                "LabelText": "/8",
+                "StartChar": "/",
+                "LabelAtlasFileImage_CNB": {
+                  "Type": "Normal",
+                  "Path": "font/score_shuzi01.png",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -40.0,
+                  "Y": 30.0
+                },
+                "Scale": {
+                  "ScaleX": 0.6,
+                  "ScaleY": 0.6
+                },
+                "CColor": {
+                  "R": 225
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": -0.0313,
+                  "Y": 0.15
+                },
+                "PreSize": {
+                  "X": 0.0469,
+                  "Y": 0.18
+                },
+                "LeftMargin": -70.0,
+                "RightMargin": 1290.0,
+                "TopMargin": 152.0,
+                "BottomMargin": 12.0,
+                "Tag": 381,
+                "ActionTag": -1467383816,
+                "Size": {
+                  "X": 60.0,
+                  "Y": 36.0
+                },
+                "Name": "text_losescorezhong",
+                "ctype": "TextAtlasObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "ssspoker_type3.png",
+                  "Plist": "PokerSSS/Resoures/gameUI.plist"
+                },
+                "Scale9Width": 74,
+                "Scale9Height": 37,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -40.0,
+                  "Y": 0.0
+                },
+                "Scale": {
+                  "ScaleX": 0.8,
+                  "ScaleY": 0.8
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": -0.0313,
+                  "Y": 0.0
+                },
+                "PreSize": {
+                  "X": 0.0578,
+                  "Y": 0.185
+                },
+                "LeftMargin": -77.0,
+                "RightMargin": 1283.0,
+                "TopMargin": 181.5,
+                "BottomMargin": -18.5,
+                "Tag": 139,
+                "ActionTag": -1460778251,
+                "Size": {
+                  "X": 74.0,
+                  "Y": 37.0
+                },
+                "Name": "image_weitype",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "CharWidth": 30,
+                "CharHeight": 36,
+                "LabelText": "/8",
+                "StartChar": "/",
+                "LabelAtlasFileImage_CNB": {
+                  "Type": "Normal",
+                  "Path": "font/score_shuzi02.png",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -40.0,
+                  "Y": -30.0
+                },
+                "Scale": {
+                  "ScaleX": 0.6,
+                  "ScaleY": 0.6
+                },
+                "CColor": {
+                  "R": 225
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": -0.0313,
+                  "Y": -0.15
+                },
+                "PreSize": {
+                  "X": 0.0469,
+                  "Y": 0.18
+                },
+                "LeftMargin": -70.0,
+                "RightMargin": 1290.0,
+                "TopMargin": 212.0,
+                "BottomMargin": -48.0,
+                "Tag": 380,
+                "ActionTag": 309944389,
+                "Size": {
+                  "X": 60.0,
+                  "Y": 36.0
+                },
+                "Name": "text_winscorewei",
+                "ctype": "TextAtlasObjectData"
+              },
+              {
+                "CharWidth": 30,
+                "CharHeight": 36,
+                "LabelText": "/8",
+                "StartChar": "/",
+                "LabelAtlasFileImage_CNB": {
+                  "Type": "Normal",
+                  "Path": "font/score_shuzi01.png",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -40.0,
+                  "Y": -30.0
+                },
+                "Scale": {
+                  "ScaleX": 0.6,
+                  "ScaleY": 0.6
+                },
+                "CColor": {
+                  "R": 225
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": -0.0313,
+                  "Y": -0.15
+                },
+                "PreSize": {
+                  "X": 0.0469,
+                  "Y": 0.18
+                },
+                "LeftMargin": -70.0,
+                "RightMargin": 1290.0,
+                "TopMargin": 212.0,
+                "BottomMargin": -48.0,
+                "Tag": 379,
+                "ActionTag": 383874077,
+                "Size": {
+                  "X": 60.0,
+                  "Y": 36.0
+                },
+                "Name": "text_losescorewei",
+                "ctype": "TextAtlasObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "ssspoker_type90.png",
+                  "Plist": "PokerSSS/Resoures/gameUI.plist"
+                },
+                "Scale9Width": 74,
+                "Scale9Height": 36,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 105.0,
+                  "Y": -20.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.082,
+                  "Y": -0.1
+                },
+                "PreSize": {
+                  "X": 0.0578,
+                  "Y": 0.18
+                },
+                "LeftMargin": 68.0,
+                "RightMargin": 1138.0,
+                "TopMargin": 202.0,
+                "BottomMargin": -38.0,
+                "Tag": 260,
+                "ActionTag": 595209659,
+                "Size": {
+                  "X": 74.0,
+                  "Y": 36.0
+                },
+                "Name": "image_specailtype",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "CharWidth": 30,
+                "CharHeight": 36,
+                "LabelText": "/8",
+                "StartChar": "/",
+                "LabelAtlasFileImage_CNB": {
+                  "Type": "Normal",
+                  "Path": "font/score_shuzi02.png",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 293.0,
+                  "Y": 69.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 225
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2289,
+                  "Y": 0.345
+                },
+                "PreSize": {
+                  "X": 0.0469,
+                  "Y": 0.18
+                },
+                "LeftMargin": 263.0,
+                "RightMargin": 957.0,
+                "TopMargin": 113.0,
+                "BottomMargin": 51.0,
+                "Tag": 395,
+                "ActionTag": -2005787733,
+                "Size": {
+                  "X": 60.0,
+                  "Y": 36.0
+                },
+                "VisibleForFrame": false,
+                "Name": "text_winscore",
+                "ctype": "TextAtlasObjectData"
+              },
+              {
+                "CharWidth": 30,
+                "CharHeight": 36,
+                "LabelText": "/8",
+                "StartChar": "/",
+                "LabelAtlasFileImage_CNB": {
+                  "Type": "Normal",
+                  "Path": "font/score_shuzi01.png",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 293.0,
+                  "Y": 69.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 225
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2289,
+                  "Y": 0.345
+                },
+                "PreSize": {
+                  "X": 0.0469,
+                  "Y": 0.18
+                },
+                "LeftMargin": 263.0,
+                "RightMargin": 957.0,
+                "TopMargin": 113.0,
+                "BottomMargin": 51.0,
+                "Tag": 396,
+                "ActionTag": -1548039722,
+                "Size": {
+                  "X": 60.0,
+                  "Y": 36.0
+                },
+                "VisibleForFrame": false,
+                "Name": "text_losescore",
+                "ctype": "TextAtlasObjectData"
+              }
+            ],
+            "ActionTag": 1355038170,
+            "Size": {
+              "X": 1280.0,
+              "Y": 200.0
+            },
+            "Name": "panel_root",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 200.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../font/score_shuzi01.png",
+        "../font/score_shuzi02.png",
+        "Resoures/gameUI.plist",
+        "Resoures/gameUI.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

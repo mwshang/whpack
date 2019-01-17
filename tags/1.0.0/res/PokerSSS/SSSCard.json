@@ -1,0 +1,225 @@
+{
+  "ID": "bebba029-1a7e-4a2e-8572-5f3df07d887b",
+  "Version": "2.3.3.0",
+  "Name": "SSSCard",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 33,
+        "Children": [
+          {
+            "BackColorAlpha": 0,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 67.5,
+              "Y": 91.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 34,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "YJ0x01.png",
+                  "Plist": "PokerSSS/Resoures/SSSPoker.plist"
+                },
+                "Scale9Width": 120,
+                "Scale9Height": 175,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 67.5,
+                  "Y": 91.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PercentWidthEnable": true,
+                "PercentHeightEnable": true,
+                "PercentWidthEnabled": true,
+                "PercentHeightEnabled": true,
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "Tag": 73,
+                "ActionTag": -1258629978,
+                "Size": {
+                  "X": 135.0,
+                  "Y": 182.0
+                },
+                "Name": "image_cardBG",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "PokerSSS/Resoures/large/sss_newMaPai.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 47,
+                "Scale9Height": 92,
+                "AnchorPoint": {
+                  "ScaleX": 0.5211,
+                  "ScaleY": 0.4526
+                },
+                "Position": {
+                  "X": 30.5,
+                  "Y": 129.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2259,
+                  "Y": 0.7088
+                },
+                "PreSize": {
+                  "X": 0.3481,
+                  "Y": 0.5055
+                },
+                "LeftMargin": 6.0083,
+                "RightMargin": 81.9917,
+                "TopMargin": 2.6392,
+                "BottomMargin": 87.3608,
+                "Tag": 243,
+                "ActionTag": 697680249,
+                "Size": {
+                  "X": 47.0,
+                  "Y": 92.0
+                },
+                "VisibleForFrame": false,
+                "Alpha": 229,
+                "Name": "image_ma",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "YJ0x00.png",
+                  "Plist": "PokerSSS/Resoures/SSSPoker.plist"
+                },
+                "Scale9Width": 115,
+                "Scale9Height": 158,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 67.5,
+                  "Y": 91.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PercentWidthEnable": true,
+                "PercentHeightEnable": true,
+                "PercentWidthEnabled": true,
+                "PercentHeightEnabled": true,
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "Tag": 244,
+                "ActionTag": -805833569,
+                "Size": {
+                  "X": 135.0,
+                  "Y": 182.0
+                },
+                "VisibleForFrame": false,
+                "Name": "image_cardBG_back",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": 566513273,
+            "Size": {
+              "X": 135.0,
+              "Y": 182.0
+            },
+            "Name": "panel_card",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 135.0,
+          "Y": 182.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Resoures/large/sss_newMaPai.png",
+        "Resoures/SSSPoker.plist",
+        "Resoures/SSSPoker.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

@@ -1,0 +1,403 @@
+{
+  "ID": "d14e6194-b626-4258-98d1-dcb8bd0eb5ec",
+  "Version": "2.3.3.0",
+  "Name": "GameShare",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 69,
+        "Children": [
+          {
+            "BackColorAlpha": 63,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 70,
+            "Children": [
+              {
+                "BackColorAlpha": 0,
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "GameHall/Resoures/large/share_bg.png",
+                  "Plist": ""
+                },
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 706,
+                "Scale9Height": 511,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 360.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.4688,
+                  "Y": 0.5
+                },
+                "LeftMargin": 340.0,
+                "RightMargin": 340.0,
+                "TopMargin": 180.0,
+                "BottomMargin": 180.0,
+                "Tag": 72,
+                "Children": [
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/large/nx_share1.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/large/nx_share1.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 193,
+                    "Scale9Height": 202,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 180.0,
+                      "Y": 161.2629
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.3,
+                      "Y": 0.448
+                    },
+                    "PreSize": {
+                      "X": 0.3717,
+                      "Y": 0.6222
+                    },
+                    "LeftMargin": 68.5,
+                    "RightMargin": 308.5,
+                    "TopMargin": 86.7371,
+                    "BottomMargin": 49.2629,
+                    "Tag": 75,
+                    "ActionTag": -1633543109,
+                    "Size": {
+                      "X": 223.0,
+                      "Y": 224.0
+                    },
+                    "Name": "btn_friendgrounps",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/large/nx_share2.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/large/nx_share2.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 193,
+                    "Scale9Height": 202,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 420.0,
+                      "Y": 163.3938
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.7,
+                      "Y": 0.4539
+                    },
+                    "PreSize": {
+                      "X": 0.3717,
+                      "Y": 0.6222
+                    },
+                    "LeftMargin": 308.5,
+                    "RightMargin": 68.5,
+                    "TopMargin": 84.6062,
+                    "BottomMargin": 51.3938,
+                    "Tag": 76,
+                    "ActionTag": -1277128574,
+                    "Size": {
+                      "X": 223.0,
+                      "Y": 224.0
+                    },
+                    "Name": "btn_friendmoments",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 20,
+                    "LabelText": "每天首次分享朋友圈可以获取钻石奖励哦!",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/DFYuanW7-GB2312.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 307.8,
+                      "Y": 27.111
+                    },
+                    "Scale": {
+                      "ScaleX": 1.042,
+                      "ScaleY": 1.1944
+                    },
+                    "CColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.513,
+                      "Y": 0.0753
+                    },
+                    "PreSize": {
+                      "X": 0.6167,
+                      "Y": 0.0556
+                    },
+                    "LeftMargin": 122.8,
+                    "RightMargin": 107.2,
+                    "TopMargin": 322.889,
+                    "BottomMargin": 17.111,
+                    "Tag": 254,
+                    "ActionTag": 1876887106,
+                    "Size": {
+                      "X": 370.0,
+                      "Y": 20.0
+                    },
+                    "Name": "Text_1",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "hall_freeDia.png",
+                      "Plist": "GameHall/Resoures/hall.plist"
+                    },
+                    "Scale9Width": 89,
+                    "Scale9Height": 88,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 484.7426,
+                      "Y": 259.6279
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8079,
+                      "Y": 0.7212
+                    },
+                    "PreSize": {
+                      "X": 0.1483,
+                      "Y": 0.2444
+                    },
+                    "LeftMargin": 440.2426,
+                    "RightMargin": 70.7574,
+                    "TopMargin": 56.3721,
+                    "BottomMargin": 215.6279,
+                    "Tag": 252,
+                    "ActionTag": 126011184,
+                    "Size": {
+                      "X": 89.0,
+                      "Y": 88.0
+                    },
+                    "Name": "img_award1",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": 765244096,
+                "Size": {
+                  "X": 600.0,
+                  "Y": 360.0
+                },
+                "Name": "panel_2",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": -1314568043,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "panel_root",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../Default/Button_Disable.png",
+        "../font/DFYuanW7-GB2312.ttf",
+        "Resoures/hall.plist",
+        "Resoures/hall.png",
+        "Resoures/large/nx_share1.png",
+        "Resoures/large/nx_share2.png",
+        "Resoures/large/share_bg.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

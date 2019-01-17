@@ -1,0 +1,417 @@
+{
+  "ID": "408ea7a6-56e2-41bf-916f-239072a44dfb",
+  "Version": "2.3.3.0",
+  "Name": "SSSGameDownLoad",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 9,
+        "Children": [
+          {
+            "BackColorAlpha": 102,
+            "FileData": {
+              "Type": "Normal",
+              "Path": "GameHall/Resoures/large/bg.png",
+              "Plist": ""
+            },
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1280,
+            "Scale9Height": 720,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 10,
+            "Children": [
+              {
+                "FontSize": 40,
+                "LabelText": "资源加载中. . .",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "font/DFYuanW7-GB2312.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 116.88
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.1623
+                },
+                "PreSize": {
+                  "X": 0.2313,
+                  "Y": 0.0556
+                },
+                "LeftMargin": 492.0,
+                "RightMargin": 492.0,
+                "TopMargin": 583.12,
+                "BottomMargin": 96.88,
+                "Tag": 23,
+                "ActionTag": -1437080852,
+                "Size": {
+                  "X": 296.0,
+                  "Y": 40.0
+                },
+                "Name": "Text_tip",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "GameHall/Resoures/large/img_lrodingdi.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 499,
+                "Scale9Height": 25,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 50.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.0694
+                },
+                "PreSize": {
+                  "X": 0.3898,
+                  "Y": 0.0347
+                },
+                "LeftMargin": 390.5,
+                "RightMargin": 390.5,
+                "TopMargin": 657.5,
+                "BottomMargin": 37.5,
+                "Tag": 25,
+                "ActionTag": -1019744831,
+                "Size": {
+                  "X": 499.0,
+                  "Y": 25.0
+                },
+                "Name": "Image_BarBg",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "ProgressInfo": 0,
+                "ImageFileData": {
+                  "Type": "Normal",
+                  "Path": "GameHall/Resoures/large/img_lrodingtiao.png",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 50.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.0694
+                },
+                "PreSize": {
+                  "X": 0.3898,
+                  "Y": 0.0347
+                },
+                "LeftMargin": 390.5,
+                "RightMargin": 390.5,
+                "TopMargin": 657.5,
+                "BottomMargin": 37.5,
+                "Tag": 24,
+                "ActionTag": -580954559,
+                "Size": {
+                  "X": 499.0,
+                  "Y": 25.0
+                },
+                "Name": "LoadingBar",
+                "ctype": "LoadingBarObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Default",
+                  "Path": "Default/ImageFile.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 46,
+                "Scale9Height": 46,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 360.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.493,
+                  "Y": 0.6542
+                },
+                "LeftMargin": 324.5,
+                "RightMargin": 324.5,
+                "TopMargin": 124.5,
+                "BottomMargin": 124.5,
+                "Tag": 50,
+                "Children": [
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 28,
+                    "LabelText": "",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/DFYuanW7-GB2312.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 315.5,
+                      "Y": 226.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.4798
+                    },
+                    "PreSize": {
+                      "X": 0.8716,
+                      "Y": 0.2123
+                    },
+                    "LeftMargin": 40.5,
+                    "RightMargin": 40.5,
+                    "TopMargin": 195.0,
+                    "BottomMargin": 176.0,
+                    "Tag": 52,
+                    "ActionTag": -730493430,
+                    "Size": {
+                      "X": 550.0,
+                      "Y": 100.0
+                    },
+                    "Name": "text_des",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/large/download_btn.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/large/download_btn.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 167,
+                    "Scale9Height": 61,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 315.5,
+                      "Y": 83.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.1762
+                    },
+                    "PreSize": {
+                      "X": 0.3043,
+                      "Y": 0.1614
+                    },
+                    "LeftMargin": 219.5,
+                    "RightMargin": 219.5,
+                    "TopMargin": 350.0,
+                    "BottomMargin": 45.0,
+                    "Tag": 51,
+                    "ActionTag": 1497896734,
+                    "Size": {
+                      "X": 192.0,
+                      "Y": 76.0
+                    },
+                    "Name": "btn_confirm",
+                    "ctype": "ButtonObjectData"
+                  }
+                ],
+                "ActionTag": -794692696,
+                "Size": {
+                  "X": 631.0,
+                  "Y": 471.0
+                },
+                "VisibleForFrame": false,
+                "Name": "img_tip",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": 145278375,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "panel",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../Default/Button_Disable.png",
+        "../Default/ImageFile.png",
+        "../font/DFYuanW7-GB2312.ttf",
+        "../GameHall/Resoures/large/bg.png",
+        "../GameHall/Resoures/large/download_btn.png",
+        "../GameHall/Resoures/large/img_lrodingdi.png",
+        "../GameHall/Resoures/large/img_lrodingtiao.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

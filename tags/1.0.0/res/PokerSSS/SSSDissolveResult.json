@@ -1,0 +1,779 @@
+{
+  "ID": "5e3d4c15-1129-4a7f-ad50-afcac7a77878",
+  "Version": "2.3.3.0",
+  "Name": "SSSDissolveResult",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 97,
+        "Children": [
+          {
+            "BackColorAlpha": 63,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 98,
+            "Children": [
+              {
+                "BackColorAlpha": 0,
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "GameHall/Resoures/large/tishi.png",
+                  "Plist": ""
+                },
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 752,
+                "Scale9Height": 511,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 240.0,
+                  "Y": 159.984
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.1875,
+                  "Y": 0.2222
+                },
+                "PreSize": {
+                  "X": 0.625,
+                  "Y": 0.5556
+                },
+                "LeftMargin": 240.0,
+                "RightMargin": 240.0,
+                "TopMargin": 160.016,
+                "BottomMargin": 159.984,
+                "Tag": 99,
+                "Children": [
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 24,
+                    "LabelText": "玩家[大宝剑]申请解散房间,请等待其他玩家选择.(超过五分钟未选择,默认同意)",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/DFYuanW7-GB2312.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 131.5,
+                      "Y": 327.3122
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 72,
+                      "G": 93,
+                      "B": 101
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1644,
+                      "Y": 0.8183
+                    },
+                    "PreSize": {
+                      "X": 0.675,
+                      "Y": 0.125
+                    },
+                    "LeftMargin": 131.5,
+                    "RightMargin": 128.5,
+                    "TopMargin": 47.6878,
+                    "BottomMargin": 302.3122,
+                    "Tag": 154,
+                    "ActionTag": 182614039,
+                    "Size": {
+                      "X": 540.0,
+                      "Y": 50.0
+                    },
+                    "Name": "text_dissolve",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 24,
+                    "LabelText": "[大宝剑] 等待选择",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/DFYuanW7-GB2312.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 131.5,
+                      "Y": 273.9652
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 72,
+                      "G": 93,
+                      "B": 101
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1644,
+                      "Y": 0.6849
+                    },
+                    "PreSize": {
+                      "X": 0.675,
+                      "Y": 0.0625
+                    },
+                    "LeftMargin": 131.5,
+                    "RightMargin": 128.5,
+                    "TopMargin": 113.5348,
+                    "BottomMargin": 261.4652,
+                    "Tag": 155,
+                    "ActionTag": 1690659627,
+                    "Size": {
+                      "X": 540.0,
+                      "Y": 25.0
+                    },
+                    "Name": "text_dissolve_0",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 24,
+                    "LabelText": "[大宝剑] 等待选择",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/DFYuanW7-GB2312.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 131.5,
+                      "Y": 238.9669
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 72,
+                      "G": 93,
+                      "B": 101
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1644,
+                      "Y": 0.5974
+                    },
+                    "PreSize": {
+                      "X": 0.675,
+                      "Y": 0.0625
+                    },
+                    "LeftMargin": 131.5,
+                    "RightMargin": 128.5,
+                    "TopMargin": 148.5331,
+                    "BottomMargin": 226.4669,
+                    "Tag": 156,
+                    "ActionTag": 1976535932,
+                    "Size": {
+                      "X": 540.0,
+                      "Y": 25.0
+                    },
+                    "Name": "text_dissolve_1",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 24,
+                    "LabelText": "[大宝剑] 等待选择",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/DFYuanW7-GB2312.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 131.5,
+                      "Y": 203.9666
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 72,
+                      "G": 93,
+                      "B": 101
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1644,
+                      "Y": 0.5099
+                    },
+                    "PreSize": {
+                      "X": 0.675,
+                      "Y": 0.0625
+                    },
+                    "LeftMargin": 131.5,
+                    "RightMargin": 128.5,
+                    "TopMargin": 183.5334,
+                    "BottomMargin": 191.4666,
+                    "Tag": 157,
+                    "ActionTag": 168697342,
+                    "Size": {
+                      "X": 540.0,
+                      "Y": 25.0
+                    },
+                    "Name": "text_dissolve_2",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 24,
+                    "LabelText": "[大宝剑] 等待选择",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/DFYuanW7-GB2312.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 131.5,
+                      "Y": 168.9665
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 72,
+                      "G": 93,
+                      "B": 101
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1644,
+                      "Y": 0.4224
+                    },
+                    "PreSize": {
+                      "X": 0.675,
+                      "Y": 0.0625
+                    },
+                    "LeftMargin": 131.5,
+                    "RightMargin": 128.5,
+                    "TopMargin": 218.5335,
+                    "BottomMargin": 156.4665,
+                    "Tag": 1014,
+                    "ActionTag": 1810862164,
+                    "Size": {
+                      "X": 540.0,
+                      "Y": 25.0
+                    },
+                    "Name": "text_dissolve_3",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 24,
+                    "LabelText": "[大宝剑] 等待选择",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/DFYuanW7-GB2312.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 131.5,
+                      "Y": 133.9664
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 72,
+                      "G": 93,
+                      "B": 101
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1644,
+                      "Y": 0.3349
+                    },
+                    "PreSize": {
+                      "X": 0.675,
+                      "Y": 0.0625
+                    },
+                    "LeftMargin": 131.5,
+                    "RightMargin": 128.5,
+                    "TopMargin": 253.5336,
+                    "BottomMargin": 121.4664,
+                    "Tag": 1015,
+                    "ActionTag": 717868564,
+                    "Size": {
+                      "X": 540.0,
+                      "Y": 25.0
+                    },
+                    "Name": "text_dissolve_4",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 24,
+                    "LabelText": "[大宝剑] 等待选择",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/DFYuanW7-GB2312.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 131.5,
+                      "Y": 98.9658
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 72,
+                      "G": 93,
+                      "B": 101
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1644,
+                      "Y": 0.2474
+                    },
+                    "PreSize": {
+                      "X": 0.675,
+                      "Y": 0.0625
+                    },
+                    "LeftMargin": 131.5,
+                    "RightMargin": 128.5,
+                    "TopMargin": 288.5342,
+                    "BottomMargin": 86.4658,
+                    "Tag": 1016,
+                    "ActionTag": -775603263,
+                    "Size": {
+                      "X": 540.0,
+                      "Y": 25.0
+                    },
+                    "Name": "text_dissolve_5",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 24,
+                    "LabelText": "[大宝剑] 等待选择",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/DFYuanW7-GB2312.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 131.5,
+                      "Y": 63.9655
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 72,
+                      "G": 93,
+                      "B": 101
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1644,
+                      "Y": 0.1599
+                    },
+                    "PreSize": {
+                      "X": 0.675,
+                      "Y": 0.0625
+                    },
+                    "LeftMargin": 131.5,
+                    "RightMargin": 128.5,
+                    "TopMargin": 323.5345,
+                    "BottomMargin": 51.4655,
+                    "Tag": 220,
+                    "ActionTag": 1968254358,
+                    "Size": {
+                      "X": 540.0,
+                      "Y": 25.0
+                    },
+                    "Name": "text_dissolve_6",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 24,
+                    "LabelText": "[大宝剑] 等待选择",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/DFYuanW7-GB2312.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 131.5,
+                      "Y": 28.9659
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 72,
+                      "G": 93,
+                      "B": 101
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1644,
+                      "Y": 0.0724
+                    },
+                    "PreSize": {
+                      "X": 0.675,
+                      "Y": 0.0625
+                    },
+                    "LeftMargin": 131.5,
+                    "RightMargin": 128.5,
+                    "TopMargin": 358.5341,
+                    "BottomMargin": 16.4659,
+                    "Tag": 219,
+                    "ActionTag": -466106851,
+                    "Size": {
+                      "X": 540.0,
+                      "Y": 25.0
+                    },
+                    "Name": "text_dissolve_7",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "clock.png",
+                      "Plist": "GameHall/Resoures/common.plist"
+                    },
+                    "Scale9Width": 126,
+                    "Scale9Height": 128,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 400.0,
+                      "Y": -1.0
+                    },
+                    "Scale": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": -0.0025
+                    },
+                    "PreSize": {
+                      "X": 0.1625,
+                      "Y": 0.35
+                    },
+                    "LeftMargin": 335.0,
+                    "RightMargin": 335.0,
+                    "TopMargin": 331.0,
+                    "BottomMargin": -71.0,
+                    "Tag": 158,
+                    "Children": [
+                      {
+                        "FontSize": 40,
+                        "LabelText": "888",
+                        "FontResource": {
+                          "Type": "Normal",
+                          "Path": "font/DFYuanW7-GB2312.ttf",
+                          "Plist": ""
+                        },
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 65.0,
+                          "Y": 70.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.4692,
+                          "Y": 0.2857
+                        },
+                        "LeftMargin": 34.5,
+                        "RightMargin": 34.5,
+                        "TopMargin": 50.0,
+                        "BottomMargin": 50.0,
+                        "Tag": 436,
+                        "ActionTag": -1085900,
+                        "Size": {
+                          "X": 61.0,
+                          "Y": 40.0
+                        },
+                        "Name": "text_clock",
+                        "ctype": "TextObjectData"
+                      }
+                    ],
+                    "ActionTag": 437293993,
+                    "Size": {
+                      "X": 130.0,
+                      "Y": 140.0
+                    },
+                    "Name": "Image_2",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -737678856,
+                "Size": {
+                  "X": 800.0,
+                  "Y": 400.0
+                },
+                "Name": "panel_root",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": -2071450068,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "panel",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../font/DFYuanW7-GB2312.ttf",
+        "../GameHall/Resoures/common.plist",
+        "../GameHall/Resoures/common.png",
+        "../GameHall/Resoures/large/tishi.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

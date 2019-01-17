@@ -1,0 +1,632 @@
+{
+  "ID": "1e82f736-36c7-417c-ab93-42f796db4b76",
+  "Version": "2.3.3.0",
+  "Name": "playerInfo",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 127,
+        "Children": [
+          {
+            "BackColorAlpha": 153,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 128,
+            "Children": [
+              {
+                "BackColorAlpha": 0,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 638.42,
+                  "Y": 363.2006
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4988,
+                  "Y": 0.5044
+                },
+                "PreSize": {
+                  "X": 0.4688,
+                  "Y": 0.3194
+                },
+                "LeftMargin": 338.42,
+                "RightMargin": 341.58,
+                "TopMargin": 241.7994,
+                "BottomMargin": 248.2006,
+                "Tag": 483,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "GameHall/Resoures/large/common_wanjiaxinxi.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 33,
+                    "Scale9OriginY": 119,
+                    "Scale9Width": 470,
+                    "Scale9Height": 124,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 300.0,
+                      "Y": 156.4
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.68
+                    },
+                    "PreSize": {
+                      "X": 0.8933,
+                      "Y": 1.5739
+                    },
+                    "LeftMargin": 32.0,
+                    "RightMargin": 32.0,
+                    "TopMargin": -107.4,
+                    "BottomMargin": -24.6,
+                    "Tag": 493,
+                    "ActionTag": 252920068,
+                    "Size": {
+                      "X": 536.0,
+                      "Y": 362.0
+                    },
+                    "Name": "img_bg",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "public_frame_head.png",
+                      "Plist": "GameHall/Resoures/common.plist"
+                    },
+                    "Scale9OriginX": 42,
+                    "Scale9OriginY": 42,
+                    "Scale9Width": 26,
+                    "Scale9Height": 26,
+                    "AnchorPoint": {
+                      "ScaleX": 0.4758,
+                      "ScaleY": 0.4802
+                    },
+                    "Position": {
+                      "X": 135.2725,
+                      "Y": 151.1104
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2255,
+                      "Y": 0.657
+                    },
+                    "PreSize": {
+                      "X": 0.2367,
+                      "Y": 0.6174
+                    },
+                    "LeftMargin": 67.7086,
+                    "RightMargin": 390.2914,
+                    "TopMargin": 5.0718,
+                    "BottomMargin": 82.9282,
+                    "Tag": 484,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "female.png",
+                          "Plist": "GameHall/Resoures/common.plist"
+                        },
+                        "Scale9OriginX": 33,
+                        "Scale9OriginY": 33,
+                        "Scale9Width": 36,
+                        "Scale9Height": 36,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 71.0,
+                          "Y": 71.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PositionPercentXEnabled": true,
+                        "PositionPercentYEnabled": true,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5
+                        },
+                        "PreSize": {
+                          "X": 0.9155,
+                          "Y": 0.9155
+                        },
+                        "LeftMargin": 6.0,
+                        "RightMargin": 6.0,
+                        "TopMargin": 6.0,
+                        "BottomMargin": 6.0,
+                        "Tag": 486,
+                        "ActionTag": -15406106,
+                        "Size": {
+                          "X": 130.0,
+                          "Y": 130.0
+                        },
+                        "Name": "img_head",
+                        "ctype": "ImageViewObjectData"
+                      }
+                    ],
+                    "ActionTag": -1625017395,
+                    "Size": {
+                      "X": 142.0,
+                      "Y": 142.0
+                    },
+                    "Name": "img_frame",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FontSize": 22,
+                    "LabelText": "姓名:",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/DFYuanW7-GB2312.ttf",
+                      "Plist": ""
+                    },
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 249.6243,
+                      "Y": 200.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.416,
+                      "Y": 0.8696
+                    },
+                    "PreSize": {
+                      "X": 0.0917,
+                      "Y": 0.0957
+                    },
+                    "LeftMargin": 249.6243,
+                    "RightMargin": 295.3757,
+                    "TopMargin": 19.0,
+                    "BottomMargin": 189.0,
+                    "Tag": 495,
+                    "ActionTag": 1168480087,
+                    "Size": {
+                      "X": 55.0,
+                      "Y": 22.0
+                    },
+                    "Name": "text_name_title",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 22,
+                    "LabelText": "ID:",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/DFYuanW7-GB2312.ttf",
+                      "Plist": ""
+                    },
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 261.3692,
+                      "Y": 156.5954
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 105,
+                      "G": 47,
+                      "B": 12
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4356,
+                      "Y": 0.6808
+                    },
+                    "PreSize": {
+                      "X": 0.055,
+                      "Y": 0.0957
+                    },
+                    "LeftMargin": 261.3692,
+                    "RightMargin": 305.6308,
+                    "TopMargin": 62.4046,
+                    "BottomMargin": 145.5954,
+                    "Tag": 494,
+                    "ActionTag": -1114058657,
+                    "Size": {
+                      "X": 33.0,
+                      "Y": 22.0
+                    },
+                    "Name": "text_id_title",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 22,
+                    "LabelText": "IP:",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/DFYuanW7-GB2312.ttf",
+                      "Plist": ""
+                    },
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 266.5886,
+                      "Y": 120.6479
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 105,
+                      "G": 47,
+                      "B": 12
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4443,
+                      "Y": 0.5246
+                    },
+                    "PreSize": {
+                      "X": 0.055,
+                      "Y": 0.0957
+                    },
+                    "LeftMargin": 266.5886,
+                    "RightMargin": 300.4114,
+                    "TopMargin": 98.3521,
+                    "BottomMargin": 109.6479,
+                    "Tag": 491,
+                    "ActionTag": 1908661594,
+                    "Size": {
+                      "X": 33.0,
+                      "Y": 22.0
+                    },
+                    "Name": "text_ip_title",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 22,
+                    "LabelText": "小乌龟",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/DFYuanW7-GB2312.ttf",
+                      "Plist": ""
+                    },
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 320.0,
+                      "Y": 200.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5333,
+                      "Y": 0.8696
+                    },
+                    "PreSize": {
+                      "X": 0.2767,
+                      "Y": 0.113
+                    },
+                    "LeftMargin": 320.0,
+                    "RightMargin": 114.0,
+                    "TopMargin": 17.0,
+                    "BottomMargin": 187.0,
+                    "Tag": 488,
+                    "ActionTag": 1951625283,
+                    "Size": {
+                      "X": 166.0,
+                      "Y": 26.0
+                    },
+                    "Name": "text_name",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 22,
+                    "LabelText": "2293101",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/DFYuanW7-GB2312.ttf",
+                      "Plist": ""
+                    },
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 320.0,
+                      "Y": 157.9004
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 105,
+                      "G": 47,
+                      "B": 12
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5333,
+                      "Y": 0.6865
+                    },
+                    "PreSize": {
+                      "X": 0.31,
+                      "Y": 0.113
+                    },
+                    "LeftMargin": 320.0,
+                    "RightMargin": 94.0,
+                    "TopMargin": 59.0996,
+                    "BottomMargin": 144.9004,
+                    "Tag": 492,
+                    "ActionTag": 159573958,
+                    "Size": {
+                      "X": 186.0,
+                      "Y": 26.0
+                    },
+                    "Name": "text_id",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 22,
+                    "LabelText": "112.113.200.129",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/DFYuanW7-GB2312.ttf",
+                      "Plist": ""
+                    },
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 320.0,
+                      "Y": 119.3427
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 105,
+                      "G": 47,
+                      "B": 12
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5333,
+                      "Y": 0.5189
+                    },
+                    "PreSize": {
+                      "X": 0.3333,
+                      "Y": 0.113
+                    },
+                    "LeftMargin": 320.0,
+                    "RightMargin": 80.0,
+                    "TopMargin": 97.6573,
+                    "BottomMargin": 106.3427,
+                    "Tag": 490,
+                    "ActionTag": -1496358743,
+                    "Size": {
+                      "X": 200.0,
+                      "Y": 26.0
+                    },
+                    "Name": "text_ip",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 1149899925,
+                "Size": {
+                  "X": 600.0,
+                  "Y": 230.0
+                },
+                "Name": "panel_info",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": 1630524444,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "panel_root",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../font/DFYuanW7-GB2312.ttf",
+        "../GameHall/Resoures/common.plist",
+        "../GameHall/Resoures/common.png",
+        "../GameHall/Resoures/large/common_wanjiaxinxi.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

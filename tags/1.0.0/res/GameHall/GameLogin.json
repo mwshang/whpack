@@ -1,0 +1,790 @@
+{
+  "ID": "03fe05b9-5c43-4a4d-93fd-a0a6cdff3101",
+  "Version": "2.3.3.0",
+  "Name": "GameLogin",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Children": [
+          {
+            "BackColorAlpha": 102,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 3,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "GameHall/Resoures/large/bg.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 1280,
+                "Scale9Height": 720,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 360.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "Tag": 2,
+                "ActionTag": -1648751698,
+                "Size": {
+                  "X": 1280.0,
+                  "Y": 720.0
+                },
+                "Name": "image_background",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": -591382751,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "pannel",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "BackColorAlpha": 0,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 360.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PositionPercentYEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.5
+            },
+            "PreSize": {
+              "X": 0.3617,
+              "Y": 0.4972
+            },
+            "LeftMargin": 408.5,
+            "RightMargin": 408.5,
+            "TopMargin": 181.0,
+            "BottomMargin": 181.0,
+            "Tag": 12,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "GameHall/Resoures/large/public_input_bg.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 602,
+                "Scale9Height": 60,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 231.5,
+                  "Y": 307.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.8575
+                },
+                "PreSize": {
+                  "X": 1.3002,
+                  "Y": 0.1676
+                },
+                "LeftMargin": -69.5,
+                "RightMargin": -69.5,
+                "TopMargin": 21.0,
+                "BottomMargin": 277.0,
+                "Tag": 78,
+                "Children": [
+                  {
+                    "FontSize": 36,
+                    "IsCustomSize": true,
+                    "LabelText": "",
+                    "PlaceHolderText": "账号",
+                    "MaxLengthText": 10,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 301.0,
+                      "Y": 30.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.6645,
+                      "Y": 0.75
+                    },
+                    "LeftMargin": 101.0,
+                    "RightMargin": 101.0,
+                    "TopMargin": 7.5,
+                    "BottomMargin": 7.5,
+                    "Tag": 620,
+                    "ActionTag": 534793140,
+                    "Size": {
+                      "X": 400.0,
+                      "Y": 45.0
+                    },
+                    "Name": "textfield_account",
+                    "ctype": "TextFieldObjectData"
+                  }
+                ],
+                "ActionTag": -146318761,
+                "Size": {
+                  "X": 602.0,
+                  "Y": 60.0
+                },
+                "Name": "sprite_account",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "GameHall/Resoures/large/public_input_bg.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 602,
+                "Scale9Height": 60,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 231.5,
+                  "Y": 220.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.6145
+                },
+                "PreSize": {
+                  "X": 1.3002,
+                  "Y": 0.1676
+                },
+                "LeftMargin": -69.5,
+                "RightMargin": -69.5,
+                "TopMargin": 108.0,
+                "BottomMargin": 190.0,
+                "Tag": 79,
+                "Children": [
+                  {
+                    "FontSize": 36,
+                    "IsCustomSize": true,
+                    "LabelText": "",
+                    "PlaceHolderText": "密码",
+                    "MaxLengthText": 10,
+                    "PasswordEnable": true,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 301.0,
+                      "Y": 30.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.6645,
+                      "Y": 0.75
+                    },
+                    "LeftMargin": 101.0,
+                    "RightMargin": 101.0,
+                    "TopMargin": 7.5,
+                    "BottomMargin": 7.5,
+                    "Tag": 622,
+                    "ActionTag": -1060522061,
+                    "Size": {
+                      "X": 400.0,
+                      "Y": 45.0
+                    },
+                    "Name": "textfield_pwd",
+                    "ctype": "TextFieldObjectData"
+                  }
+                ],
+                "ActionTag": 252188471,
+                "Size": {
+                  "X": 602.0,
+                  "Y": 60.0
+                },
+                "Name": "sprite_pwd",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "fastlogin_on.png",
+                  "Plist": "GameHall/Resoures/login.plist"
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "fastlogin_on.png",
+                  "Plist": "GameHall/Resoures/login.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "fastlogin.png",
+                  "Plist": "GameHall/Resoures/login.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 297,
+                "Scale9Height": 88,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -143.0,
+                  "Y": 60.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": -0.3089,
+                  "Y": 0.1676
+                },
+                "PreSize": {
+                  "X": 0.7063,
+                  "Y": 0.3073
+                },
+                "LeftMargin": -306.5,
+                "RightMargin": 442.5,
+                "TopMargin": 243.0,
+                "BottomMargin": 5.0,
+                "Tag": 624,
+                "ActionTag": -1115856012,
+                "Size": {
+                  "X": 327.0,
+                  "Y": 110.0
+                },
+                "Name": "btn_login",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "wxlogin_on.png",
+                  "Plist": "GameHall/Resoures/login.plist"
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "wxlogin_on.png",
+                  "Plist": "GameHall/Resoures/login.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "wxlogin.png",
+                  "Plist": "GameHall/Resoures/login.plist"
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 305,
+                "Scale9Height": 84,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 231.5,
+                  "Y": 60.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.1676
+                },
+                "PreSize": {
+                  "X": 0.7235,
+                  "Y": 0.2961
+                },
+                "LeftMargin": 64.0,
+                "RightMargin": 64.0,
+                "TopMargin": 245.0,
+                "BottomMargin": 7.0,
+                "Tag": 96,
+                "ActionTag": 76165453,
+                "Size": {
+                  "X": 335.0,
+                  "Y": 106.0
+                },
+                "Name": "btn_weixin",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 26,
+                "LabelText": "错误提示！",
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 231.5,
+                  "Y": -17.9
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": -0.05
+                },
+                "PreSize": {
+                  "X": 0.7775,
+                  "Y": 0.0894
+                },
+                "LeftMargin": 51.5,
+                "RightMargin": 51.5,
+                "TopMargin": 359.9,
+                "BottomMargin": -33.9,
+                "Tag": 646,
+                "ActionTag": 2138350826,
+                "Size": {
+                  "X": 360.0,
+                  "Y": 32.0
+                },
+                "VisibleForFrame": false,
+                "Name": "text_tip",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 22,
+                "LabelText": "抵制不良游戏，拒绝盗版游戏。注意自我保护，谨防受骗上当。适度游戏益脑，沉迷游戏伤身。合理安排时间，享受健康生活。",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "font/DFYuanW7-GB2312.ttf",
+                  "Plist": ""
+                },
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "R": 0,
+                  "G": 0,
+                  "B": 0
+                },
+                "OutlineEnabled": true,
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 231.5,
+                  "Y": -165.038
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": -0.461
+                },
+                "PreSize": {
+                  "X": 2.7646,
+                  "Y": 0.0894
+                },
+                "LeftMargin": -408.5,
+                "RightMargin": -408.5,
+                "TopMargin": 507.038,
+                "BottomMargin": -181.038,
+                "Tag": 65,
+                "ActionTag": -1893828781,
+                "Size": {
+                  "X": 1280.0,
+                  "Y": 32.0
+                },
+                "Name": "text_tip_0",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "login_xieyi.png",
+                  "Plist": "GameHall/Resoures/login.plist"
+                },
+                "Scale9Width": 181,
+                "Scale9Height": 25,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 230.9278,
+                  "Y": -48.3692
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4988,
+                  "Y": -0.1351
+                },
+                "PreSize": {
+                  "X": 0.3909,
+                  "Y": 0.0698
+                },
+                "LeftMargin": 140.4278,
+                "RightMargin": 141.5722,
+                "TopMargin": 393.8692,
+                "BottomMargin": -60.8692,
+                "Tag": 54,
+                "ActionTag": -115255690,
+                "Size": {
+                  "X": 181.0,
+                  "Y": 25.0
+                },
+                "Name": "image_xieyi",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "CheckedState": true,
+                "NormalBackFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "login_kuang.png",
+                  "Plist": "GameHall/Resoures/login.plist"
+                },
+                "PressedBackFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "login_kuang.png",
+                  "Plist": "GameHall/Resoures/login.plist"
+                },
+                "DisableBackFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "login_kuang.png",
+                  "Plist": "GameHall/Resoures/login.plist"
+                },
+                "NodeNormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "login_select.png",
+                  "Plist": "GameHall/Resoures/login.plist"
+                },
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 112.2448,
+                  "Y": -49.593
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2424,
+                  "Y": -0.1385
+                },
+                "PreSize": {
+                  "X": 0.0778,
+                  "Y": 0.1006
+                },
+                "LeftMargin": 94.2448,
+                "RightMargin": 332.7552,
+                "TopMargin": 389.593,
+                "BottomMargin": -67.593,
+                "Tag": 173,
+                "ActionTag": -1719941455,
+                "Size": {
+                  "X": 36.0,
+                  "Y": 36.0
+                },
+                "Name": "checkbox_xieyi",
+                "ctype": "CheckBoxObjectData"
+              }
+            ],
+            "ActionTag": -312778612,
+            "Size": {
+              "X": 463.0,
+              "Y": 358.0
+            },
+            "Name": "pannel_login",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "BackColorAlpha": 102,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5
+            },
+            "Position": {
+              "X": 640.0,
+              "Y": 110.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PositionPercentXEnabled": true,
+            "PrePosition": {
+              "X": 0.5,
+              "Y": 0.1528
+            },
+            "PreSize": {
+              "X": 0.143,
+              "Y": 0.0653
+            },
+            "LeftMargin": 548.5,
+            "RightMargin": 548.5,
+            "TopMargin": 563.0,
+            "BottomMargin": 110.0,
+            "Tag": 80,
+            "ActionTag": -934284153,
+            "Size": {
+              "X": 183.0,
+              "Y": 47.0
+            },
+            "Name": "panel_xieyi",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../font/DFYuanW7-GB2312.ttf",
+        "Resoures/large/bg.png",
+        "Resoures/large/public_input_bg.png",
+        "Resoures/login.plist",
+        "Resoures/login.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

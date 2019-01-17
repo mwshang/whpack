@@ -1,0 +1,774 @@
+{
+  "ID": "b8a5bfa5-92ba-470b-8e77-3e7b47d35092",
+  "Version": "2.3.3.0",
+  "Name": "roomInfo",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 1537,
+        "Children": [
+          {
+            "BackColorAlpha": 153,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 170,
+            "Children": [
+              {
+                "BackColorAlpha": 0,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 360.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.4898,
+                  "Y": 0.6583
+                },
+                "LeftMargin": 326.5,
+                "RightMargin": 326.5,
+                "TopMargin": 123.0,
+                "BottomMargin": 123.0,
+                "Tag": 171,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "PokerSSS/Resoures/large/sss_rule.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 206,
+                    "Scale9OriginY": 156,
+                    "Scale9Width": 237,
+                    "Scale9Height": 223,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 313.5,
+                      "Y": 237.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 1.0351,
+                      "Y": 1.1287
+                    },
+                    "LeftMargin": -11.0,
+                    "RightMargin": -11.0,
+                    "TopMargin": -30.5,
+                    "BottomMargin": -30.5,
+                    "Tag": 172,
+                    "ActionTag": -563247139,
+                    "Size": {
+                      "X": 649.0,
+                      "Y": 535.0
+                    },
+                    "Name": "img_bg",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FontSize": 30,
+                    "LabelText": "玩法:",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/DFYuanW7-GB2312.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 68.8496,
+                      "Y": 385.0008
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 105,
+                      "G": 47,
+                      "B": 12
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1098,
+                      "Y": 0.8122
+                    },
+                    "PreSize": {
+                      "X": 0.1164,
+                      "Y": 0.0633
+                    },
+                    "LeftMargin": 32.3496,
+                    "RightMargin": 521.6504,
+                    "TopMargin": 73.9992,
+                    "BottomMargin": 370.0008,
+                    "Tag": 261,
+                    "ActionTag": -1974722033,
+                    "Size": {
+                      "X": 73.0,
+                      "Y": 30.0
+                    },
+                    "Name": "text_title0",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 30,
+                    "LabelText": "底分:",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/DFYuanW7-GB2312.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 450.0,
+                      "Y": 385.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 105,
+                      "G": 47,
+                      "B": 12
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7177,
+                      "Y": 0.8122
+                    },
+                    "PreSize": {
+                      "X": 0.1164,
+                      "Y": 0.0633
+                    },
+                    "LeftMargin": 413.5,
+                    "RightMargin": 140.5,
+                    "TopMargin": 74.0,
+                    "BottomMargin": 370.0,
+                    "Tag": 262,
+                    "ActionTag": -1654814571,
+                    "Size": {
+                      "X": 73.0,
+                      "Y": 30.0
+                    },
+                    "Name": "text_title1",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 30,
+                    "LabelText": "翻倍规则:",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/DFYuanW7-GB2312.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 90.0,
+                      "Y": 285.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 105,
+                      "G": 47,
+                      "B": 12
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1435,
+                      "Y": 0.6013
+                    },
+                    "PreSize": {
+                      "X": 0.2121,
+                      "Y": 0.0633
+                    },
+                    "LeftMargin": 23.5,
+                    "RightMargin": 470.5,
+                    "TopMargin": 174.0,
+                    "BottomMargin": 270.0,
+                    "Tag": 263,
+                    "ActionTag": 1764132049,
+                    "Size": {
+                      "X": 133.0,
+                      "Y": 30.0
+                    },
+                    "Name": "text_title2",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 30,
+                    "LabelText": "房间规则:",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/DFYuanW7-GB2312.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 90.0,
+                      "Y": 185.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 105,
+                      "G": 47,
+                      "B": 12
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1435,
+                      "Y": 0.3903
+                    },
+                    "PreSize": {
+                      "X": 0.2121,
+                      "Y": 0.0633
+                    },
+                    "LeftMargin": 23.5,
+                    "RightMargin": 470.5,
+                    "TopMargin": 274.0,
+                    "BottomMargin": 170.0,
+                    "Tag": 264,
+                    "ActionTag": -812378727,
+                    "Size": {
+                      "X": 133.0,
+                      "Y": 30.0
+                    },
+                    "Name": "text_title3",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 30,
+                    "LabelText": "特殊玩法:",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/DFYuanW7-GB2312.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 90.0,
+                      "Y": 85.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 105,
+                      "G": 47,
+                      "B": 12
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1435,
+                      "Y": 0.1793
+                    },
+                    "PreSize": {
+                      "X": 0.2121,
+                      "Y": 0.0633
+                    },
+                    "LeftMargin": 23.5,
+                    "RightMargin": 470.5,
+                    "TopMargin": 374.0,
+                    "BottomMargin": 70.0,
+                    "Tag": 265,
+                    "ActionTag": -571208728,
+                    "Size": {
+                      "X": 133.0,
+                      "Y": 30.0
+                    },
+                    "Name": "text_title4",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 30,
+                    "LabelText": "解散房间",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/DFYuanW7-GB2312.ttf",
+                      "Plist": ""
+                    },
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 132.9498,
+                      "Y": 385.0003
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 105,
+                      "G": 47,
+                      "B": 12
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.212,
+                      "Y": 0.8122
+                    },
+                    "PreSize": {
+                      "X": 0.2392,
+                      "Y": 0.0633
+                    },
+                    "LeftMargin": 132.9498,
+                    "RightMargin": 344.0502,
+                    "TopMargin": 73.9997,
+                    "BottomMargin": 370.0003,
+                    "Tag": 524,
+                    "ActionTag": 1097167826,
+                    "Size": {
+                      "X": 150.0,
+                      "Y": 30.0
+                    },
+                    "Name": "text_wanfa",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 30,
+                    "LabelText": "111111",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/DFYuanW7-GB2312.ttf",
+                      "Plist": ""
+                    },
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 492.0,
+                      "Y": 385.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 105,
+                      "G": 47,
+                      "B": 12
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7847,
+                      "Y": 0.8122
+                    },
+                    "PreSize": {
+                      "X": 0.1914,
+                      "Y": 0.0675
+                    },
+                    "LeftMargin": 492.0,
+                    "RightMargin": 15.0,
+                    "TopMargin": 73.0,
+                    "BottomMargin": 369.0,
+                    "Tag": 63,
+                    "ActionTag": 519099966,
+                    "Size": {
+                      "X": 120.0,
+                      "Y": 32.0
+                    },
+                    "Name": "text_difen",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 30,
+                    "LabelText": "牛牛x4 牛九x3 牛八x2 牛七x2",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/DFYuanW7-GB2312.ttf",
+                      "Plist": ""
+                    },
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 185.0,
+                      "Y": 285.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 105,
+                      "G": 47,
+                      "B": 12
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2951,
+                      "Y": 0.6013
+                    },
+                    "PreSize": {
+                      "X": 0.7018,
+                      "Y": 0.0717
+                    },
+                    "LeftMargin": 185.0,
+                    "RightMargin": 2.0,
+                    "TopMargin": 172.0,
+                    "BottomMargin": 268.0,
+                    "Tag": 64,
+                    "ActionTag": -1458115584,
+                    "Size": {
+                      "X": 440.0,
+                      "Y": 34.0
+                    },
+                    "Name": "text_fanbei",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 30,
+                    "LabelText": "解散房间",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/DFYuanW7-GB2312.ttf",
+                      "Plist": ""
+                    },
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 185.0,
+                      "Y": 185.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 105,
+                      "G": 47,
+                      "B": 12
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2951,
+                      "Y": 0.3903
+                    },
+                    "PreSize": {
+                      "X": 0.6061,
+                      "Y": 0.0717
+                    },
+                    "LeftMargin": 185.0,
+                    "RightMargin": 62.0,
+                    "TopMargin": 272.0,
+                    "BottomMargin": 168.0,
+                    "Tag": 65,
+                    "ActionTag": -1756373164,
+                    "Size": {
+                      "X": 380.0,
+                      "Y": 34.0
+                    },
+                    "Name": "text_guize",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 30,
+                    "LabelText": "解散房间",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/DFYuanW7-GB2312.ttf",
+                      "Plist": ""
+                    },
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 185.0,
+                      "Y": 85.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 105,
+                      "G": 47,
+                      "B": 12
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2951,
+                      "Y": 0.1793
+                    },
+                    "PreSize": {
+                      "X": 0.6061,
+                      "Y": 0.1688
+                    },
+                    "LeftMargin": 185.0,
+                    "RightMargin": 62.0,
+                    "TopMargin": 349.0,
+                    "BottomMargin": 45.0,
+                    "Tag": 66,
+                    "ActionTag": 395099391,
+                    "Size": {
+                      "X": 380.0,
+                      "Y": 80.0
+                    },
+                    "Name": "text_sp",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 1930092995,
+                "Size": {
+                  "X": 627.0,
+                  "Y": 474.0
+                },
+                "Name": "panel_1",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": -1790631701,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "panel_root",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../font/DFYuanW7-GB2312.ttf",
+        "../PokerSSS/Resoures/large/sss_rule.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

@@ -1,0 +1,1177 @@
+{
+  "ID": "79612b33-da93-4e7e-84b9-e2f070b6f087",
+  "Version": "2.3.3.0",
+  "Name": "SSSRoundResult",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 173,
+        "Children": [
+          {
+            "BackColorAlpha": 0,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 174,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "PokerSSS/Resoures/large/digkuang.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 846,
+                "Scale9Height": 518,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 360.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.6859,
+                  "Y": 0.7194
+                },
+                "LeftMargin": 201.0,
+                "RightMargin": 201.0,
+                "TopMargin": 101.0,
+                "BottomMargin": 101.0,
+                "Tag": 402,
+                "ActionTag": 1255731675,
+                "Size": {
+                  "X": 878.0,
+                  "Y": 518.0
+                },
+                "Name": "img_bg",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "sss_win_title.png",
+                  "Plist": "PokerSSS/Resoures/end_report.plist"
+                },
+                "Scale9Width": 350,
+                "Scale9Height": 94,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 630.4,
+                  "Y": 619.848
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.4925,
+                  "Y": 0.8609
+                },
+                "PreSize": {
+                  "X": 0.2734,
+                  "Y": 0.1306
+                },
+                "LeftMargin": 455.4,
+                "RightMargin": 474.6,
+                "TopMargin": 53.152,
+                "BottomMargin": 572.848,
+                "Tag": 132,
+                "ActionTag": -1111231105,
+                "Size": {
+                  "X": 350.0,
+                  "Y": 94.0
+                },
+                "Name": "img_result_title",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 30,
+                "LabelText": "房号：888888",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "font/DFYuanW7-GB2312.ttf",
+                  "Plist": ""
+                },
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "R": 26,
+                  "G": 26,
+                  "B": 26
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 251.0,
+                  "Y": 518.7402
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 72,
+                  "G": 93,
+                  "B": 101
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1961,
+                  "Y": 0.7205
+                },
+                "PreSize": {
+                  "X": 0.2344,
+                  "Y": 0.0417
+                },
+                "LeftMargin": 251.0,
+                "RightMargin": 729.0,
+                "TopMargin": 186.2598,
+                "BottomMargin": 503.7402,
+                "Tag": 164,
+                "ActionTag": 41254948,
+                "Size": {
+                  "X": 300.0,
+                  "Y": 30.0
+                },
+                "Name": "text_roomid",
+                "ctype": "TextObjectData"
+              },
+              {
+                "VerticalType": "Align_Bottom",
+                "ScrollDirectionType": 0,
+                "BackColorAlpha": 0,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 150
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 150
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 220.0,
+                  "Y": 250.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1719,
+                  "Y": 0.3472
+                },
+                "PreSize": {
+                  "X": 0.6563,
+                  "Y": 0.3125
+                },
+                "LeftMargin": 220.0,
+                "RightMargin": 220.0,
+                "TopMargin": 245.0,
+                "BottomMargin": 250.0,
+                "CallBackType": "Touch",
+                "Tag": 188,
+                "ActionTag": -1908520720,
+                "Size": {
+                  "X": 840.0,
+                  "Y": 225.0
+                },
+                "Name": "listview_result",
+                "ctype": "ListViewObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "PokerSSS/Resoures/large/qiepai/btn_qiepai_on.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "PokerSSS/Resoures/large/qiepai/btn_qiepai_on.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "PokerSSS/Resoures/large/qiepai/btn_qiepai.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 65,
+                "Scale9Height": 47,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 364.0,
+                  "Y": 190.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2844,
+                  "Y": 0.2639
+                },
+                "PreSize": {
+                  "X": 0.0742,
+                  "Y": 0.0958
+                },
+                "LeftMargin": 316.5,
+                "RightMargin": 868.5,
+                "TopMargin": 495.5,
+                "BottomMargin": 155.5,
+                "Tag": 113,
+                "ActionTag": -2114744305,
+                "Size": {
+                  "X": 95.0,
+                  "Y": 69.0
+                },
+                "VisibleForFrame": false,
+                "Name": "btn_qiepai",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "BackColorAlpha": 0,
+                "SingleColor": {
+                  "G": 246,
+                  "B": 13
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 249.0,
+                  "Y": 265.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1945,
+                  "Y": 0.3681
+                },
+                "PreSize": {
+                  "X": 0.107,
+                  "Y": 0.3125
+                },
+                "LeftMargin": 249.0,
+                "RightMargin": 894.0,
+                "TopMargin": 230.0,
+                "BottomMargin": 265.0,
+                "Tag": 180,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "PokerSSS/Resoures/large/touxiangkuang.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 113,
+                    "Scale9Height": 116,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 10.96,
+                      "Y": 41.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.08,
+                      "Y": 0.1822
+                    },
+                    "PreSize": {
+                      "X": 0.8248,
+                      "Y": 0.5156
+                    },
+                    "LeftMargin": 10.96,
+                    "RightMargin": 13.04,
+                    "TopMargin": 68.0,
+                    "BottomMargin": 41.0,
+                    "Tag": 312,
+                    "ActionTag": 1249113273,
+                    "Size": {
+                      "X": 113.0,
+                      "Y": 116.0
+                    },
+                    "Name": "image_frame",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "female.png",
+                      "Plist": "GameHall/Resoures/common.plist"
+                    },
+                    "Scale9Width": 102,
+                    "Scale9Height": 102,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 67.0,
+                      "Y": 100.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4891,
+                      "Y": 0.4444
+                    },
+                    "PreSize": {
+                      "X": 0.7445,
+                      "Y": 0.4533
+                    },
+                    "LeftMargin": 16.0,
+                    "RightMargin": 19.0,
+                    "TopMargin": 74.0,
+                    "BottomMargin": 49.0,
+                    "Tag": 106,
+                    "ActionTag": -944627235,
+                    "Size": {
+                      "X": 102.0,
+                      "Y": 102.0
+                    },
+                    "Name": "sprite_head",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "sss_banker_sign.png",
+                      "Plist": "PokerSSS/Resoures/desk_ui.plist"
+                    },
+                    "Scale9Width": 81,
+                    "Scale9Height": 79,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 25.1066,
+                      "Y": 137.1204
+                    },
+                    "Scale": {
+                      "ScaleX": 0.6,
+                      "ScaleY": 0.6
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1833,
+                      "Y": 0.6094
+                    },
+                    "PreSize": {
+                      "X": 0.5912,
+                      "Y": 0.3511
+                    },
+                    "LeftMargin": -15.3934,
+                    "RightMargin": 71.3934,
+                    "TopMargin": 48.3796,
+                    "BottomMargin": 97.6204,
+                    "Tag": 76,
+                    "ActionTag": 1489965682,
+                    "Size": {
+                      "X": 81.0,
+                      "Y": 79.0
+                    },
+                    "Alpha": 226,
+                    "Name": "image_bank",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 30,
+                    "LabelText": "玩家名称..",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/DFYuanW7-GB2312.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "R": 26,
+                      "G": 26,
+                      "B": 26
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 67.0,
+                      "Y": 207.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 134,
+                      "G": 70,
+                      "B": 33
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4891,
+                      "Y": 0.92
+                    },
+                    "PreSize": {
+                      "X": 1.0803,
+                      "Y": 0.1333
+                    },
+                    "LeftMargin": -7.0,
+                    "RightMargin": -4.0,
+                    "TopMargin": 3.0,
+                    "BottomMargin": 192.0,
+                    "Tag": 182,
+                    "ActionTag": 1605001310,
+                    "Size": {
+                      "X": 148.0,
+                      "Y": 30.0
+                    },
+                    "Name": "text_name",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "sss_fengshu.png",
+                      "Plist": "PokerSSS/Resoures/desk_ui.plist"
+                    },
+                    "Scale9Width": 149,
+                    "Scale9Height": 43,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 69.0,
+                      "Y": 21.26
+                    },
+                    "Scale": {
+                      "ScaleX": 0.9,
+                      "ScaleY": 0.9
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5036,
+                      "Y": 0.0945
+                    },
+                    "PreSize": {
+                      "X": 1.0876,
+                      "Y": 0.1911
+                    },
+                    "LeftMargin": -5.5,
+                    "RightMargin": -6.5,
+                    "TopMargin": 182.24,
+                    "BottomMargin": -0.24,
+                    "Tag": 85,
+                    "ActionTag": 1824469117,
+                    "Size": {
+                      "X": 149.0,
+                      "Y": 43.0
+                    },
+                    "Name": "image_fen",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FontSize": 35,
+                    "LabelText": "99999",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/DFYuanW7-GB2312.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "R": 26,
+                      "G": 26,
+                      "B": 26
+                    },
+                    "ShadowColor": {
+                      "R": 26,
+                      "G": 26,
+                      "B": 26
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "ShadowEnabled": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 82.0,
+                      "Y": 19.695
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "G": 246,
+                      "B": 7
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5985,
+                      "Y": 0.0875
+                    },
+                    "PreSize": {
+                      "X": 0.6642,
+                      "Y": 0.1556
+                    },
+                    "LeftMargin": 36.5,
+                    "RightMargin": 9.5,
+                    "TopMargin": 187.805,
+                    "BottomMargin": 2.195,
+                    "Tag": 186,
+                    "ActionTag": -1126587012,
+                    "Size": {
+                      "X": 91.0,
+                      "Y": 35.0
+                    },
+                    "Name": "text_score",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "sssquanleida.png",
+                      "Plist": "PokerSSS/Resoures/gameUI.plist"
+                    },
+                    "Scale9Width": 71,
+                    "Scale9Height": 56,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 80.6309,
+                      "Y": 77.2613
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5885,
+                      "Y": 0.3434
+                    },
+                    "PreSize": {
+                      "X": 0.5182,
+                      "Y": 0.2489
+                    },
+                    "LeftMargin": 45.1309,
+                    "RightMargin": 20.8691,
+                    "TopMargin": 119.7387,
+                    "BottomMargin": 49.2613,
+                    "Tag": 83,
+                    "ActionTag": -873510490,
+                    "Size": {
+                      "X": 71.0,
+                      "Y": 56.0
+                    },
+                    "Name": "image_lei",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 25,
+                    "LabelText": "ID:100000",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/DFYuanW7-GB2312.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "R": 26,
+                      "G": 26,
+                      "B": 26
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 67.0,
+                      "Y": 172.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4891,
+                      "Y": 0.7644
+                    },
+                    "PreSize": {
+                      "X": 1.0803,
+                      "Y": 0.1333
+                    },
+                    "LeftMargin": -7.0,
+                    "RightMargin": -4.0,
+                    "TopMargin": 38.0,
+                    "BottomMargin": 157.0,
+                    "Tag": 848,
+                    "ActionTag": 28622829,
+                    "Size": {
+                      "X": 148.0,
+                      "Y": 30.0
+                    },
+                    "Name": "text_id",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 1074265189,
+                "Size": {
+                  "X": 137.0,
+                  "Y": 225.0
+                },
+                "Name": "panel_cell",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "hall_start.png",
+                  "Plist": "GameHall/Resoures/hall.plist"
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "hall_start.png",
+                  "Plist": "GameHall/Resoures/hall.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "hall_start.png",
+                  "Plist": "GameHall/Resoures/hall.plist"
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 247,
+                "Scale9Height": 72,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 179.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.2486
+                },
+                "PreSize": {
+                  "X": 0.2164,
+                  "Y": 0.1306
+                },
+                "LeftMargin": 501.5,
+                "RightMargin": 501.5,
+                "TopMargin": 494.0,
+                "BottomMargin": 132.0,
+                "Tag": 189,
+                "ActionTag": 1576700462,
+                "Size": {
+                  "X": 277.0,
+                  "Y": 94.0
+                },
+                "Name": "btn_start",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "hall_chakanzongchengji.png",
+                  "Plist": "GameHall/Resoures/hall.plist"
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "hall_chakanzongchengji.png",
+                  "Plist": "GameHall/Resoures/hall.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "hall_chakanzongchengji.png",
+                  "Plist": "GameHall/Resoures/hall.plist"
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 247,
+                "Scale9Height": 72,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 179.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.2486
+                },
+                "PreSize": {
+                  "X": 0.2164,
+                  "Y": 0.1306
+                },
+                "LeftMargin": 501.5,
+                "RightMargin": 501.5,
+                "TopMargin": 494.0,
+                "BottomMargin": 132.0,
+                "Tag": 56,
+                "ActionTag": 904893763,
+                "Size": {
+                  "X": 277.0,
+                  "Y": 94.0
+                },
+                "Name": "btn_end_report",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "nx_fengxiang1.png",
+                  "Plist": "GameHall/Resoures/nxGameUI.plist"
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "nx_fengxiang1.png",
+                  "Plist": "GameHall/Resoures/nxGameUI.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "nx_fengxiang1.png",
+                  "Plist": "GameHall/Resoures/nxGameUI.plist"
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 168,
+                "Scale9Height": 50,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 949.5,
+                  "Y": 557.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7418,
+                  "Y": 0.7736
+                },
+                "PreSize": {
+                  "X": 0.1547,
+                  "Y": 0.1
+                },
+                "LeftMargin": 850.5,
+                "RightMargin": 231.5,
+                "TopMargin": 127.0,
+                "BottomMargin": 521.0,
+                "Tag": 60,
+                "ActionTag": -1305360394,
+                "Size": {
+                  "X": 198.0,
+                  "Y": 72.0
+                },
+                "VisibleForFrame": false,
+                "Name": "btn_share",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": 1920590944,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "panel_root",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "sss_xsresult.png",
+              "Plist": "PokerSSS/Resoures/end_report.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 26,
+            "Scale9Height": 153,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1090.0,
+              "Y": 130.5902
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8516,
+              "Y": 0.1814
+            },
+            "PreSize": {
+              "X": 0.0437,
+              "Y": 0.2431
+            },
+            "LeftMargin": 1062.0,
+            "RightMargin": 162.0,
+            "TopMargin": 501.9098,
+            "BottomMargin": 43.0902,
+            "Tag": 62,
+            "ActionTag": 1743376083,
+            "Size": {
+              "X": 56.0,
+              "Y": 175.0
+            },
+            "Name": "btn_hideresult",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "sss_ycresult.png",
+              "Plist": "PokerSSS/Resoures/end_report.plist"
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 26,
+            "Scale9Height": 151,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1090.0,
+              "Y": 98.5901
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8516,
+              "Y": 0.1369
+            },
+            "PreSize": {
+              "X": 0.0437,
+              "Y": 0.2403
+            },
+            "LeftMargin": 1062.0,
+            "RightMargin": 162.0,
+            "TopMargin": 534.9099,
+            "BottomMargin": 12.0901,
+            "Tag": 61,
+            "ActionTag": -266232017,
+            "Size": {
+              "X": 56.0,
+              "Y": 173.0
+            },
+            "Name": "btn_showresult",
+            "ctype": "ButtonObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../font/DFYuanW7-GB2312.ttf",
+        "../GameHall/Resoures/common.plist",
+        "../GameHall/Resoures/common.png",
+        "../GameHall/Resoures/hall.plist",
+        "../GameHall/Resoures/hall.png",
+        "../GameHall/Resoures/nxGameUI.plist",
+        "../GameHall/Resoures/nxGameUI.png",
+        "Resoures/desk_ui.plist",
+        "Resoures/desk_ui.png",
+        "Resoures/end_report.plist",
+        "Resoures/end_report.png",
+        "Resoures/gameUI.plist",
+        "Resoures/gameUI.png",
+        "Resoures/large/digkuang.png",
+        "Resoures/large/qiepai/btn_qiepai.png",
+        "Resoures/large/qiepai/btn_qiepai_on.png",
+        "Resoures/large/touxiangkuang.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

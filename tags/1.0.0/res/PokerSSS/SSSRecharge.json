@@ -1,0 +1,1333 @@
+{
+  "ID": "c3e4eb13-d772-4e2c-bd3f-5cda77bfef7f",
+  "Version": "2.3.3.0",
+  "Name": "SSSRecharge",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 69,
+        "Children": [
+          {
+            "BackColorAlpha": 63,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 70,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "PokerSSS/Resoures/large/sss_shop_8.png",
+                  "Plist": ""
+                },
+                "Scale9OriginX": 61,
+                "Scale9OriginY": 185,
+                "Scale9Width": 887,
+                "Scale9Height": 345,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 360.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 0.6508,
+                  "Y": 0.9556
+                },
+                "LeftMargin": 223.5,
+                "RightMargin": 223.5,
+                "TopMargin": 16.0,
+                "BottomMargin": 16.0,
+                "Tag": 234,
+                "ActionTag": 2025391733,
+                "Size": {
+                  "X": 833.0,
+                  "Y": 688.0
+                },
+                "Name": "Bg",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "guanbi-on.png",
+                  "Plist": "GameHall/Resoures/common.plist"
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "guanbi-on.png",
+                  "Plist": "GameHall/Resoures/common.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "guanbi.png",
+                  "Plist": "GameHall/Resoures/common.plist"
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 65,
+                "Scale9Height": 72,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 1045.0,
+                  "Y": 655.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8164,
+                  "Y": 0.9097
+                },
+                "PreSize": {
+                  "X": 0.0742,
+                  "Y": 0.1306
+                },
+                "LeftMargin": 997.5,
+                "RightMargin": 187.5,
+                "TopMargin": 18.0,
+                "BottomMargin": 608.0,
+                "Tag": 299,
+                "ActionTag": 838981610,
+                "Size": {
+                  "X": 95.0,
+                  "Y": 94.0
+                },
+                "Name": "btn_close",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "DirectionType": "Vertical",
+                "IsBounceEnabled": true,
+                "ScrollDirectionType": 0,
+                "ClipAble": true,
+                "BackColorAlpha": 0,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 150
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 150
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 342.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.475
+                },
+                "PreSize": {
+                  "X": 0.5469,
+                  "Y": 0.7083
+                },
+                "LeftMargin": 290.0,
+                "RightMargin": 290.0,
+                "TopMargin": 123.0,
+                "BottomMargin": 87.0,
+                "Tag": 82,
+                "ActionTag": 428098732,
+                "Size": {
+                  "X": 700.0,
+                  "Y": 510.0
+                },
+                "Name": "listview_item",
+                "ctype": "ListViewObjectData"
+              },
+              {
+                "FontSize": 20,
+                "LabelText": "绑定邀请码后充值优惠多多!",
+                "FontResource": {
+                  "Type": "Normal",
+                  "Path": "font/DFYuanW7-GB2312.ttf",
+                  "Plist": ""
+                },
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 640.0,
+                  "Y": 55.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 134,
+                  "G": 70,
+                  "B": 33
+                },
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.0764
+                },
+                "PreSize": {
+                  "X": 0.1953,
+                  "Y": 0.0278
+                },
+                "LeftMargin": 515.0,
+                "RightMargin": 515.0,
+                "TopMargin": 655.0,
+                "BottomMargin": 45.0,
+                "Tag": 14,
+                "ActionTag": -856735755,
+                "Size": {
+                  "X": 250.0,
+                  "Y": 20.0
+                },
+                "Name": "Text_1",
+                "ctype": "TextObjectData"
+              },
+              {
+                "BackColorAlpha": 0,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 298.9741,
+                  "Y": 284.5578
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2336,
+                  "Y": 0.3952
+                },
+                "PreSize": {
+                  "X": 0.5469,
+                  "Y": 0.3542
+                },
+                "LeftMargin": 298.9741,
+                "RightMargin": 281.0259,
+                "TopMargin": 180.4422,
+                "BottomMargin": 284.5578,
+                "Tag": 83,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "PokerSSS/Resoures/large/sss_shop_7.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 33,
+                    "Scale9Width": 202,
+                    "Scale9Height": 298,
+                    "AnchorPoint": {
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 0.0,
+                      "Y": 127.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.3286,
+                      "Y": 0.9725
+                    },
+                    "RightMargin": 470.0,
+                    "TopMargin": 3.5,
+                    "BottomMargin": 3.5,
+                    "Tag": 84,
+                    "Children": [
+                      {
+                        "CharWidth": 18,
+                        "CharHeight": 23,
+                        "LabelText": "",
+                        "StartChar": "0",
+                        "LabelAtlasFileImage_CNB": {
+                          "Type": "Normal",
+                          "Path": "PokerSSS/Resoures/large/sss_shop_10.png",
+                          "Plist": ""
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 115.0,
+                          "Y": 220.0
+                        },
+                        "Scale": {
+                          "ScaleX": 0.9,
+                          "ScaleY": 0.9
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.8871
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 115.0,
+                        "RightMargin": 115.0,
+                        "TopMargin": 28.0,
+                        "BottomMargin": 220.0,
+                        "Tag": 97,
+                        "ActionTag": 723631710,
+                        "Size": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "Name": "text_gem",
+                        "ctype": "TextAtlasObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "PokerSSS/Resoures/large/sss_shop_9.png",
+                          "Plist": ""
+                        },
+                        "Scale9Width": 58,
+                        "Scale9Height": 27,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 119.0,
+                          "Y": 220.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5174,
+                          "Y": 0.8871
+                        },
+                        "PreSize": {
+                          "X": 0.2522,
+                          "Y": 0.1089
+                        },
+                        "LeftMargin": 119.0,
+                        "RightMargin": 53.0,
+                        "TopMargin": 14.5,
+                        "BottomMargin": 206.5,
+                        "Tag": 96,
+                        "ActionTag": 774986061,
+                        "Size": {
+                          "X": 58.0,
+                          "Y": 27.0
+                        },
+                        "Name": "Image_1",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "PokerSSS/Resoures/large/sss_shop_0.png",
+                          "Plist": ""
+                        },
+                        "Scale9Width": 186,
+                        "Scale9Height": 138,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 115.0,
+                          "Y": 140.0
+                        },
+                        "Scale": {
+                          "ScaleX": 0.8,
+                          "ScaleY": 0.8
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5645
+                        },
+                        "PreSize": {
+                          "X": 0.8087,
+                          "Y": 0.5565
+                        },
+                        "LeftMargin": 22.0,
+                        "RightMargin": 22.0,
+                        "TopMargin": 39.0,
+                        "BottomMargin": 71.0,
+                        "Tag": 95,
+                        "ActionTag": 2086559201,
+                        "Size": {
+                          "X": 186.0,
+                          "Y": 138.0
+                        },
+                        "Name": "img_icon",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                          "R": 65,
+                          "G": 65,
+                          "B": 70
+                        },
+                        "DisabledFileData": {
+                          "Type": "Default",
+                          "Path": "Default/Button_Disable.png",
+                          "Plist": ""
+                        },
+                        "PressedFileData": {
+                          "Type": "Normal",
+                          "Path": "PokerSSS/Resoures/large/sss_shop_6.png",
+                          "Plist": ""
+                        },
+                        "NormalFileData": {
+                          "Type": "Normal",
+                          "Path": "PokerSSS/Resoures/large/sss_shop_6.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 137,
+                        "Scale9Height": 54,
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 115.0,
+                          "Y": 49.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.1976
+                        },
+                        "PreSize": {
+                          "X": 0.7261,
+                          "Y": 0.3065
+                        },
+                        "LeftMargin": 31.5,
+                        "RightMargin": 31.5,
+                        "TopMargin": 161.0,
+                        "BottomMargin": 11.0,
+                        "Tag": 97,
+                        "Children": [
+                          {
+                            "IsCustomSize": true,
+                            "FontSize": 44,
+                            "LabelText": "￥6000",
+                            "FontResource": {
+                              "Type": "Normal",
+                              "Path": "font/DFYuanW7-GB2312.ttf",
+                              "Plist": ""
+                            },
+                            "HorizontalAlignmentType": "HT_Center",
+                            "VerticalAlignmentType": "VT_Center",
+                            "OutlineColor": {
+                              "R": 169,
+                              "G": 23,
+                              "B": 12
+                            },
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 83.5,
+                              "Y": 38.0
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {
+                              "R": 114,
+                              "G": 69,
+                              "B": 4
+                            },
+                            "IconVisible": false,
+                            "PositionPercentXEnabled": true,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.5,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 1.1976,
+                              "Y": 0.7895
+                            },
+                            "LeftMargin": -16.5,
+                            "RightMargin": -16.5,
+                            "TopMargin": 8.0,
+                            "BottomMargin": 8.0,
+                            "Tag": 98,
+                            "ActionTag": 2054321716,
+                            "Size": {
+                              "X": 200.0,
+                              "Y": 60.0
+                            },
+                            "Name": "text_rmb",
+                            "ctype": "TextObjectData"
+                          }
+                        ],
+                        "ActionTag": 2024660724,
+                        "Size": {
+                          "X": 167.0,
+                          "Y": 76.0
+                        },
+                        "Name": "btn_buy",
+                        "ctype": "ButtonObjectData"
+                      }
+                    ],
+                    "ActionTag": -1814698528,
+                    "Size": {
+                      "X": 230.0,
+                      "Y": 248.0
+                    },
+                    "Name": "Image_bg0",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "PokerSSS/Resoures/large/sss_shop_7.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 33,
+                    "Scale9Width": 202,
+                    "Scale9Height": 298,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 350.0,
+                      "Y": 127.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.3286,
+                      "Y": 0.9725
+                    },
+                    "LeftMargin": 235.0,
+                    "RightMargin": 235.0,
+                    "TopMargin": 3.5,
+                    "BottomMargin": 3.5,
+                    "Tag": 1002,
+                    "Children": [
+                      {
+                        "CharWidth": 18,
+                        "CharHeight": 23,
+                        "LabelText": "",
+                        "StartChar": "0",
+                        "LabelAtlasFileImage_CNB": {
+                          "Type": "Normal",
+                          "Path": "PokerSSS/Resoures/large/sss_shop_10.png",
+                          "Plist": ""
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 115.0,
+                          "Y": 220.0
+                        },
+                        "Scale": {
+                          "ScaleX": 0.9,
+                          "ScaleY": 0.9
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.8871
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 115.0,
+                        "RightMargin": 115.0,
+                        "TopMargin": 28.0,
+                        "BottomMargin": 220.0,
+                        "Tag": 1003,
+                        "ActionTag": -66292229,
+                        "Size": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "Name": "text_gem",
+                        "ctype": "TextAtlasObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "PokerSSS/Resoures/large/sss_shop_9.png",
+                          "Plist": ""
+                        },
+                        "Scale9Width": 58,
+                        "Scale9Height": 27,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 119.0,
+                          "Y": 220.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5174,
+                          "Y": 0.8871
+                        },
+                        "PreSize": {
+                          "X": 0.2522,
+                          "Y": 0.1089
+                        },
+                        "LeftMargin": 119.0,
+                        "RightMargin": 53.0,
+                        "TopMargin": 14.5,
+                        "BottomMargin": 206.5,
+                        "Tag": 1004,
+                        "ActionTag": -1247942563,
+                        "Size": {
+                          "X": 58.0,
+                          "Y": 27.0
+                        },
+                        "Name": "Image_1",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "PokerSSS/Resoures/large/sss_shop_0.png",
+                          "Plist": ""
+                        },
+                        "Scale9Width": 186,
+                        "Scale9Height": 138,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 115.0,
+                          "Y": 140.0
+                        },
+                        "Scale": {
+                          "ScaleX": 0.8,
+                          "ScaleY": 0.8
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5645
+                        },
+                        "PreSize": {
+                          "X": 0.8087,
+                          "Y": 0.5565
+                        },
+                        "LeftMargin": 22.0,
+                        "RightMargin": 22.0,
+                        "TopMargin": 39.0,
+                        "BottomMargin": 71.0,
+                        "Tag": 1005,
+                        "ActionTag": -85189883,
+                        "Size": {
+                          "X": 186.0,
+                          "Y": 138.0
+                        },
+                        "Name": "img_icon",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                          "R": 65,
+                          "G": 65,
+                          "B": 70
+                        },
+                        "DisabledFileData": {
+                          "Type": "Default",
+                          "Path": "Default/Button_Disable.png",
+                          "Plist": ""
+                        },
+                        "PressedFileData": {
+                          "Type": "Normal",
+                          "Path": "PokerSSS/Resoures/large/sss_shop_6.png",
+                          "Plist": ""
+                        },
+                        "NormalFileData": {
+                          "Type": "Normal",
+                          "Path": "PokerSSS/Resoures/large/sss_shop_6.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 137,
+                        "Scale9Height": 54,
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 115.0,
+                          "Y": 49.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.1976
+                        },
+                        "PreSize": {
+                          "X": 0.7261,
+                          "Y": 0.3065
+                        },
+                        "LeftMargin": 31.5,
+                        "RightMargin": 31.5,
+                        "TopMargin": 161.0,
+                        "BottomMargin": 11.0,
+                        "Tag": 1006,
+                        "Children": [
+                          {
+                            "IsCustomSize": true,
+                            "FontSize": 44,
+                            "LabelText": "￥6000",
+                            "FontResource": {
+                              "Type": "Normal",
+                              "Path": "font/DFYuanW7-GB2312.ttf",
+                              "Plist": ""
+                            },
+                            "HorizontalAlignmentType": "HT_Center",
+                            "VerticalAlignmentType": "VT_Center",
+                            "OutlineColor": {
+                              "R": 169,
+                              "G": 23,
+                              "B": 12
+                            },
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 83.5,
+                              "Y": 38.0
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {
+                              "R": 114,
+                              "G": 69,
+                              "B": 4
+                            },
+                            "IconVisible": false,
+                            "PositionPercentXEnabled": true,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.5,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 1.1976,
+                              "Y": 0.6053
+                            },
+                            "LeftMargin": -16.5,
+                            "RightMargin": -16.5,
+                            "TopMargin": 15.0,
+                            "BottomMargin": 15.0,
+                            "Tag": 1007,
+                            "ActionTag": -1716141905,
+                            "Size": {
+                              "X": 200.0,
+                              "Y": 46.0
+                            },
+                            "Name": "text_rmb",
+                            "ctype": "TextObjectData"
+                          }
+                        ],
+                        "ActionTag": 1161791572,
+                        "Size": {
+                          "X": 167.0,
+                          "Y": 76.0
+                        },
+                        "Name": "btn_buy",
+                        "ctype": "ButtonObjectData"
+                      }
+                    ],
+                    "ActionTag": -452032860,
+                    "Size": {
+                      "X": 230.0,
+                      "Y": 248.0
+                    },
+                    "Name": "Image_bg1",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "PokerSSS/Resoures/large/sss_shop_7.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 33,
+                    "Scale9Width": 202,
+                    "Scale9Height": 298,
+                    "AnchorPoint": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 700.0,
+                      "Y": 127.5
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 1.0,
+                      "Y": 0.5
+                    },
+                    "PreSize": {
+                      "X": 0.3286,
+                      "Y": 0.9725
+                    },
+                    "LeftMargin": 470.0,
+                    "TopMargin": 3.5,
+                    "BottomMargin": 3.5,
+                    "Tag": 1008,
+                    "Children": [
+                      {
+                        "CharWidth": 18,
+                        "CharHeight": 23,
+                        "LabelText": "",
+                        "StartChar": "0",
+                        "LabelAtlasFileImage_CNB": {
+                          "Type": "Normal",
+                          "Path": "PokerSSS/Resoures/large/sss_shop_10.png",
+                          "Plist": ""
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 115.0,
+                          "Y": 220.0
+                        },
+                        "Scale": {
+                          "ScaleX": 0.9,
+                          "ScaleY": 0.9
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.8871
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 115.0,
+                        "RightMargin": 115.0,
+                        "TopMargin": 28.0,
+                        "BottomMargin": 220.0,
+                        "Tag": 1009,
+                        "ActionTag": -1716517265,
+                        "Size": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "Name": "text_gem",
+                        "ctype": "TextAtlasObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "PokerSSS/Resoures/large/sss_shop_9.png",
+                          "Plist": ""
+                        },
+                        "Scale9Width": 58,
+                        "Scale9Height": 27,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 119.0,
+                          "Y": 220.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5174,
+                          "Y": 0.8871
+                        },
+                        "PreSize": {
+                          "X": 0.2522,
+                          "Y": 0.1089
+                        },
+                        "LeftMargin": 119.0,
+                        "RightMargin": 53.0,
+                        "TopMargin": 14.5,
+                        "BottomMargin": 206.5,
+                        "Tag": 1010,
+                        "ActionTag": 2099560521,
+                        "Size": {
+                          "X": 58.0,
+                          "Y": 27.0
+                        },
+                        "Name": "Image_1",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "PokerSSS/Resoures/large/sss_shop_0.png",
+                          "Plist": ""
+                        },
+                        "Scale9Width": 186,
+                        "Scale9Height": 138,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 115.0,
+                          "Y": 140.0
+                        },
+                        "Scale": {
+                          "ScaleX": 0.8,
+                          "ScaleY": 0.8
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.5645
+                        },
+                        "PreSize": {
+                          "X": 0.8087,
+                          "Y": 0.5565
+                        },
+                        "LeftMargin": 22.0,
+                        "RightMargin": 22.0,
+                        "TopMargin": 39.0,
+                        "BottomMargin": 71.0,
+                        "Tag": 1011,
+                        "ActionTag": 512932266,
+                        "Size": {
+                          "X": 186.0,
+                          "Y": 138.0
+                        },
+                        "Name": "img_icon",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FontSize": 14,
+                        "ButtonText": "",
+                        "TextColor": {
+                          "R": 65,
+                          "G": 65,
+                          "B": 70
+                        },
+                        "DisabledFileData": {
+                          "Type": "Default",
+                          "Path": "Default/Button_Disable.png",
+                          "Plist": ""
+                        },
+                        "PressedFileData": {
+                          "Type": "Normal",
+                          "Path": "PokerSSS/Resoures/large/sss_shop_6.png",
+                          "Plist": ""
+                        },
+                        "NormalFileData": {
+                          "Type": "Normal",
+                          "Path": "PokerSSS/Resoures/large/sss_shop_6.png",
+                          "Plist": ""
+                        },
+                        "Scale9OriginX": 15,
+                        "Scale9OriginY": 11,
+                        "Scale9Width": 137,
+                        "Scale9Height": 54,
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "TouchEnable": true,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 115.0,
+                          "Y": 49.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5,
+                          "Y": 0.1976
+                        },
+                        "PreSize": {
+                          "X": 0.7261,
+                          "Y": 0.3065
+                        },
+                        "LeftMargin": 31.5,
+                        "RightMargin": 31.5,
+                        "TopMargin": 161.0,
+                        "BottomMargin": 11.0,
+                        "Tag": 1012,
+                        "Children": [
+                          {
+                            "IsCustomSize": true,
+                            "FontSize": 44,
+                            "LabelText": "￥6000",
+                            "FontResource": {
+                              "Type": "Normal",
+                              "Path": "font/DFYuanW7-GB2312.ttf",
+                              "Plist": ""
+                            },
+                            "HorizontalAlignmentType": "HT_Center",
+                            "VerticalAlignmentType": "VT_Center",
+                            "OutlineColor": {
+                              "R": 169,
+                              "G": 23,
+                              "B": 12
+                            },
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 83.5,
+                              "Y": 38.0
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {
+                              "R": 114,
+                              "G": 69,
+                              "B": 4
+                            },
+                            "IconVisible": false,
+                            "PositionPercentXEnabled": true,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.5,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 1.1976,
+                              "Y": 0.6053
+                            },
+                            "LeftMargin": -16.5,
+                            "RightMargin": -16.5,
+                            "TopMargin": 15.0,
+                            "BottomMargin": 15.0,
+                            "Tag": 1013,
+                            "ActionTag": -1778959054,
+                            "Size": {
+                              "X": 200.0,
+                              "Y": 46.0
+                            },
+                            "Name": "text_rmb",
+                            "ctype": "TextObjectData"
+                          }
+                        ],
+                        "ActionTag": -819380501,
+                        "Size": {
+                          "X": 167.0,
+                          "Y": 76.0
+                        },
+                        "Name": "btn_buy",
+                        "ctype": "ButtonObjectData"
+                      }
+                    ],
+                    "ActionTag": 718238641,
+                    "Size": {
+                      "X": 230.0,
+                      "Y": 248.0
+                    },
+                    "Name": "Image_bg2",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": 1695409987,
+                "Size": {
+                  "X": 700.0,
+                  "Y": 255.0
+                },
+                "Name": "panel_cell",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": -1314568043,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "panel_root",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../Default/Button_Disable.png",
+        "../font/DFYuanW7-GB2312.ttf",
+        "../GameHall/Resoures/common.plist",
+        "../GameHall/Resoures/common.png",
+        "Resoures/large/sss_shop_0.png",
+        "Resoures/large/sss_shop_10.png",
+        "Resoures/large/sss_shop_6.png",
+        "Resoures/large/sss_shop_7.png",
+        "Resoures/large/sss_shop_8.png",
+        "Resoures/large/sss_shop_9.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

@@ -1,0 +1,259 @@
+{
+  "ID": "38822984-15c8-4f33-87fd-0f93ccda7ead",
+  "Version": "2.3.3.0",
+  "Name": "MajhongCardUpShow",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 33,
+        "Children": [
+          {
+            "BackColorAlpha": 0,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 34,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "up0.png",
+                  "Plist": "MajhongBase/Resoures/tileImage.plist"
+                },
+                "Scale9Width": 62,
+                "Scale9Height": 44,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 31.0,
+                  "Y": 22.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PositionPercentXEnabled": true,
+                "PositionPercentYEnabled": true,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.5
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "Tag": 346,
+                "ActionTag": 1405211778,
+                "Size": {
+                  "X": 62.0,
+                  "Y": 44.0
+                },
+                "Name": "image_cardBG",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "mahjong_tile_up_bing_9.png",
+                  "Plist": "MajhongBase/Resoures/tileImage.plist"
+                },
+                "Scale9Width": 29,
+                "Scale9Height": 36,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 16.4915,
+                  "Y": 15.0618
+                },
+                "Scale": {
+                  "ScaleX": 1.05,
+                  "ScaleY": 0.79
+                },
+                "RotationSkewX": -16.0,
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.266,
+                  "Y": 0.3423
+                },
+                "PreSize": {
+                  "X": 0.4677,
+                  "Y": 0.8182
+                },
+                "LeftMargin": 16.4915,
+                "RightMargin": 16.5085,
+                "TopMargin": -7.0618,
+                "BottomMargin": 15.0618,
+                "Tag": 345,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "tileArrow_03.png",
+                      "Plist": "MajhongBase/Resoures/tileImage.plist"
+                    },
+                    "Scale9OriginX": 6,
+                    "Scale9OriginY": 6,
+                    "Scale9Width": 8,
+                    "Scale9Height": 8,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 22.91,
+                      "Y": 7.71
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.79,
+                      "Y": 0.2142
+                    },
+                    "PreSize": {
+                      "X": 0.6897,
+                      "Y": 0.5556
+                    },
+                    "LeftMargin": 12.91,
+                    "RightMargin": -3.91,
+                    "TopMargin": 18.29,
+                    "BottomMargin": -2.29,
+                    "Tag": 91,
+                    "ActionTag": 1456225103,
+                    "Size": {
+                      "X": 20.0,
+                      "Y": 20.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "Image_arrow",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "gold_Icon.png",
+                      "Plist": "MajhongBase/Resoures/table_other.plist"
+                    },
+                    "Scale9Width": 20,
+                    "Scale9Height": 21,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 24.5317,
+                      "Y": 30.1753
+                    },
+                    "Scale": {
+                      "ScaleX": 0.7,
+                      "ScaleY": 0.7
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8459,
+                      "Y": 0.8382
+                    },
+                    "PreSize": {
+                      "X": 0.6897,
+                      "Y": 0.5833
+                    },
+                    "LeftMargin": 14.5317,
+                    "RightMargin": -5.5317,
+                    "TopMargin": -4.6753,
+                    "BottomMargin": 19.6753,
+                    "Tag": 179,
+                    "ActionTag": 644532716,
+                    "Size": {
+                      "X": 20.0,
+                      "Y": 21.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "image_jin",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": -1005666229,
+                "Size": {
+                  "X": 29.0,
+                  "Y": 36.0
+                },
+                "Name": "image_card",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": 566513273,
+            "Size": {
+              "X": 62.0,
+              "Y": 44.0
+            },
+            "Name": "panel_card",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 62.0,
+          "Y": 44.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Resoures/table_other.plist",
+        "Resoures/table_other.png",
+        "Resoures/tileImage.plist",
+        "Resoures/tileImage.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

@@ -1,0 +1,1870 @@
+{
+  "ID": "f7941e38-df55-4e3b-a9f3-75c2f5011414",
+  "Version": "2.3.3.0",
+  "Name": "ClubInputJoinPack",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Children": [
+          {
+            "BackColorAlpha": 63,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PercentWidthEnable": true,
+            "PercentHeightEnable": true,
+            "PercentWidthEnabled": true,
+            "PercentHeightEnabled": true,
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 4,
+            "Children": [
+              {
+                "BackColorAlpha": 0,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "B": 0
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 240.0,
+                  "Y": 50.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1875,
+                  "Y": 0.0694
+                },
+                "PreSize": {
+                  "X": 0.625,
+                  "Y": 0.8333
+                },
+                "LeftMargin": 240.0,
+                "RightMargin": 240.0,
+                "TopMargin": 70.0,
+                "BottomMargin": 50.0,
+                "CallBackType": "Click",
+                "Tag": 978,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "Club/Resoures/large/club_joinbg.png",
+                      "Plist": ""
+                    },
+                    "Scale9OriginX": 42,
+                    "Scale9OriginY": 48,
+                    "Scale9Width": 585,
+                    "Scale9Height": 578,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 400.0,
+                      "Y": 306.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PositionPercentYEnabled": true,
+                    "PrePosition": {
+                      "X": 0.5,
+                      "Y": 0.51
+                    },
+                    "PreSize": {
+                      "X": 0.835,
+                      "Y": 1.1233
+                    },
+                    "LeftMargin": 66.0,
+                    "RightMargin": 66.0,
+                    "TopMargin": -43.0,
+                    "BottomMargin": -31.0,
+                    "CallBackType": "Click",
+                    "Tag": 979,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "suztiao.png",
+                          "Plist": "GameHall/Resoures/pdkjoinroom.plist"
+                        },
+                        "Scale9Width": 64,
+                        "Scale9Height": 64,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 123.0,
+                          "Y": 530.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.1841,
+                          "Y": 0.7864
+                        },
+                        "PreSize": {
+                          "X": 0.0958,
+                          "Y": 0.095
+                        },
+                        "LeftMargin": 91.0,
+                        "RightMargin": 513.0,
+                        "TopMargin": 112.0,
+                        "BottomMargin": 498.0,
+                        "Tag": 980,
+                        "Children": [
+                          {
+                            "CharWidth": 33,
+                            "CharHeight": 42,
+                            "LabelText": "9",
+                            "StartChar": "0",
+                            "LabelAtlasFileImage_CNB": {
+                              "Type": "Normal",
+                              "Path": "font/qd_joinshuzi.png",
+                              "Plist": ""
+                            },
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 32.0,
+                              "Y": 32.0
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PositionPercentXEnabled": true,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.5,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.5156,
+                              "Y": 0.6563
+                            },
+                            "LeftMargin": 15.5,
+                            "RightMargin": 15.5,
+                            "TopMargin": 11.0,
+                            "BottomMargin": 11.0,
+                            "Tag": 981,
+                            "ActionTag": -848133354,
+                            "Size": {
+                              "X": 33.0,
+                              "Y": 42.0
+                            },
+                            "Name": "text0",
+                            "ctype": "TextAtlasObjectData"
+                          }
+                        ],
+                        "ActionTag": 482093607,
+                        "Size": {
+                          "X": 64.0,
+                          "Y": 64.0
+                        },
+                        "Name": "Image_2",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "suztiao.png",
+                          "Plist": "GameHall/Resoures/pdkjoinroom.plist"
+                        },
+                        "Scale9Width": 64,
+                        "Scale9Height": 64,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 192.9998,
+                          "Y": 529.9999
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.2889,
+                          "Y": 0.7863
+                        },
+                        "PreSize": {
+                          "X": 0.0958,
+                          "Y": 0.095
+                        },
+                        "LeftMargin": 160.9998,
+                        "RightMargin": 443.0002,
+                        "TopMargin": 112.0001,
+                        "BottomMargin": 497.9999,
+                        "Tag": 982,
+                        "Children": [
+                          {
+                            "CharWidth": 33,
+                            "CharHeight": 42,
+                            "LabelText": "9",
+                            "StartChar": "0",
+                            "LabelAtlasFileImage_CNB": {
+                              "Type": "Normal",
+                              "Path": "font/qd_joinshuzi.png",
+                              "Plist": ""
+                            },
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 32.0,
+                              "Y": 32.0
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PositionPercentXEnabled": true,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.5,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.5156,
+                              "Y": 0.6563
+                            },
+                            "LeftMargin": 15.5,
+                            "RightMargin": 15.5,
+                            "TopMargin": 11.0,
+                            "BottomMargin": 11.0,
+                            "Tag": 983,
+                            "ActionTag": -286496729,
+                            "Size": {
+                              "X": 33.0,
+                              "Y": 42.0
+                            },
+                            "Name": "text1",
+                            "ctype": "TextAtlasObjectData"
+                          }
+                        ],
+                        "ActionTag": 1463988912,
+                        "Size": {
+                          "X": 64.0,
+                          "Y": 64.0
+                        },
+                        "Name": "Image_2_0",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "suztiao.png",
+                          "Plist": "GameHall/Resoures/pdkjoinroom.plist"
+                        },
+                        "Scale9Width": 64,
+                        "Scale9Height": 64,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 262.9997,
+                          "Y": 529.9999
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.3937,
+                          "Y": 0.7863
+                        },
+                        "PreSize": {
+                          "X": 0.0958,
+                          "Y": 0.095
+                        },
+                        "LeftMargin": 230.9997,
+                        "RightMargin": 373.0003,
+                        "TopMargin": 112.0001,
+                        "BottomMargin": 497.9999,
+                        "Tag": 984,
+                        "Children": [
+                          {
+                            "CharWidth": 33,
+                            "CharHeight": 42,
+                            "LabelText": "9",
+                            "StartChar": "0",
+                            "LabelAtlasFileImage_CNB": {
+                              "Type": "Normal",
+                              "Path": "font/qd_joinshuzi.png",
+                              "Plist": ""
+                            },
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 32.0,
+                              "Y": 32.0
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PositionPercentXEnabled": true,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.5,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.5156,
+                              "Y": 0.6563
+                            },
+                            "LeftMargin": 15.5,
+                            "RightMargin": 15.5,
+                            "TopMargin": 11.0,
+                            "BottomMargin": 11.0,
+                            "Tag": 985,
+                            "ActionTag": 1917458720,
+                            "Size": {
+                              "X": 33.0,
+                              "Y": 42.0
+                            },
+                            "Name": "text2",
+                            "ctype": "TextAtlasObjectData"
+                          }
+                        ],
+                        "ActionTag": 1154934836,
+                        "Size": {
+                          "X": 64.0,
+                          "Y": 64.0
+                        },
+                        "Name": "Image_2_1",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "suztiao.png",
+                          "Plist": "GameHall/Resoures/pdkjoinroom.plist"
+                        },
+                        "Scale9Width": 64,
+                        "Scale9Height": 64,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 332.9995,
+                          "Y": 529.9999
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.4985,
+                          "Y": 0.7863
+                        },
+                        "PreSize": {
+                          "X": 0.0958,
+                          "Y": 0.095
+                        },
+                        "LeftMargin": 300.9995,
+                        "RightMargin": 303.0005,
+                        "TopMargin": 112.0001,
+                        "BottomMargin": 497.9999,
+                        "Tag": 986,
+                        "Children": [
+                          {
+                            "CharWidth": 33,
+                            "CharHeight": 42,
+                            "LabelText": "9",
+                            "StartChar": "0",
+                            "LabelAtlasFileImage_CNB": {
+                              "Type": "Normal",
+                              "Path": "font/qd_joinshuzi.png",
+                              "Plist": ""
+                            },
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 32.0,
+                              "Y": 32.0
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PositionPercentXEnabled": true,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.5,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.5156,
+                              "Y": 0.6563
+                            },
+                            "LeftMargin": 15.5,
+                            "RightMargin": 15.5,
+                            "TopMargin": 11.0,
+                            "BottomMargin": 11.0,
+                            "Tag": 987,
+                            "ActionTag": -829952489,
+                            "Size": {
+                              "X": 33.0,
+                              "Y": 42.0
+                            },
+                            "Name": "text3",
+                            "ctype": "TextAtlasObjectData"
+                          }
+                        ],
+                        "ActionTag": -987389466,
+                        "Size": {
+                          "X": 64.0,
+                          "Y": 64.0
+                        },
+                        "Name": "Image_2_2",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "suztiao.png",
+                          "Plist": "GameHall/Resoures/pdkjoinroom.plist"
+                        },
+                        "Scale9Width": 64,
+                        "Scale9Height": 64,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 402.9993,
+                          "Y": 529.9999
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.6033,
+                          "Y": 0.7863
+                        },
+                        "PreSize": {
+                          "X": 0.0958,
+                          "Y": 0.095
+                        },
+                        "LeftMargin": 370.9993,
+                        "RightMargin": 233.0007,
+                        "TopMargin": 112.0001,
+                        "BottomMargin": 497.9999,
+                        "Tag": 988,
+                        "Children": [
+                          {
+                            "CharWidth": 33,
+                            "CharHeight": 42,
+                            "LabelText": "9",
+                            "StartChar": "0",
+                            "LabelAtlasFileImage_CNB": {
+                              "Type": "Normal",
+                              "Path": "font/qd_joinshuzi.png",
+                              "Plist": ""
+                            },
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 32.0,
+                              "Y": 32.0
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PositionPercentXEnabled": true,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.5,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.5156,
+                              "Y": 0.6563
+                            },
+                            "LeftMargin": 15.5,
+                            "RightMargin": 15.5,
+                            "TopMargin": 11.0,
+                            "BottomMargin": 11.0,
+                            "Tag": 989,
+                            "ActionTag": -35015889,
+                            "Size": {
+                              "X": 33.0,
+                              "Y": 42.0
+                            },
+                            "Name": "text4",
+                            "ctype": "TextAtlasObjectData"
+                          }
+                        ],
+                        "ActionTag": -773116637,
+                        "Size": {
+                          "X": 64.0,
+                          "Y": 64.0
+                        },
+                        "Name": "Image_2_3",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "suztiao.png",
+                          "Plist": "GameHall/Resoures/pdkjoinroom.plist"
+                        },
+                        "Scale9Width": 64,
+                        "Scale9Height": 64,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 472.9991,
+                          "Y": 529.9999
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.7081,
+                          "Y": 0.7863
+                        },
+                        "PreSize": {
+                          "X": 0.0958,
+                          "Y": 0.095
+                        },
+                        "LeftMargin": 440.9991,
+                        "RightMargin": 163.0009,
+                        "TopMargin": 112.0001,
+                        "BottomMargin": 497.9999,
+                        "Tag": 990,
+                        "Children": [
+                          {
+                            "CharWidth": 33,
+                            "CharHeight": 42,
+                            "LabelText": "9",
+                            "StartChar": "0",
+                            "LabelAtlasFileImage_CNB": {
+                              "Type": "Normal",
+                              "Path": "font/qd_joinshuzi.png",
+                              "Plist": ""
+                            },
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 32.0,
+                              "Y": 32.0
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PositionPercentXEnabled": true,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.5,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.5156,
+                              "Y": 0.6563
+                            },
+                            "LeftMargin": 15.5,
+                            "RightMargin": 15.5,
+                            "TopMargin": 11.0,
+                            "BottomMargin": 11.0,
+                            "Tag": 991,
+                            "ActionTag": -2033333410,
+                            "Size": {
+                              "X": 33.0,
+                              "Y": 42.0
+                            },
+                            "Name": "text5",
+                            "ctype": "TextAtlasObjectData"
+                          }
+                        ],
+                        "ActionTag": 216568010,
+                        "Size": {
+                          "X": 64.0,
+                          "Y": 64.0
+                        },
+                        "Name": "Image_2_4",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "suztiao.png",
+                          "Plist": "GameHall/Resoures/pdkjoinroom.plist"
+                        },
+                        "Scale9Width": 64,
+                        "Scale9Height": 64,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 542.9989,
+                          "Y": 529.9999
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.8129,
+                          "Y": 0.7863
+                        },
+                        "PreSize": {
+                          "X": 0.0958,
+                          "Y": 0.095
+                        },
+                        "LeftMargin": 510.9989,
+                        "RightMargin": 93.0011,
+                        "TopMargin": 112.0001,
+                        "BottomMargin": 497.9999,
+                        "Tag": 341,
+                        "Children": [
+                          {
+                            "CharWidth": 33,
+                            "CharHeight": 42,
+                            "LabelText": "9",
+                            "StartChar": "0",
+                            "LabelAtlasFileImage_CNB": {
+                              "Type": "Normal",
+                              "Path": "font/qd_joinshuzi.png",
+                              "Plist": ""
+                            },
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 32.0,
+                              "Y": 32.0
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PositionPercentXEnabled": true,
+                            "PositionPercentYEnabled": true,
+                            "PrePosition": {
+                              "X": 0.5,
+                              "Y": 0.5
+                            },
+                            "PreSize": {
+                              "X": 0.5156,
+                              "Y": 0.6563
+                            },
+                            "LeftMargin": 15.5,
+                            "RightMargin": 15.5,
+                            "TopMargin": 11.0,
+                            "BottomMargin": 11.0,
+                            "Tag": 342,
+                            "ActionTag": 834216068,
+                            "Size": {
+                              "X": 33.0,
+                              "Y": 42.0
+                            },
+                            "Name": "text6",
+                            "ctype": "TextAtlasObjectData"
+                          }
+                        ],
+                        "ActionTag": -463069295,
+                        "Size": {
+                          "X": 64.0,
+                          "Y": 64.0
+                        },
+                        "Name": "Image_2_4_0",
+                        "ctype": "ImageViewObjectData"
+                      }
+                    ],
+                    "ActionTag": -1425092689,
+                    "Size": {
+                      "X": 668.0,
+                      "Y": 674.0
+                    },
+                    "Name": "Image_bg",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FontSize": 26,
+                    "LabelText": "请输入俱乐部ID",
+                    "FontResource": {
+                      "Type": "Normal",
+                      "Path": "font/DFYuanW7-GB2312.ttf",
+                      "Plist": ""
+                    },
+                    "HorizontalAlignmentType": "HT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 392.0,
+                      "Y": 590.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 108,
+                      "G": 58,
+                      "B": 34
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.49,
+                      "Y": 0.9833
+                    },
+                    "PreSize": {
+                      "X": 0.2313,
+                      "Y": 0.0433
+                    },
+                    "LeftMargin": 299.5,
+                    "RightMargin": 315.5,
+                    "TopMargin": -3.0,
+                    "BottomMargin": 577.0,
+                    "Tag": 311,
+                    "ActionTag": -2077978279,
+                    "Size": {
+                      "X": 185.0,
+                      "Y": 26.0
+                    },
+                    "Name": "text_tip",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "num1.png",
+                      "Plist": "GameHall/Resoures/pdkjoinroom.plist"
+                    },
+                    "PressedFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "num1.png",
+                      "Plist": "GameHall/Resoures/pdkjoinroom.plist"
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "num1.png",
+                      "Plist": "GameHall/Resoures/pdkjoinroom.plist"
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 112,
+                    "Scale9Height": 56,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 227.0,
+                      "Y": 373.16
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2837,
+                      "Y": 0.6219
+                    },
+                    "PreSize": {
+                      "X": 0.1775,
+                      "Y": 0.13
+                    },
+                    "LeftMargin": 156.0,
+                    "RightMargin": 502.0,
+                    "TopMargin": 187.84,
+                    "BottomMargin": 334.16,
+                    "Tag": 992,
+                    "ActionTag": 851634491,
+                    "Size": {
+                      "X": 142.0,
+                      "Y": 78.0
+                    },
+                    "Name": "btn_1",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "num2.png",
+                      "Plist": "GameHall/Resoures/pdkjoinroom.plist"
+                    },
+                    "PressedFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "num2.png",
+                      "Plist": "GameHall/Resoures/pdkjoinroom.plist"
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "num2.png",
+                      "Plist": "GameHall/Resoures/pdkjoinroom.plist"
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 112,
+                    "Scale9Height": 56,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 408.0,
+                      "Y": 373.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.51,
+                      "Y": 0.6217
+                    },
+                    "PreSize": {
+                      "X": 0.1775,
+                      "Y": 0.13
+                    },
+                    "LeftMargin": 337.0,
+                    "RightMargin": 321.0,
+                    "TopMargin": 188.0,
+                    "BottomMargin": 334.0,
+                    "Tag": 993,
+                    "ActionTag": 771223020,
+                    "Size": {
+                      "X": 142.0,
+                      "Y": 78.0
+                    },
+                    "Name": "btn_2",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "num3.png",
+                      "Plist": "GameHall/Resoures/pdkjoinroom.plist"
+                    },
+                    "PressedFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "num3.png",
+                      "Plist": "GameHall/Resoures/pdkjoinroom.plist"
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "num3.png",
+                      "Plist": "GameHall/Resoures/pdkjoinroom.plist"
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 112,
+                    "Scale9Height": 56,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 590.0,
+                      "Y": 373.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7375,
+                      "Y": 0.6217
+                    },
+                    "PreSize": {
+                      "X": 0.1775,
+                      "Y": 0.13
+                    },
+                    "LeftMargin": 519.0,
+                    "RightMargin": 139.0,
+                    "TopMargin": 188.0,
+                    "BottomMargin": 334.0,
+                    "Tag": 994,
+                    "ActionTag": -1019209365,
+                    "Size": {
+                      "X": 142.0,
+                      "Y": 78.0
+                    },
+                    "Name": "btn_3",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "num4.png",
+                      "Plist": "GameHall/Resoures/pdkjoinroom.plist"
+                    },
+                    "PressedFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "num4.png",
+                      "Plist": "GameHall/Resoures/pdkjoinroom.plist"
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "num4.png",
+                      "Plist": "GameHall/Resoures/pdkjoinroom.plist"
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 112,
+                    "Scale9Height": 56,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 227.0,
+                      "Y": 262.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2837,
+                      "Y": 0.4367
+                    },
+                    "PreSize": {
+                      "X": 0.1775,
+                      "Y": 0.13
+                    },
+                    "LeftMargin": 156.0,
+                    "RightMargin": 502.0,
+                    "TopMargin": 299.0,
+                    "BottomMargin": 223.0,
+                    "Tag": 995,
+                    "ActionTag": -1060633138,
+                    "Size": {
+                      "X": 142.0,
+                      "Y": 78.0
+                    },
+                    "Name": "btn_4",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "num5.png",
+                      "Plist": "GameHall/Resoures/pdkjoinroom.plist"
+                    },
+                    "PressedFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "num5.png",
+                      "Plist": "GameHall/Resoures/pdkjoinroom.plist"
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "num5.png",
+                      "Plist": "GameHall/Resoures/pdkjoinroom.plist"
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 112,
+                    "Scale9Height": 56,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 408.0,
+                      "Y": 262.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.51,
+                      "Y": 0.4367
+                    },
+                    "PreSize": {
+                      "X": 0.1775,
+                      "Y": 0.13
+                    },
+                    "LeftMargin": 337.0,
+                    "RightMargin": 321.0,
+                    "TopMargin": 299.0,
+                    "BottomMargin": 223.0,
+                    "Tag": 996,
+                    "ActionTag": 1345059913,
+                    "Size": {
+                      "X": 142.0,
+                      "Y": 78.0
+                    },
+                    "Name": "btn_5",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "num6.png",
+                      "Plist": "GameHall/Resoures/pdkjoinroom.plist"
+                    },
+                    "PressedFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "num6.png",
+                      "Plist": "GameHall/Resoures/pdkjoinroom.plist"
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "num6.png",
+                      "Plist": "GameHall/Resoures/pdkjoinroom.plist"
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 112,
+                    "Scale9Height": 56,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 590.0,
+                      "Y": 262.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7375,
+                      "Y": 0.4367
+                    },
+                    "PreSize": {
+                      "X": 0.1775,
+                      "Y": 0.13
+                    },
+                    "LeftMargin": 519.0,
+                    "RightMargin": 139.0,
+                    "TopMargin": 299.0,
+                    "BottomMargin": 223.0,
+                    "Tag": 997,
+                    "ActionTag": 115546285,
+                    "Size": {
+                      "X": 142.0,
+                      "Y": 78.0
+                    },
+                    "Name": "btn_6",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "num7.png",
+                      "Plist": "GameHall/Resoures/pdkjoinroom.plist"
+                    },
+                    "PressedFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "num7.png",
+                      "Plist": "GameHall/Resoures/pdkjoinroom.plist"
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "num7.png",
+                      "Plist": "GameHall/Resoures/pdkjoinroom.plist"
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 112,
+                    "Scale9Height": 56,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 227.0,
+                      "Y": 153.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2837,
+                      "Y": 0.255
+                    },
+                    "PreSize": {
+                      "X": 0.1775,
+                      "Y": 0.13
+                    },
+                    "LeftMargin": 156.0,
+                    "RightMargin": 502.0,
+                    "TopMargin": 408.0,
+                    "BottomMargin": 114.0,
+                    "Tag": 998,
+                    "ActionTag": -298948847,
+                    "Size": {
+                      "X": 142.0,
+                      "Y": 78.0
+                    },
+                    "Name": "btn_7",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "num8.png",
+                      "Plist": "GameHall/Resoures/pdkjoinroom.plist"
+                    },
+                    "PressedFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "num8.png",
+                      "Plist": "GameHall/Resoures/pdkjoinroom.plist"
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "num8.png",
+                      "Plist": "GameHall/Resoures/pdkjoinroom.plist"
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 112,
+                    "Scale9Height": 56,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 408.0,
+                      "Y": 153.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.51,
+                      "Y": 0.255
+                    },
+                    "PreSize": {
+                      "X": 0.1775,
+                      "Y": 0.13
+                    },
+                    "LeftMargin": 337.0,
+                    "RightMargin": 321.0,
+                    "TopMargin": 408.0,
+                    "BottomMargin": 114.0,
+                    "Tag": 999,
+                    "ActionTag": 1335983564,
+                    "Size": {
+                      "X": 142.0,
+                      "Y": 78.0
+                    },
+                    "Name": "btn_8",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "num9.png",
+                      "Plist": "GameHall/Resoures/pdkjoinroom.plist"
+                    },
+                    "PressedFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "num9.png",
+                      "Plist": "GameHall/Resoures/pdkjoinroom.plist"
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "num9.png",
+                      "Plist": "GameHall/Resoures/pdkjoinroom.plist"
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 112,
+                    "Scale9Height": 56,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 588.96,
+                      "Y": 153.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.7362,
+                      "Y": 0.255
+                    },
+                    "PreSize": {
+                      "X": 0.1775,
+                      "Y": 0.13
+                    },
+                    "LeftMargin": 517.96,
+                    "RightMargin": 140.04,
+                    "TopMargin": 408.0,
+                    "BottomMargin": 114.0,
+                    "Tag": 1000,
+                    "ActionTag": 1481098574,
+                    "Size": {
+                      "X": 142.0,
+                      "Y": 78.0
+                    },
+                    "Name": "btn_9",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "num0.png",
+                      "Plist": "GameHall/Resoures/pdkjoinroom.plist"
+                    },
+                    "PressedFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "num0.png",
+                      "Plist": "GameHall/Resoures/pdkjoinroom.plist"
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "num0.png",
+                      "Plist": "GameHall/Resoures/pdkjoinroom.plist"
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 8,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 126,
+                    "Scale9Height": 56,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 408.0,
+                      "Y": 43.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.51,
+                      "Y": 0.0717
+                    },
+                    "PreSize": {
+                      "X": 0.1775,
+                      "Y": 0.13
+                    },
+                    "LeftMargin": 337.0,
+                    "RightMargin": 321.0,
+                    "TopMargin": 518.0,
+                    "BottomMargin": 4.0,
+                    "Tag": 1001,
+                    "ActionTag": 1657249967,
+                    "Size": {
+                      "X": 142.0,
+                      "Y": 78.0
+                    },
+                    "Name": "btn_0",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "nx_joindel.png",
+                      "Plist": "GameHall/Resoures/pdkjoinroom.plist"
+                    },
+                    "PressedFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "nx_joindel.png",
+                      "Plist": "GameHall/Resoures/pdkjoinroom.plist"
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "nx_joindel.png",
+                      "Plist": "GameHall/Resoures/pdkjoinroom.plist"
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 112,
+                    "Scale9Height": 56,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 589.4259,
+                      "Y": 43.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7368,
+                      "Y": 0.0717
+                    },
+                    "PreSize": {
+                      "X": 0.1775,
+                      "Y": 0.13
+                    },
+                    "LeftMargin": 518.4259,
+                    "RightMargin": 139.5741,
+                    "TopMargin": 518.0,
+                    "BottomMargin": 4.0,
+                    "Tag": 1002,
+                    "ActionTag": 638121520,
+                    "Size": {
+                      "X": 142.0,
+                      "Y": 78.0
+                    },
+                    "Name": "btn_del",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "sanchu.png",
+                      "Plist": "GameHall/Resoures/pdkjoinroom.plist"
+                    },
+                    "PressedFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "sanchu.png",
+                      "Plist": "GameHall/Resoures/pdkjoinroom.plist"
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "sanchu.png",
+                      "Plist": "GameHall/Resoures/pdkjoinroom.plist"
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 112,
+                    "Scale9Height": 56,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 229.36,
+                      "Y": 43.0
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PositionPercentXEnabled": true,
+                    "PrePosition": {
+                      "X": 0.2867,
+                      "Y": 0.0717
+                    },
+                    "PreSize": {
+                      "X": 0.1775,
+                      "Y": 0.13
+                    },
+                    "LeftMargin": 158.36,
+                    "RightMargin": 499.64,
+                    "TopMargin": 518.0,
+                    "BottomMargin": 4.0,
+                    "Tag": 1003,
+                    "ActionTag": -190691964,
+                    "Size": {
+                      "X": 142.0,
+                      "Y": 78.0
+                    },
+                    "Name": "btn_reset",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "nx_exit1.png",
+                      "Plist": "GameHall/Resoures/nxGameUI.plist"
+                    },
+                    "PressedFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "nx_exit1.png",
+                      "Plist": "GameHall/Resoures/nxGameUI.plist"
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "nx_exit0.png",
+                      "Plist": "GameHall/Resoures/nxGameUI.plist"
+                    },
+                    "Scale9Width": 95,
+                    "Scale9Height": 94,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 730.9936,
+                      "Y": 619.5234
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.9137,
+                      "Y": 1.0325
+                    },
+                    "PreSize": {
+                      "X": 0.1187,
+                      "Y": 0.1567
+                    },
+                    "LeftMargin": 683.4936,
+                    "RightMargin": 21.5064,
+                    "TopMargin": -66.5234,
+                    "BottomMargin": 572.5234,
+                    "Tag": 1004,
+                    "ActionTag": 1808916090,
+                    "Size": {
+                      "X": 95.0,
+                      "Y": 94.0
+                    },
+                    "Name": "btn_close",
+                    "ctype": "ButtonObjectData"
+                  }
+                ],
+                "ActionTag": -84367711,
+                "Size": {
+                  "X": 800.0,
+                  "Y": 600.0
+                },
+                "Name": "panel_room",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": -997141541,
+            "Size": {
+              "X": 1280.0,
+              "Y": 720.0
+            },
+            "Name": "panel_root",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 1280.0,
+          "Y": 720.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "../font/DFYuanW7-GB2312.ttf",
+        "../font/qd_joinshuzi.png",
+        "../GameHall/Resoures/nxGameUI.plist",
+        "../GameHall/Resoures/nxGameUI.png",
+        "../GameHall/Resoures/pdkjoinroom.plist",
+        "../GameHall/Resoures/pdkjoinroom.png",
+        "Resoures/large/club_joinbg.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}
