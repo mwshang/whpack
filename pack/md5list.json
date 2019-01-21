@@ -1008,5 +1008,6 @@
     "src/qp/event.js": "142c99e5f7ef9f6b3ecdcbf79a4b6fa9",
     "src/qp/net.js": "2ae3b130f2de96ba020bfdd87058f59b",
     "src/qp/qp.js": "2cd47fba2b5775b001021c0f6ee98a2b",
-    "src/servers.js": "6668342a83c8882a5ea91f89a5b223f9"
+    "src/servers.js": "6668342a83c8882a5ea91f89a5b223f9",
+    "res/PokerSSS/Resoures/large/digkuang.png": "33744c0aa0b7375ffeff2ba3f95f8988"
 }
