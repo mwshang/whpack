@@ -90,6 +90,8 @@ var clubLayer = cc.Layer.extend(
             //     this.onAutoJoin();
             // }.bind(this));
 
+            btn_create.setPositionX(btn_auto_join.getPositionX())
+
             this.pid = data.pid;
             this.pack_info = data;
             this.ownerUid = data.ownerUid;
