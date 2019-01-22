@@ -433,7 +433,6 @@ var clubLayer = cc.Layer.extend(
         },
         sortListRoom: function () {
             this.table_list = this.table_list.sort(function (a, b) {
-                // return a.state.gameState - b.state.gameState;
                 if (a.state.gameState > b.state.gameState) return 1;
                 if (a.state.isAuto > b.state.isAuto) return -1;
                 return 0;
