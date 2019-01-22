@@ -2,11 +2,12 @@
     "packageUrl": "http://wuhanqipai.oss-cn-hangzhou.aliyuncs.com/qipai",
     "remoteManifestUrl": "http://wuhanqipai.oss-cn-hangzhou.aliyuncs.com/qipai/project.manifest",
     "remoteVersionUrl": "http://wuhanqipai.oss-cn-hangzhou.aliyuncs.com/qipai/version.manifest",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "groupVersions": {
         "1": "1.0.1",
         "2": "1.0.2",
-        "3": "1.0.3"
+        "3": "1.0.3",
+        "4": "1.0.4"
     },
     "engineVersion": "3.8",
     "assets": {
@@ -27,6 +28,12 @@
             "md5": "f5ee31f4e229f025ae162c2f6fcdadd6",
             "compressed": true,
             "group": "3"
+        },
+        "src104": {
+            "path": "src_104.zip",
+            "md5": "c5c91820d04269029b71c4c53af39d14",
+            "compressed": true,
+            "group": "4"
         }
     },
     "searchPaths": []
